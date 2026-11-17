@@ -7,6 +7,7 @@ from src.data_process.obra_publica_processing import process_obres_espai_public
 from src.data_process.parcs_jardins_preprocessing import process_parcs_jardins
 from src.data_process.nacionalitat_preprocessing import nationality_processing
 from src.data_process.vehicle_preprocessing import vehicle_processing
+from src.data_process.edat_preprocessing import age_processing
 from src.data_process import utils
 
 
@@ -70,6 +71,7 @@ SINGLE_FILE_PROCESSORS = {
 FOLDER_PROCESSORS = {
     "vehicles": vehicle_processing,
     "nationality": nationality_processing,
+    "age": age_processing,
 }
 
 
