@@ -1,0 +1,15 @@
+input_file: data/raw/factors_socials/nacionalitat_barris
+output_file: data/processed/factors_socials/Nacionalitat_Barris.csv
+dictionary_file: data/raw/factors_socials/Dict_dimensions.csv
+
+# Options: folder/single_file
+type: folder
+# Options: basic/public_works/parks/vehicles/nationality/education/healthcare
+processor: nationality
+
+csv:
+  separator: ","
+  encoding: cp1252
+  null_values:
+    - ".."
+    - ""

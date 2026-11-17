@@ -1,0 +1,2570 @@
+Data_Referencia,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Valor,NACIONALITAT_REGIO,SEXE
+2018-01-01,1,Ciutat Vella,1,el Raval,6,1,1
+2018-01-01,1,Ciutat Vella,1,el Raval,6,1,2
+2018-01-01,1,Ciutat Vella,1,el Raval,6,2,1
+2018-01-01,1,Ciutat Vella,1,el Raval,16,2,2
+2018-01-01,1,Ciutat Vella,1,el Raval,638,3,1
+2018-01-01,1,Ciutat Vella,1,el Raval,931,3,2
+2018-01-01,1,Ciutat Vella,1,el Raval,..,4,1
+2018-01-01,1,Ciutat Vella,1,el Raval,7,4,2
+2018-01-01,1,Ciutat Vella,1,el Raval,66,5,1
+2018-01-01,1,Ciutat Vella,1,el Raval,130,5,2
+2018-01-01,1,Ciutat Vella,1,el Raval,131,6,1
+2018-01-01,1,Ciutat Vella,1,el Raval,134,6,2
+2018-01-01,1,Ciutat Vella,1,el Raval,231,7,1
+2018-01-01,1,Ciutat Vella,1,el Raval,198,7,2
+2018-01-01,1,Ciutat Vella,1,el Raval,1048,8,1
+2018-01-01,1,Ciutat Vella,1,el Raval,1082,8,2
+2018-01-01,1,Ciutat Vella,1,el Raval,129,9,1
+2018-01-01,1,Ciutat Vella,1,el Raval,135,9,2
+2018-01-01,1,Ciutat Vella,1,el Raval,..,10,1
+2018-01-01,1,Ciutat Vella,1,el Raval,9,10,2
+2018-01-01,1,Ciutat Vella,1,el Raval,218,11,1
+2018-01-01,1,Ciutat Vella,1,el Raval,175,11,2
+2018-01-01,1,Ciutat Vella,1,el Raval,2429,12,1
+2018-01-01,1,Ciutat Vella,1,el Raval,6180,12,2
+2018-01-01,1,Ciutat Vella,1,el Raval,2225,13,1
+2018-01-01,1,Ciutat Vella,1,el Raval,1827,13,2
+2018-01-01,1,Ciutat Vella,1,el Raval,165,14,1
+2018-01-01,1,Ciutat Vella,1,el Raval,250,14,2
+2018-01-01,1,Ciutat Vella,1,el Raval,530,15,1
+2018-01-01,1,Ciutat Vella,1,el Raval,348,15,2
+2018-01-01,1,Ciutat Vella,1,el Raval,430,16,1
+2018-01-01,1,Ciutat Vella,1,el Raval,466,16,2
+2018-01-01,1,Ciutat Vella,1,el Raval,12923,17,1
+2018-01-01,1,Ciutat Vella,1,el Raval,12870,17,2
+2018-01-01,1,Ciutat Vella,1,el Raval,746,18,1
+2018-01-01,1,Ciutat Vella,1,el Raval,788,18,2
+2018-01-01,1,Ciutat Vella,1,el Raval,10,19,1
+2018-01-01,1,Ciutat Vella,1,el Raval,17,19,2
+2018-01-01,1,Ciutat Vella,1,el Raval,6,23,1
+2018-01-01,1,Ciutat Vella,1,el Raval,..,23,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,1,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,5,1,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,6,2,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,5,2,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,159,3,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,320,3,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,4,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,5,4,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,25,5,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,113,5,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,45,6,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,37,6,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,164,7,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,91,7,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,546,8,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,532,8,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,128,9,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,111,9,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,10,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,7,10,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,125,11,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,118,11,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,277,12,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,1453,12,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,195,13,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,121,13,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,89,14,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,124,14,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,333,15,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,238,15,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,322,16,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,328,16,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,4887,17,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,4899,17,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,563,18,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,610,18,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,20,19,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,19,2
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,23,1
+2018-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,23,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,..,1,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,..,1,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,..,2,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,165,3,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,230,3,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,..,4,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,..,4,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,8,5,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,26,5,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,41,6,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,33,6,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,76,7,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,66,7,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,464,8,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,441,8,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,63,9,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,57,9,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,6,10,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,..,10,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,43,11,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,32,11,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,104,12,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,443,12,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,18,13,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,14,13,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,57,14,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,57,14,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,350,15,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,197,15,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,225,16,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,208,16,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,5499,17,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,5257,17,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,346,18,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,321,18,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,15,19,1
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,15,19,2
+2018-01-01,1,Ciutat Vella,3,la Barceloneta,..,23,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,1,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",5,1,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,2,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,2,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",227,3,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",605,3,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,4,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",6,4,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",12,5,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",112,5,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",90,6,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",81,6,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",182,7,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",125,7,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",731,8,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",609,8,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",193,9,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",167,9,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",11,10,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",8,10,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",236,11,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",209,11,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",163,12,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",404,12,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",166,13,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",135,13,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",104,14,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",127,14,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",432,15,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",219,15,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",432,16,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",445,16,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",7584,17,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",7230,17,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",748,18,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",755,18,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,19,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,19,2
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,23,1
+2018-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,23,2
+2018-01-01,2,Eixample,5,el Fort Pienc,6,1,1
+2018-01-01,2,Eixample,5,el Fort Pienc,..,1,2
+2018-01-01,2,Eixample,5,el Fort Pienc,5,2,1
+2018-01-01,2,Eixample,5,el Fort Pienc,5,2,2
+2018-01-01,2,Eixample,5,el Fort Pienc,77,3,1
+2018-01-01,2,Eixample,5,el Fort Pienc,138,3,2
+2018-01-01,2,Eixample,5,el Fort Pienc,..,4,1
+2018-01-01,2,Eixample,5,el Fort Pienc,..,4,2
+2018-01-01,2,Eixample,5,el Fort Pienc,29,5,1
+2018-01-01,2,Eixample,5,el Fort Pienc,41,5,2
+2018-01-01,2,Eixample,5,el Fort Pienc,74,6,1
+2018-01-01,2,Eixample,5,el Fort Pienc,62,6,2
+2018-01-01,2,Eixample,5,el Fort Pienc,221,7,1
+2018-01-01,2,Eixample,5,el Fort Pienc,109,7,2
+2018-01-01,2,Eixample,5,el Fort Pienc,795,8,1
+2018-01-01,2,Eixample,5,el Fort Pienc,679,8,2
+2018-01-01,2,Eixample,5,el Fort Pienc,54,9,1
+2018-01-01,2,Eixample,5,el Fort Pienc,63,9,2
+2018-01-01,2,Eixample,5,el Fort Pienc,8,10,1
+2018-01-01,2,Eixample,5,el Fort Pienc,..,10,2
+2018-01-01,2,Eixample,5,el Fort Pienc,699,11,1
+2018-01-01,2,Eixample,5,el Fort Pienc,660,11,2
+2018-01-01,2,Eixample,5,el Fort Pienc,80,12,1
+2018-01-01,2,Eixample,5,el Fort Pienc,253,12,2
+2018-01-01,2,Eixample,5,el Fort Pienc,35,13,1
+2018-01-01,2,Eixample,5,el Fort Pienc,27,13,2
+2018-01-01,2,Eixample,5,el Fort Pienc,80,14,1
+2018-01-01,2,Eixample,5,el Fort Pienc,83,14,2
+2018-01-01,2,Eixample,5,el Fort Pienc,351,15,1
+2018-01-01,2,Eixample,5,el Fort Pienc,206,15,2
+2018-01-01,2,Eixample,5,el Fort Pienc,171,16,1
+2018-01-01,2,Eixample,5,el Fort Pienc,189,16,2
+2018-01-01,2,Eixample,5,el Fort Pienc,13787,17,1
+2018-01-01,2,Eixample,5,el Fort Pienc,12194,17,2
+2018-01-01,2,Eixample,5,el Fort Pienc,483,18,1
+2018-01-01,2,Eixample,5,el Fort Pienc,474,18,2
+2018-01-01,2,Eixample,5,el Fort Pienc,..,19,1
+2018-01-01,2,Eixample,5,el Fort Pienc,5,19,2
+2018-01-01,2,Eixample,5,el Fort Pienc,..,23,1
+2018-01-01,2,Eixample,5,el Fort Pienc,7,23,2
+2018-01-01,2,Eixample,6,la Sagrada Família,..,1,1
+2018-01-01,2,Eixample,6,la Sagrada Família,..,1,2
+2018-01-01,2,Eixample,6,la Sagrada Família,..,2,1
+2018-01-01,2,Eixample,6,la Sagrada Família,9,2,2
+2018-01-01,2,Eixample,6,la Sagrada Família,141,3,1
+2018-01-01,2,Eixample,6,la Sagrada Família,213,3,2
+2018-01-01,2,Eixample,6,la Sagrada Família,..,4,1
+2018-01-01,2,Eixample,6,la Sagrada Família,..,4,2
+2018-01-01,2,Eixample,6,la Sagrada Família,29,5,1
+2018-01-01,2,Eixample,6,la Sagrada Família,43,5,2
+2018-01-01,2,Eixample,6,la Sagrada Família,137,6,1
+2018-01-01,2,Eixample,6,la Sagrada Família,112,6,2
+2018-01-01,2,Eixample,6,la Sagrada Família,401,7,1
+2018-01-01,2,Eixample,6,la Sagrada Família,203,7,2
+2018-01-01,2,Eixample,6,la Sagrada Família,1711,8,1
+2018-01-01,2,Eixample,6,la Sagrada Família,1307,8,2
+2018-01-01,2,Eixample,6,la Sagrada Família,96,9,1
+2018-01-01,2,Eixample,6,la Sagrada Família,78,9,2
+2018-01-01,2,Eixample,6,la Sagrada Família,13,10,1
+2018-01-01,2,Eixample,6,la Sagrada Família,5,10,2
+2018-01-01,2,Eixample,6,la Sagrada Família,677,11,1
+2018-01-01,2,Eixample,6,la Sagrada Família,586,11,2
+2018-01-01,2,Eixample,6,la Sagrada Família,181,12,1
+2018-01-01,2,Eixample,6,la Sagrada Família,340,12,2
+2018-01-01,2,Eixample,6,la Sagrada Família,76,13,1
+2018-01-01,2,Eixample,6,la Sagrada Família,48,13,2
+2018-01-01,2,Eixample,6,la Sagrada Família,151,14,1
+2018-01-01,2,Eixample,6,la Sagrada Família,158,14,2
+2018-01-01,2,Eixample,6,la Sagrada Família,510,15,1
+2018-01-01,2,Eixample,6,la Sagrada Família,268,15,2
+2018-01-01,2,Eixample,6,la Sagrada Família,231,16,1
+2018-01-01,2,Eixample,6,la Sagrada Família,224,16,2
+2018-01-01,2,Eixample,6,la Sagrada Família,23228,17,1
+2018-01-01,2,Eixample,6,la Sagrada Família,19566,17,2
+2018-01-01,2,Eixample,6,la Sagrada Família,464,18,1
+2018-01-01,2,Eixample,6,la Sagrada Família,428,18,2
+2018-01-01,2,Eixample,6,la Sagrada Família,5,19,1
+2018-01-01,2,Eixample,6,la Sagrada Família,7,19,2
+2018-01-01,2,Eixample,6,la Sagrada Família,..,23,1
+2018-01-01,2,Eixample,6,la Sagrada Família,..,23,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,5,1,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,5,1,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,6,2,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,..,2,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,91,3,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,124,3,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,7,4,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,11,4,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,7,5,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,27,5,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,56,6,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,59,6,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,293,7,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,177,7,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,1012,8,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,704,8,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,234,9,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,221,9,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,20,10,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,10,10,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,437,11,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,364,11,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,61,12,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,153,12,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,68,13,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,34,13,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,142,14,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,151,14,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,461,15,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,250,15,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,342,16,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,404,16,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,19200,17,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,16705,17,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,947,18,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,1003,18,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,13,19,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,28,19,2
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,15,23,1
+2018-01-01,2,Eixample,7,la Dreta de l'Eixample,..,23,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,1,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,1,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,5,2,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,2,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,75,3,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,91,3,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,4,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,4,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,10,5,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,21,5,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,82,6,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,50,6,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,334,7,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,202,7,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1134,8,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1105,8,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,177,9,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,151,9,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,11,10,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,8,10,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,440,11,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,357,11,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,92,12,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,215,12,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,210,13,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,131,13,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,122,14,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,128,14,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,420,15,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,219,15,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,250,16,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,337,16,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,18774,17,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,16029,17,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,620,18,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,687,18,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,15,19,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,13,19,2
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,6,23,1
+2018-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,5,23,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,10,1,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,13,1,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,9,2,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,11,2,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,116,3,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,154,3,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,..,4,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,13,5,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,41,5,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,134,6,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,98,6,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,372,7,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,196,7,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,1717,8,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,1278,8,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,118,9,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,104,9,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,13,10,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,5,10,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,759,11,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,652,11,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,140,12,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,244,12,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,213,13,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,163,13,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,120,14,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,152,14,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,548,15,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,272,15,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,228,16,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,218,16,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,26241,17,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,22880,17,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,477,18,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,527,18,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,..,19,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,12,19,2
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,7,23,1
+2018-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,5,23,2
+2018-01-01,2,Eixample,10,Sant Antoni,..,1,1
+2018-01-01,2,Eixample,10,Sant Antoni,..,1,2
+2018-01-01,2,Eixample,10,Sant Antoni,..,2,1
+2018-01-01,2,Eixample,10,Sant Antoni,..,2,2
+2018-01-01,2,Eixample,10,Sant Antoni,71,3,1
+2018-01-01,2,Eixample,10,Sant Antoni,135,3,2
+2018-01-01,2,Eixample,10,Sant Antoni,..,4,1
+2018-01-01,2,Eixample,10,Sant Antoni,..,4,2
+2018-01-01,2,Eixample,10,Sant Antoni,9,5,1
+2018-01-01,2,Eixample,10,Sant Antoni,38,5,2
+2018-01-01,2,Eixample,10,Sant Antoni,115,6,1
+2018-01-01,2,Eixample,10,Sant Antoni,85,6,2
+2018-01-01,2,Eixample,10,Sant Antoni,193,7,1
+2018-01-01,2,Eixample,10,Sant Antoni,132,7,2
+2018-01-01,2,Eixample,10,Sant Antoni,875,8,1
+2018-01-01,2,Eixample,10,Sant Antoni,735,8,2
+2018-01-01,2,Eixample,10,Sant Antoni,92,9,1
+2018-01-01,2,Eixample,10,Sant Antoni,82,9,2
+2018-01-01,2,Eixample,10,Sant Antoni,13,10,1
+2018-01-01,2,Eixample,10,Sant Antoni,5,10,2
+2018-01-01,2,Eixample,10,Sant Antoni,434,11,1
+2018-01-01,2,Eixample,10,Sant Antoni,424,11,2
+2018-01-01,2,Eixample,10,Sant Antoni,282,12,1
+2018-01-01,2,Eixample,10,Sant Antoni,607,12,2
+2018-01-01,2,Eixample,10,Sant Antoni,441,13,1
+2018-01-01,2,Eixample,10,Sant Antoni,304,13,2
+2018-01-01,2,Eixample,10,Sant Antoni,69,14,1
+2018-01-01,2,Eixample,10,Sant Antoni,80,14,2
+2018-01-01,2,Eixample,10,Sant Antoni,322,15,1
+2018-01-01,2,Eixample,10,Sant Antoni,182,15,2
+2018-01-01,2,Eixample,10,Sant Antoni,187,16,1
+2018-01-01,2,Eixample,10,Sant Antoni,257,16,2
+2018-01-01,2,Eixample,10,Sant Antoni,16548,17,1
+2018-01-01,2,Eixample,10,Sant Antoni,14684,17,2
+2018-01-01,2,Eixample,10,Sant Antoni,444,18,1
+2018-01-01,2,Eixample,10,Sant Antoni,471,18,2
+2018-01-01,2,Eixample,10,Sant Antoni,9,19,1
+2018-01-01,2,Eixample,10,Sant Antoni,7,19,2
+2018-01-01,2,Eixample,10,Sant Antoni,7,23,1
+2018-01-01,2,Eixample,10,Sant Antoni,..,23,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,5,1,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,6,1,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,2,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,2,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,331,3,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,503,3,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,4,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,4,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,19,5,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,64,5,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,232,6,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,261,6,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,250,7,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,136,7,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,987,8,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,802,8,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,89,9,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,87,9,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,7,10,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,10,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,279,11,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,226,11,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,972,12,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,1932,12,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,636,13,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,451,13,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,81,14,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,96,14,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,383,15,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,237,15,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,273,16,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,304,16,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,15187,17,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,13863,17,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,555,18,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,505,18,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,12,19,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,7,19,2
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,7,23,1
+2018-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,23,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,3,1
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,5,3,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,5,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,6,1
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,6,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,7,1
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,7,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,25,8,1
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,12,8,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,10,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,10,11,1
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,13,11,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,12,1
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,6,14,1
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,14,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,7,15,1
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,15,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,503,17,1
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,556,17,2
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,18,1
+2018-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,18,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,1,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,1,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,12,2,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,5,2,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,201,3,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,170,3,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,4,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,19,5,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,32,5,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,83,6,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,70,6,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,223,7,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,106,7,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,596,8,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,504,8,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,18,9,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,7,9,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,10,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,10,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,345,11,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,319,11,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,167,12,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,297,12,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,217,13,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,168,13,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,44,14,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,53,14,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,301,15,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,226,15,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,24,16,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,18,16,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,13706,17,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,12687,17,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,66,18,1
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,56,18,2
+2018-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,23,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,1,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,2,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,29,3,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,47,3,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,4,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,4,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,9,5,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,24,5,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,21,6,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,24,6,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,53,7,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,27,7,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,250,8,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,238,8,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,9,9,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,10,9,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,10,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,10,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,99,11,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,77,11,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,64,12,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,153,12,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,12,13,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,13,13,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,30,14,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,30,14,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,148,15,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,78,15,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,33,16,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,35,16,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,4604,17,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,4027,17,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,67,18,1
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,89,18,2
+2018-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,23,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,2,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,2,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,122,3,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,127,3,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,20,5,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,15,5,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,51,6,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,42,6,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,99,7,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,50,7,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,452,8,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,410,8,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,35,9,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,18,9,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,10,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,10,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,164,11,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,158,11,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,163,12,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,343,12,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,13,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,53,13,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,41,14,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,46,14,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,204,15,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,133,15,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,46,16,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,73,16,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,6707,17,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,6020,17,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,146,18,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,147,18,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,19,1
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,19,2
+2018-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,23,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,6,1,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,5,1,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,..,2,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,..,2,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,82,3,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,112,3,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,7,5,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,23,5,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,70,6,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,34,6,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,55,7,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,36,7,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,412,8,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,295,8,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,8,9,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,7,9,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,7,10,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,..,10,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,142,11,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,121,11,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,93,12,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,190,12,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,31,13,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,27,13,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,33,14,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,36,14,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,102,15,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,82,15,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,26,16,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,31,16,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,8783,17,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,7801,17,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,73,18,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,95,18,2
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,..,19,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,..,23,1
+2018-01-01,3,Sants-Montjuïc,16,la Bordeta,..,23,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,1,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,1,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,11,2,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,12,2,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,98,3,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,117,3,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,4,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,13,5,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,15,5,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,127,6,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,90,6,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,190,7,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,87,7,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,780,8,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,598,8,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,17,9,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,13,9,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,10,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,5,10,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,208,11,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,190,11,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,122,12,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,269,12,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,66,13,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,38,13,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,56,14,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,63,14,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,223,15,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,149,15,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,42,16,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,41,16,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,10742,17,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,9389,17,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,104,18,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,129,18,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,19,2
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,23,1
+2018-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,23,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,..,1,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,9,1,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,8,2,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,10,2,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,143,3,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,239,3,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,..,4,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,13,5,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,79,5,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,125,6,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,104,6,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,263,7,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,135,7,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,1109,8,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,914,8,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,33,9,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,35,9,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,9,10,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,6,10,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,309,11,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,289,11,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,243,12,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,594,12,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,57,13,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,50,13,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,80,14,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,92,14,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,418,15,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,301,15,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,107,16,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,103,16,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,18649,17,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,16221,17,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,312,18,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,288,18,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,7,19,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,7,19,2
+2018-01-01,3,Sants-Montjuïc,18,Sants,..,23,1
+2018-01-01,3,Sants-Montjuïc,18,Sants,..,23,2
+2018-01-01,4,Les Corts,19,les Corts,..,1,1
+2018-01-01,4,Les Corts,19,les Corts,..,1,2
+2018-01-01,4,Les Corts,19,les Corts,..,2,1
+2018-01-01,4,Les Corts,19,les Corts,..,2,2
+2018-01-01,4,Les Corts,19,les Corts,64,3,1
+2018-01-01,4,Les Corts,19,les Corts,84,3,2
+2018-01-01,4,Les Corts,19,les Corts,..,4,2
+2018-01-01,4,Les Corts,19,les Corts,10,5,1
+2018-01-01,4,Les Corts,19,les Corts,18,5,2
+2018-01-01,4,Les Corts,19,les Corts,82,6,1
+2018-01-01,4,Les Corts,19,les Corts,55,6,2
+2018-01-01,4,Les Corts,19,les Corts,170,7,1
+2018-01-01,4,Les Corts,19,les Corts,109,7,2
+2018-01-01,4,Les Corts,19,les Corts,799,8,1
+2018-01-01,4,Les Corts,19,les Corts,545,8,2
+2018-01-01,4,Les Corts,19,les Corts,62,9,1
+2018-01-01,4,Les Corts,19,les Corts,72,9,2
+2018-01-01,4,Les Corts,19,les Corts,16,10,1
+2018-01-01,4,Les Corts,19,les Corts,10,10,2
+2018-01-01,4,Les Corts,19,les Corts,393,11,1
+2018-01-01,4,Les Corts,19,les Corts,337,11,2
+2018-01-01,4,Les Corts,19,les Corts,85,12,1
+2018-01-01,4,Les Corts,19,les Corts,182,12,2
+2018-01-01,4,Les Corts,19,les Corts,46,13,1
+2018-01-01,4,Les Corts,19,les Corts,24,13,2
+2018-01-01,4,Les Corts,19,les Corts,69,14,1
+2018-01-01,4,Les Corts,19,les Corts,53,14,2
+2018-01-01,4,Les Corts,19,les Corts,335,15,1
+2018-01-01,4,Les Corts,19,les Corts,220,15,2
+2018-01-01,4,Les Corts,19,les Corts,90,16,1
+2018-01-01,4,Les Corts,19,les Corts,105,16,2
+2018-01-01,4,Les Corts,19,les Corts,22280,17,1
+2018-01-01,4,Les Corts,19,les Corts,19259,17,2
+2018-01-01,4,Les Corts,19,les Corts,280,18,1
+2018-01-01,4,Les Corts,19,les Corts,270,18,2
+2018-01-01,4,Les Corts,19,les Corts,..,19,1
+2018-01-01,4,Les Corts,19,les Corts,5,19,2
+2018-01-01,4,Les Corts,19,les Corts,5,23,1
+2018-01-01,4,Les Corts,19,les Corts,..,23,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,1,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,5,1,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,2,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,53,3,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,58,3,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,4,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,4,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,10,5,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,11,5,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,63,6,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,34,6,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,126,7,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,71,7,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,506,8,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,404,8,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,19,9,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,18,9,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,10,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,10,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,140,11,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,136,11,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,60,12,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,114,12,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,20,13,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,9,13,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,30,14,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,27,14,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,152,15,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,78,15,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,37,16,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,45,16,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,11507,17,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,9996,17,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,122,18,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,118,18,2
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,19,1
+2018-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,23,1
+2018-01-01,4,Les Corts,21,Pedralbes,5,1,1
+2018-01-01,4,Les Corts,21,Pedralbes,..,2,1
+2018-01-01,4,Les Corts,21,Pedralbes,..,2,2
+2018-01-01,4,Les Corts,21,Pedralbes,36,3,1
+2018-01-01,4,Les Corts,21,Pedralbes,40,3,2
+2018-01-01,4,Les Corts,21,Pedralbes,..,4,1
+2018-01-01,4,Les Corts,21,Pedralbes,..,4,2
+2018-01-01,4,Les Corts,21,Pedralbes,7,5,1
+2018-01-01,4,Les Corts,21,Pedralbes,5,5,2
+2018-01-01,4,Les Corts,21,Pedralbes,10,6,1
+2018-01-01,4,Les Corts,21,Pedralbes,6,6,2
+2018-01-01,4,Les Corts,21,Pedralbes,67,7,1
+2018-01-01,4,Les Corts,21,Pedralbes,30,7,2
+2018-01-01,4,Les Corts,21,Pedralbes,187,8,1
+2018-01-01,4,Les Corts,21,Pedralbes,131,8,2
+2018-01-01,4,Les Corts,21,Pedralbes,34,9,1
+2018-01-01,4,Les Corts,21,Pedralbes,31,9,2
+2018-01-01,4,Les Corts,21,Pedralbes,..,10,1
+2018-01-01,4,Les Corts,21,Pedralbes,..,10,2
+2018-01-01,4,Les Corts,21,Pedralbes,101,11,1
+2018-01-01,4,Les Corts,21,Pedralbes,72,11,2
+2018-01-01,4,Les Corts,21,Pedralbes,27,12,1
+2018-01-01,4,Les Corts,21,Pedralbes,27,12,2
+2018-01-01,4,Les Corts,21,Pedralbes,34,13,1
+2018-01-01,4,Les Corts,21,Pedralbes,13,13,2
+2018-01-01,4,Les Corts,21,Pedralbes,27,14,1
+2018-01-01,4,Les Corts,21,Pedralbes,26,14,2
+2018-01-01,4,Les Corts,21,Pedralbes,178,15,1
+2018-01-01,4,Les Corts,21,Pedralbes,125,15,2
+2018-01-01,4,Les Corts,21,Pedralbes,45,16,1
+2018-01-01,4,Les Corts,21,Pedralbes,65,16,2
+2018-01-01,4,Les Corts,21,Pedralbes,5392,17,1
+2018-01-01,4,Les Corts,21,Pedralbes,4762,17,2
+2018-01-01,4,Les Corts,21,Pedralbes,245,18,1
+2018-01-01,4,Les Corts,21,Pedralbes,299,18,2
+2018-01-01,4,Les Corts,21,Pedralbes,..,19,2
+2018-01-01,4,Les Corts,21,Pedralbes,..,20,2
+2018-01-01,4,Les Corts,21,Pedralbes,..,23,1
+2018-01-01,4,Les Corts,21,Pedralbes,..,23,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,1,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,3,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",8,3,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,4,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,4,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,5,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,6,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",6,7,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,7,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",51,8,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",32,8,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",15,9,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",12,9,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,10,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,11,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,11,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,12,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,12,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",7,13,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",12,14,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",11,14,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",52,15,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",26,15,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",48,16,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",47,16,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2078,17,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2062,17,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",99,18,1
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",116,18,2
+2018-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,19,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,6,1,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,1,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,2,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,2,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,39,3,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,69,3,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,4,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,4,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,14,5,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,18,5,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,16,6,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,9,6,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,97,7,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,46,7,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,224,8,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,137,8,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,82,9,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,83,9,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,10,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,10,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,142,11,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,131,11,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,29,12,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,35,12,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,35,13,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,12,13,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,41,14,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,60,14,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,174,15,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,140,15,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,91,16,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,131,16,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,11956,17,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,10391,17,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,430,18,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,449,18,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,19,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,19,2
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,6,23,1
+2018-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,23,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,1,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,1,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,2,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,2,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,12,3,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,33,3,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,5,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,6,5,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,10,6,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,6,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,59,7,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,24,7,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,156,8,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,76,8,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,9,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,61,9,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,10,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,10,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,64,11,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,55,11,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,15,12,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,21,12,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,39,13,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,11,13,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,22,14,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,15,14,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,74,15,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,51,15,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,44,16,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,56,16,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,8147,17,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,7207,17,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,170,18,1
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,167,18,2
+2018-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,19,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,7,1,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,1,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,5,2,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,2,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,44,3,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,63,3,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,4,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,4,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,5,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,17,5,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,15,6,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,9,6,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,130,7,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,34,7,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,393,8,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,208,8,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,61,9,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,54,9,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,7,10,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,7,10,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,106,11,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,138,11,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,31,12,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,73,12,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,46,13,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,23,13,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,38,14,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,44,14,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,190,15,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,112,15,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,92,16,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,94,16,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,12629,17,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,10721,17,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,243,18,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,236,18,2
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,19,1
+2018-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,6,19,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,6,1,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,1,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,2,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,2,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,86,3,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,73,3,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,4,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,4,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,11,5,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,9,5,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,53,6,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,25,6,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,245,7,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,7,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,734,8,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,362,8,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,227,9,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,189,9,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,9,10,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,6,10,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,183,11,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,130,11,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,56,12,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,90,12,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,13,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,56,13,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,14,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,102,14,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,327,15,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,155,15,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,179,16,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,213,16,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,23411,17,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,19412,17,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,550,18,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,560,18,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,5,19,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,5,19,2
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,7,23,1
+2018-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,23,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,1,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,1,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,2,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,5,2,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,43,3,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,71,3,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,4,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,4,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,14,5,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,30,5,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,31,6,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,18,6,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,108,7,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,53,7,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,547,8,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,384,8,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,65,9,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,55,9,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,13,10,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,10,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,116,11,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,105,11,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,54,12,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,80,12,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,38,13,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,12,13,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,33,14,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,35,14,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,220,15,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,123,15,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,125,16,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,121,16,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,14408,17,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,12023,17,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,321,18,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,309,18,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,5,19,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,9,19,2
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,23,1
+2018-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,23,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,1,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,2,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,26,3,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,31,3,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,5,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,9,5,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,26,6,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,22,6,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,59,7,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,37,7,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,316,8,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,254,8,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,34,9,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,32,9,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,10,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,67,11,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,50,11,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,40,12,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,120,12,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,17,13,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,8,13,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,20,14,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,14,14,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,151,15,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,15,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,70,16,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,68,16,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,7576,17,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,6514,17,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,154,18,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,142,18,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,19,1
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,19,2
+2018-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,23,2
+2018-01-01,6,Gràcia,29,el Coll,..,1,1
+2018-01-01,6,Gràcia,29,el Coll,..,2,1
+2018-01-01,6,Gràcia,29,el Coll,..,2,2
+2018-01-01,6,Gràcia,29,el Coll,30,3,1
+2018-01-01,6,Gràcia,29,el Coll,34,3,2
+2018-01-01,6,Gràcia,29,el Coll,5,5,1
+2018-01-01,6,Gràcia,29,el Coll,8,5,2
+2018-01-01,6,Gràcia,29,el Coll,9,6,1
+2018-01-01,6,Gràcia,29,el Coll,10,6,2
+2018-01-01,6,Gràcia,29,el Coll,77,7,1
+2018-01-01,6,Gràcia,29,el Coll,31,7,2
+2018-01-01,6,Gràcia,29,el Coll,168,8,1
+2018-01-01,6,Gràcia,29,el Coll,122,8,2
+2018-01-01,6,Gràcia,29,el Coll,7,9,1
+2018-01-01,6,Gràcia,29,el Coll,..,9,2
+2018-01-01,6,Gràcia,29,el Coll,..,10,1
+2018-01-01,6,Gràcia,29,el Coll,..,10,2
+2018-01-01,6,Gràcia,29,el Coll,11,11,1
+2018-01-01,6,Gràcia,29,el Coll,7,11,2
+2018-01-01,6,Gràcia,29,el Coll,23,12,1
+2018-01-01,6,Gràcia,29,el Coll,47,12,2
+2018-01-01,6,Gràcia,29,el Coll,7,13,1
+2018-01-01,6,Gràcia,29,el Coll,5,13,2
+2018-01-01,6,Gràcia,29,el Coll,10,14,1
+2018-01-01,6,Gràcia,29,el Coll,9,14,2
+2018-01-01,6,Gràcia,29,el Coll,91,15,1
+2018-01-01,6,Gràcia,29,el Coll,57,15,2
+2018-01-01,6,Gràcia,29,el Coll,27,16,1
+2018-01-01,6,Gràcia,29,el Coll,33,16,2
+2018-01-01,6,Gràcia,29,el Coll,3473,17,1
+2018-01-01,6,Gràcia,29,el Coll,3030,17,2
+2018-01-01,6,Gràcia,29,el Coll,62,18,1
+2018-01-01,6,Gràcia,29,el Coll,57,18,2
+2018-01-01,6,Gràcia,29,el Coll,..,19,1
+2018-01-01,6,Gràcia,30,la Salut,..,1,1
+2018-01-01,6,Gràcia,30,la Salut,..,2,1
+2018-01-01,6,Gràcia,30,la Salut,..,2,2
+2018-01-01,6,Gràcia,30,la Salut,25,3,1
+2018-01-01,6,Gràcia,30,la Salut,112,3,2
+2018-01-01,6,Gràcia,30,la Salut,..,4,1
+2018-01-01,6,Gràcia,30,la Salut,..,4,2
+2018-01-01,6,Gràcia,30,la Salut,..,5,1
+2018-01-01,6,Gràcia,30,la Salut,16,5,2
+2018-01-01,6,Gràcia,30,la Salut,14,6,1
+2018-01-01,6,Gràcia,30,la Salut,10,6,2
+2018-01-01,6,Gràcia,30,la Salut,57,7,1
+2018-01-01,6,Gràcia,30,la Salut,39,7,2
+2018-01-01,6,Gràcia,30,la Salut,230,8,1
+2018-01-01,6,Gràcia,30,la Salut,152,8,2
+2018-01-01,6,Gràcia,30,la Salut,19,9,1
+2018-01-01,6,Gràcia,30,la Salut,16,9,2
+2018-01-01,6,Gràcia,30,la Salut,8,10,1
+2018-01-01,6,Gràcia,30,la Salut,..,10,2
+2018-01-01,6,Gràcia,30,la Salut,63,11,1
+2018-01-01,6,Gràcia,30,la Salut,49,11,2
+2018-01-01,6,Gràcia,30,la Salut,28,12,1
+2018-01-01,6,Gràcia,30,la Salut,66,12,2
+2018-01-01,6,Gràcia,30,la Salut,7,13,1
+2018-01-01,6,Gràcia,30,la Salut,5,13,2
+2018-01-01,6,Gràcia,30,la Salut,22,14,1
+2018-01-01,6,Gràcia,30,la Salut,26,14,2
+2018-01-01,6,Gràcia,30,la Salut,94,15,1
+2018-01-01,6,Gràcia,30,la Salut,65,15,2
+2018-01-01,6,Gràcia,30,la Salut,38,16,1
+2018-01-01,6,Gràcia,30,la Salut,45,16,2
+2018-01-01,6,Gràcia,30,la Salut,6426,17,1
+2018-01-01,6,Gràcia,30,la Salut,5383,17,2
+2018-01-01,6,Gràcia,30,la Salut,108,18,1
+2018-01-01,6,Gràcia,30,la Salut,112,18,2
+2018-01-01,6,Gràcia,30,la Salut,..,19,1
+2018-01-01,6,Gràcia,30,la Salut,..,19,2
+2018-01-01,6,Gràcia,30,la Salut,..,23,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,..,1,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,..,1,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,7,2,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,12,2,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,123,3,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,192,3,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,..,4,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,5,4,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,10,5,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,54,5,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,65,6,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,56,6,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,272,7,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,166,7,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,1170,8,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,846,8,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,253,9,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,219,9,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,19,10,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,..,10,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,293,11,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,207,11,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,163,12,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,435,12,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,55,13,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,34,13,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,134,14,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,159,14,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,414,15,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,211,15,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,421,16,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,403,16,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,23137,17,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,18993,17,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,915,18,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,906,18,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,12,19,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,30,19,2
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,9,23,1
+2018-01-01,6,Gràcia,31,la Vila de Gràcia,7,23,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,1,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,1,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,2,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,2,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,62,3,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,67,3,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,4,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,12,5,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,18,5,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,40,6,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,30,6,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,191,7,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,89,7,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,613,8,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,502,8,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,57,9,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,42,9,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,9,10,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,10,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,237,11,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,169,11,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,130,12,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,243,12,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,26,13,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,13,13,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,80,14,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,89,14,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,288,15,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,15,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,138,16,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,154,16,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,16618,17,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,13993,17,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,301,18,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,282,18,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,19,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,6,19,2
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,9,23,1
+2018-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,23,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,1,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,2,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,2,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,55,3,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,75,3,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,4,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,4,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,13,5,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,19,5,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,57,6,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,47,6,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,147,7,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,66,7,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,650,8,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,509,8,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,22,9,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,18,9,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,10,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,10,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,11,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,124,11,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,83,12,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,146,12,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,16,13,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,7,13,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,61,14,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,72,14,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,214,15,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,109,15,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,58,16,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,84,16,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,12238,17,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,10460,17,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,145,18,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,144,18,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,19,1
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,19,2
+2018-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,23,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,1,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,2,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,2,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,19,3,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,31,3,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,4,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,5,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,31,5,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,9,6,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,10,6,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,61,7,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,20,7,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,185,8,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,166,8,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,10,9,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,13,9,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,6,10,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,10,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,62,11,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,37,11,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,38,12,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,49,12,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,13,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,13,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,11,14,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,22,14,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,90,15,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,63,15,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,23,16,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,29,16,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,4227,17,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,3707,17,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,62,18,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,71,18,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,19,2
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,23,1
+2018-01-01,7,Horta-Guinardó,34,Can Baró,..,23,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,7,1,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,..,1,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,9,2,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,8,2,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,125,3,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,127,3,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,..,4,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,..,4,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,16,5,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,35,5,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,95,6,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,90,6,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,304,7,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,136,7,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,1005,8,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,770,8,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,21,9,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,25,9,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,171,11,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,145,11,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,76,12,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,176,12,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,18,13,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,10,13,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,96,14,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,95,14,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,380,15,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,253,15,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,79,16,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,96,16,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,17070,17,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,15048,17,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,195,18,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,199,18,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,..,19,1
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,..,19,2
+2018-01-01,7,Horta-Guinardó,35,el Guinardó,..,23,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,1,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,2,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,6,3,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,17,3,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,5,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,8,6,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,8,6,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,42,7,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,11,7,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,107,8,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,65,8,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,9,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,6,9,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,10,11,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,10,11,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,12,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,8,12,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,13,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,13,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,13,14,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,18,14,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,57,15,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,19,15,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,15,16,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,17,16,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,4663,17,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,4247,17,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,35,18,1
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,45,18,2
+2018-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,19,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,..,1,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,..,2,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,12,2,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,145,3,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,156,3,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,21,5,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,49,5,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,54,6,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,62,6,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,320,7,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,169,7,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,910,8,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,820,8,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,16,9,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,14,9,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,7,10,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,9,10,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,105,11,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,81,11,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,117,12,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,257,12,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,17,13,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,12,13,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,106,14,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,118,14,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,343,15,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,247,15,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,46,16,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,54,16,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,14411,17,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,13004,17,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,56,18,1
+2018-01-01,7,Horta-Guinardó,37,el Carmel,87,18,2
+2018-01-01,7,Horta-Guinardó,37,el Carmel,..,19,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,..,1,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,..,2,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,5,2,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,45,3,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,52,3,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,..,4,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,11,5,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,20,5,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,30,6,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,20,6,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,121,7,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,50,7,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,275,8,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,265,8,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,..,9,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,..,9,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,19,11,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,17,11,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,67,12,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,126,12,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,6,13,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,20,14,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,29,14,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,106,15,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,96,15,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,19,16,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,25,16,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,5254,17,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,4893,17,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,36,18,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,31,18,2
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,..,19,1
+2018-01-01,7,Horta-Guinardó,38,la Teixonera,..,23,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,1,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,5,2,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,2,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,28,3,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,34,3,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,5,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,11,5,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,17,6,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,15,6,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,64,7,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,39,7,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,198,8,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,162,8,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,8,9,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,8,9,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,10,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,10,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,18,11,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,28,11,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,22,12,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,41,12,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,13,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,13,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,14,14,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,27,14,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,62,15,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,52,15,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,19,16,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,11,16,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,3237,17,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,2822,17,2
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,27,18,1
+2018-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,26,18,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,..,2,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,14,3,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,16,3,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,..,5,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,11,5,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,5,6,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,7,6,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,42,7,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,18,7,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,134,8,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,105,8,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,..,9,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,..,9,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,..,10,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,..,10,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,21,11,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,11,11,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,12,12,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,29,12,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,..,13,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,10,14,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,7,14,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,48,15,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,35,15,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,7,16,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,9,16,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,2511,17,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,2017,17,2
+2018-01-01,7,Horta-Guinardó,40,Montbau,7,18,1
+2018-01-01,7,Horta-Guinardó,40,Montbau,9,18,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,5,1,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,2,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,6,3,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,8,3,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,5,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,5,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,7,6,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,6,6,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,19,7,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,17,7,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,107,8,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,75,8,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,9,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,9,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,10,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,10,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,13,11,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,8,11,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,12,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,7,12,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,13,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,13,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,11,14,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,14,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,62,15,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,44,15,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,7,16,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,6,16,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,2768,17,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,2499,17,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,17,18,1
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,21,18,2
+2018-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,19,1
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,3,1
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,3,2
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,6,2
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,7,1
+2018-01-01,7,Horta-Guinardó,42,la Clota,13,8,1
+2018-01-01,7,Horta-Guinardó,42,la Clota,7,8,2
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,9,1
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,12,1
+2018-01-01,7,Horta-Guinardó,42,la Clota,28,12,2
+2018-01-01,7,Horta-Guinardó,42,la Clota,7,14,1
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,14,2
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,15,1
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,15,2
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,16,1
+2018-01-01,7,Horta-Guinardó,42,la Clota,291,17,1
+2018-01-01,7,Horta-Guinardó,42,la Clota,291,17,2
+2018-01-01,7,Horta-Guinardó,42,la Clota,..,18,2
+2018-01-01,7,Horta-Guinardó,43,Horta,..,1,1
+2018-01-01,7,Horta-Guinardó,43,Horta,..,1,2
+2018-01-01,7,Horta-Guinardó,43,Horta,10,2,1
+2018-01-01,7,Horta-Guinardó,43,Horta,10,2,2
+2018-01-01,7,Horta-Guinardó,43,Horta,78,3,1
+2018-01-01,7,Horta-Guinardó,43,Horta,156,3,2
+2018-01-01,7,Horta-Guinardó,43,Horta,..,4,2
+2018-01-01,7,Horta-Guinardó,43,Horta,10,5,1
+2018-01-01,7,Horta-Guinardó,43,Horta,33,5,2
+2018-01-01,7,Horta-Guinardó,43,Horta,142,6,1
+2018-01-01,7,Horta-Guinardó,43,Horta,65,6,2
+2018-01-01,7,Horta-Guinardó,43,Horta,237,7,1
+2018-01-01,7,Horta-Guinardó,43,Horta,97,7,2
+2018-01-01,7,Horta-Guinardó,43,Horta,458,8,1
+2018-01-01,7,Horta-Guinardó,43,Horta,347,8,2
+2018-01-01,7,Horta-Guinardó,43,Horta,20,9,1
+2018-01-01,7,Horta-Guinardó,43,Horta,11,9,2
+2018-01-01,7,Horta-Guinardó,43,Horta,..,10,1
+2018-01-01,7,Horta-Guinardó,43,Horta,..,10,2
+2018-01-01,7,Horta-Guinardó,43,Horta,75,11,1
+2018-01-01,7,Horta-Guinardó,43,Horta,91,11,2
+2018-01-01,7,Horta-Guinardó,43,Horta,26,12,1
+2018-01-01,7,Horta-Guinardó,43,Horta,133,12,2
+2018-01-01,7,Horta-Guinardó,43,Horta,61,13,1
+2018-01-01,7,Horta-Guinardó,43,Horta,40,13,2
+2018-01-01,7,Horta-Guinardó,43,Horta,73,14,1
+2018-01-01,7,Horta-Guinardó,43,Horta,56,14,2
+2018-01-01,7,Horta-Guinardó,43,Horta,215,15,1
+2018-01-01,7,Horta-Guinardó,43,Horta,183,15,2
+2018-01-01,7,Horta-Guinardó,43,Horta,32,16,1
+2018-01-01,7,Horta-Guinardó,43,Horta,32,16,2
+2018-01-01,7,Horta-Guinardó,43,Horta,12793,17,1
+2018-01-01,7,Horta-Guinardó,43,Horta,11256,17,2
+2018-01-01,7,Horta-Guinardó,43,Horta,57,18,1
+2018-01-01,7,Horta-Guinardó,43,Horta,59,18,2
+2018-01-01,7,Horta-Guinardó,43,Horta,..,19,2
+2018-01-01,7,Horta-Guinardó,43,Horta,..,23,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,1,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,1,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,2,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,53,3,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,76,3,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,4,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,4,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,8,5,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,21,5,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,117,6,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,98,6,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,221,7,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,93,7,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,650,8,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,562,8,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,11,9,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,6,9,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,10,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,10,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,194,11,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,202,11,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,53,12,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,127,12,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,11,13,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,8,13,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,115,14,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,117,14,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,208,15,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,142,15,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,16,16,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,25,16,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,12141,17,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,10265,17,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,63,18,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,57,18,2
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,19,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,23,1
+2018-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,23,2
+2018-01-01,8,Nou Barris,45,Porta,..,1,1
+2018-01-01,8,Nou Barris,45,Porta,6,2,1
+2018-01-01,8,Nou Barris,45,Porta,..,2,2
+2018-01-01,8,Nou Barris,45,Porta,137,3,1
+2018-01-01,8,Nou Barris,45,Porta,194,3,2
+2018-01-01,8,Nou Barris,45,Porta,37,5,1
+2018-01-01,8,Nou Barris,45,Porta,52,5,2
+2018-01-01,8,Nou Barris,45,Porta,118,6,1
+2018-01-01,8,Nou Barris,45,Porta,93,6,2
+2018-01-01,8,Nou Barris,45,Porta,402,7,1
+2018-01-01,8,Nou Barris,45,Porta,162,7,2
+2018-01-01,8,Nou Barris,45,Porta,739,8,1
+2018-01-01,8,Nou Barris,45,Porta,559,8,2
+2018-01-01,8,Nou Barris,45,Porta,8,9,1
+2018-01-01,8,Nou Barris,45,Porta,11,9,2
+2018-01-01,8,Nou Barris,45,Porta,..,10,2
+2018-01-01,8,Nou Barris,45,Porta,166,11,1
+2018-01-01,8,Nou Barris,45,Porta,136,11,2
+2018-01-01,8,Nou Barris,45,Porta,91,12,1
+2018-01-01,8,Nou Barris,45,Porta,189,12,2
+2018-01-01,8,Nou Barris,45,Porta,15,13,1
+2018-01-01,8,Nou Barris,45,Porta,19,13,2
+2018-01-01,8,Nou Barris,45,Porta,222,14,1
+2018-01-01,8,Nou Barris,45,Porta,200,14,2
+2018-01-01,8,Nou Barris,45,Porta,210,15,1
+2018-01-01,8,Nou Barris,45,Porta,150,15,2
+2018-01-01,8,Nou Barris,45,Porta,25,16,1
+2018-01-01,8,Nou Barris,45,Porta,23,16,2
+2018-01-01,8,Nou Barris,45,Porta,11508,17,1
+2018-01-01,8,Nou Barris,45,Porta,9987,17,2
+2018-01-01,8,Nou Barris,45,Porta,46,18,1
+2018-01-01,8,Nou Barris,45,Porta,55,18,2
+2018-01-01,8,Nou Barris,45,Porta,..,19,1
+2018-01-01,8,Nou Barris,45,Porta,..,23,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,5,2,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,..,2,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,116,3,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,115,3,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,..,4,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,13,5,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,34,5,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,183,6,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,175,6,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,161,7,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,69,7,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,732,8,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,592,8,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,..,9,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,..,9,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,..,10,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,78,11,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,73,11,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,126,12,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,266,12,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,..,13,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,126,14,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,131,14,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,133,15,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,86,15,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,10,16,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,18,16,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,6652,17,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,5610,17,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,35,18,1
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,19,18,2
+2018-01-01,8,Nou Barris,46,el Turó de la Peira,..,23,2
+2018-01-01,8,Nou Barris,47,Can Peguera,..,2,1
+2018-01-01,8,Nou Barris,47,Can Peguera,23,3,1
+2018-01-01,8,Nou Barris,47,Can Peguera,24,3,2
+2018-01-01,8,Nou Barris,47,Can Peguera,..,5,1
+2018-01-01,8,Nou Barris,47,Can Peguera,..,5,2
+2018-01-01,8,Nou Barris,47,Can Peguera,6,6,1
+2018-01-01,8,Nou Barris,47,Can Peguera,6,6,2
+2018-01-01,8,Nou Barris,47,Can Peguera,8,7,1
+2018-01-01,8,Nou Barris,47,Can Peguera,..,7,2
+2018-01-01,8,Nou Barris,47,Can Peguera,29,8,1
+2018-01-01,8,Nou Barris,47,Can Peguera,27,8,2
+2018-01-01,8,Nou Barris,47,Can Peguera,..,9,1
+2018-01-01,8,Nou Barris,47,Can Peguera,..,9,2
+2018-01-01,8,Nou Barris,47,Can Peguera,..,11,1
+2018-01-01,8,Nou Barris,47,Can Peguera,..,11,2
+2018-01-01,8,Nou Barris,47,Can Peguera,7,12,1
+2018-01-01,8,Nou Barris,47,Can Peguera,7,12,2
+2018-01-01,8,Nou Barris,47,Can Peguera,..,13,1
+2018-01-01,8,Nou Barris,47,Can Peguera,..,14,1
+2018-01-01,8,Nou Barris,47,Can Peguera,5,14,2
+2018-01-01,8,Nou Barris,47,Can Peguera,15,15,1
+2018-01-01,8,Nou Barris,47,Can Peguera,7,15,2
+2018-01-01,8,Nou Barris,47,Can Peguera,..,16,1
+2018-01-01,8,Nou Barris,47,Can Peguera,..,16,2
+2018-01-01,8,Nou Barris,47,Can Peguera,1093,17,1
+2018-01-01,8,Nou Barris,47,Can Peguera,982,17,2
+2018-01-01,8,Nou Barris,47,Can Peguera,..,18,2
+2018-01-01,8,Nou Barris,48,la Guineueta,..,1,2
+2018-01-01,8,Nou Barris,48,la Guineueta,..,2,1
+2018-01-01,8,Nou Barris,48,la Guineueta,31,3,1
+2018-01-01,8,Nou Barris,48,la Guineueta,19,3,2
+2018-01-01,8,Nou Barris,48,la Guineueta,7,5,1
+2018-01-01,8,Nou Barris,48,la Guineueta,15,5,2
+2018-01-01,8,Nou Barris,48,la Guineueta,23,6,1
+2018-01-01,8,Nou Barris,48,la Guineueta,24,6,2
+2018-01-01,8,Nou Barris,48,la Guineueta,97,7,1
+2018-01-01,8,Nou Barris,48,la Guineueta,40,7,2
+2018-01-01,8,Nou Barris,48,la Guineueta,227,8,1
+2018-01-01,8,Nou Barris,48,la Guineueta,171,8,2
+2018-01-01,8,Nou Barris,48,la Guineueta,..,9,1
+2018-01-01,8,Nou Barris,48,la Guineueta,..,9,2
+2018-01-01,8,Nou Barris,48,la Guineueta,55,11,1
+2018-01-01,8,Nou Barris,48,la Guineueta,43,11,2
+2018-01-01,8,Nou Barris,48,la Guineueta,23,12,1
+2018-01-01,8,Nou Barris,48,la Guineueta,23,12,2
+2018-01-01,8,Nou Barris,48,la Guineueta,7,13,1
+2018-01-01,8,Nou Barris,48,la Guineueta,7,13,2
+2018-01-01,8,Nou Barris,48,la Guineueta,38,14,1
+2018-01-01,8,Nou Barris,48,la Guineueta,40,14,2
+2018-01-01,8,Nou Barris,48,la Guineueta,136,15,1
+2018-01-01,8,Nou Barris,48,la Guineueta,80,15,2
+2018-01-01,8,Nou Barris,48,la Guineueta,10,16,1
+2018-01-01,8,Nou Barris,48,la Guineueta,9,16,2
+2018-01-01,8,Nou Barris,48,la Guineueta,7531,17,1
+2018-01-01,8,Nou Barris,48,la Guineueta,6583,17,2
+2018-01-01,8,Nou Barris,48,la Guineueta,34,18,1
+2018-01-01,8,Nou Barris,48,la Guineueta,14,18,2
+2018-01-01,8,Nou Barris,48,la Guineueta,..,19,1
+2018-01-01,8,Nou Barris,49,Canyelles,..,1,1
+2018-01-01,8,Nou Barris,49,Canyelles,..,1,2
+2018-01-01,8,Nou Barris,49,Canyelles,..,2,1
+2018-01-01,8,Nou Barris,49,Canyelles,..,2,2
+2018-01-01,8,Nou Barris,49,Canyelles,9,3,1
+2018-01-01,8,Nou Barris,49,Canyelles,..,3,2
+2018-01-01,8,Nou Barris,49,Canyelles,7,5,1
+2018-01-01,8,Nou Barris,49,Canyelles,11,5,2
+2018-01-01,8,Nou Barris,49,Canyelles,..,6,1
+2018-01-01,8,Nou Barris,49,Canyelles,6,6,2
+2018-01-01,8,Nou Barris,49,Canyelles,30,7,1
+2018-01-01,8,Nou Barris,49,Canyelles,16,7,2
+2018-01-01,8,Nou Barris,49,Canyelles,57,8,1
+2018-01-01,8,Nou Barris,49,Canyelles,35,8,2
+2018-01-01,8,Nou Barris,49,Canyelles,..,9,2
+2018-01-01,8,Nou Barris,49,Canyelles,..,10,1
+2018-01-01,8,Nou Barris,49,Canyelles,..,10,2
+2018-01-01,8,Nou Barris,49,Canyelles,5,11,1
+2018-01-01,8,Nou Barris,49,Canyelles,7,11,2
+2018-01-01,8,Nou Barris,49,Canyelles,..,12,1
+2018-01-01,8,Nou Barris,49,Canyelles,9,12,2
+2018-01-01,8,Nou Barris,49,Canyelles,..,13,1
+2018-01-01,8,Nou Barris,49,Canyelles,9,14,1
+2018-01-01,8,Nou Barris,49,Canyelles,12,14,2
+2018-01-01,8,Nou Barris,49,Canyelles,28,15,1
+2018-01-01,8,Nou Barris,49,Canyelles,24,15,2
+2018-01-01,8,Nou Barris,49,Canyelles,..,16,1
+2018-01-01,8,Nou Barris,49,Canyelles,..,16,2
+2018-01-01,8,Nou Barris,49,Canyelles,3455,17,1
+2018-01-01,8,Nou Barris,49,Canyelles,3131,17,2
+2018-01-01,8,Nou Barris,49,Canyelles,..,18,1
+2018-01-01,8,Nou Barris,49,Canyelles,..,18,2
+2018-01-01,8,Nou Barris,50,les Roquetes,..,1,1
+2018-01-01,8,Nou Barris,50,les Roquetes,9,2,1
+2018-01-01,8,Nou Barris,50,les Roquetes,6,2,2
+2018-01-01,8,Nou Barris,50,les Roquetes,107,3,1
+2018-01-01,8,Nou Barris,50,les Roquetes,162,3,2
+2018-01-01,8,Nou Barris,50,les Roquetes,..,4,1
+2018-01-01,8,Nou Barris,50,les Roquetes,52,5,1
+2018-01-01,8,Nou Barris,50,les Roquetes,63,5,2
+2018-01-01,8,Nou Barris,50,les Roquetes,64,6,1
+2018-01-01,8,Nou Barris,50,les Roquetes,38,6,2
+2018-01-01,8,Nou Barris,50,les Roquetes,630,7,1
+2018-01-01,8,Nou Barris,50,les Roquetes,338,7,2
+2018-01-01,8,Nou Barris,50,les Roquetes,430,8,1
+2018-01-01,8,Nou Barris,50,les Roquetes,355,8,2
+2018-01-01,8,Nou Barris,50,les Roquetes,..,9,1
+2018-01-01,8,Nou Barris,50,les Roquetes,..,9,2
+2018-01-01,8,Nou Barris,50,les Roquetes,..,10,1
+2018-01-01,8,Nou Barris,50,les Roquetes,..,10,2
+2018-01-01,8,Nou Barris,50,les Roquetes,64,11,1
+2018-01-01,8,Nou Barris,50,les Roquetes,63,11,2
+2018-01-01,8,Nou Barris,50,les Roquetes,95,12,1
+2018-01-01,8,Nou Barris,50,les Roquetes,257,12,2
+2018-01-01,8,Nou Barris,50,les Roquetes,5,13,1
+2018-01-01,8,Nou Barris,50,les Roquetes,6,13,2
+2018-01-01,8,Nou Barris,50,les Roquetes,37,14,1
+2018-01-01,8,Nou Barris,50,les Roquetes,45,14,2
+2018-01-01,8,Nou Barris,50,les Roquetes,240,15,1
+2018-01-01,8,Nou Barris,50,les Roquetes,191,15,2
+2018-01-01,8,Nou Barris,50,les Roquetes,7,16,1
+2018-01-01,8,Nou Barris,50,les Roquetes,12,16,2
+2018-01-01,8,Nou Barris,50,les Roquetes,6414,17,1
+2018-01-01,8,Nou Barris,50,les Roquetes,6032,17,2
+2018-01-01,8,Nou Barris,50,les Roquetes,21,18,1
+2018-01-01,8,Nou Barris,50,les Roquetes,10,18,2
+2018-01-01,8,Nou Barris,50,les Roquetes,..,23,1
+2018-01-01,8,Nou Barris,51,Verdun,..,1,1
+2018-01-01,8,Nou Barris,51,Verdun,..,1,2
+2018-01-01,8,Nou Barris,51,Verdun,10,2,1
+2018-01-01,8,Nou Barris,51,Verdun,13,2,2
+2018-01-01,8,Nou Barris,51,Verdun,71,3,1
+2018-01-01,8,Nou Barris,51,Verdun,82,3,2
+2018-01-01,8,Nou Barris,51,Verdun,18,5,1
+2018-01-01,8,Nou Barris,51,Verdun,21,5,2
+2018-01-01,8,Nou Barris,51,Verdun,87,6,1
+2018-01-01,8,Nou Barris,51,Verdun,73,6,2
+2018-01-01,8,Nou Barris,51,Verdun,410,7,1
+2018-01-01,8,Nou Barris,51,Verdun,211,7,2
+2018-01-01,8,Nou Barris,51,Verdun,311,8,1
+2018-01-01,8,Nou Barris,51,Verdun,286,8,2
+2018-01-01,8,Nou Barris,51,Verdun,..,9,1
+2018-01-01,8,Nou Barris,51,Verdun,..,9,2
+2018-01-01,8,Nou Barris,51,Verdun,..,10,1
+2018-01-01,8,Nou Barris,51,Verdun,56,11,1
+2018-01-01,8,Nou Barris,51,Verdun,75,11,2
+2018-01-01,8,Nou Barris,51,Verdun,48,12,1
+2018-01-01,8,Nou Barris,51,Verdun,117,12,2
+2018-01-01,8,Nou Barris,51,Verdun,25,13,1
+2018-01-01,8,Nou Barris,51,Verdun,13,13,2
+2018-01-01,8,Nou Barris,51,Verdun,75,14,1
+2018-01-01,8,Nou Barris,51,Verdun,60,14,2
+2018-01-01,8,Nou Barris,51,Verdun,114,15,1
+2018-01-01,8,Nou Barris,51,Verdun,87,15,2
+2018-01-01,8,Nou Barris,51,Verdun,11,16,1
+2018-01-01,8,Nou Barris,51,Verdun,12,16,2
+2018-01-01,8,Nou Barris,51,Verdun,5403,17,1
+2018-01-01,8,Nou Barris,51,Verdun,4702,17,2
+2018-01-01,8,Nou Barris,51,Verdun,24,18,1
+2018-01-01,8,Nou Barris,51,Verdun,19,18,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,..,1,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,18,2,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,9,2,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,101,3,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,89,3,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,..,4,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,52,5,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,69,5,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,96,6,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,97,6,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,578,7,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,215,7,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,641,8,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,579,8,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,10,9,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,5,9,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,6,10,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,8,10,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,180,11,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,184,11,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,100,12,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,222,12,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,26,13,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,22,13,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,153,14,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,165,14,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,201,15,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,142,15,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,14,16,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,17,16,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,11861,17,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,10624,17,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,41,18,1
+2018-01-01,8,Nou Barris,52,la Prosperitat,42,18,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,..,19,2
+2018-01-01,8,Nou Barris,52,la Prosperitat,..,23,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,..,1,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,12,2,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,12,2,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,58,3,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,85,3,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,22,5,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,54,5,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,38,6,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,23,6,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,136,7,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,71,7,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,191,8,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,166,8,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,..,9,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,24,11,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,17,11,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,86,12,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,166,12,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,..,13,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,70,14,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,80,14,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,92,15,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,60,15,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,..,16,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,5,16,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,3124,17,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,2751,17,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,5,18,1
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,9,18,2
+2018-01-01,8,Nou Barris,53,la Trinitat Nova,..,19,2
+2018-01-01,8,Nou Barris,54,Torre Baró,..,2,1
+2018-01-01,8,Nou Barris,54,Torre Baró,..,2,2
+2018-01-01,8,Nou Barris,54,Torre Baró,59,3,1
+2018-01-01,8,Nou Barris,54,Torre Baró,68,3,2
+2018-01-01,8,Nou Barris,54,Torre Baró,15,5,1
+2018-01-01,8,Nou Barris,54,Torre Baró,24,5,2
+2018-01-01,8,Nou Barris,54,Torre Baró,7,6,1
+2018-01-01,8,Nou Barris,54,Torre Baró,9,6,2
+2018-01-01,8,Nou Barris,54,Torre Baró,29,7,1
+2018-01-01,8,Nou Barris,54,Torre Baró,19,7,2
+2018-01-01,8,Nou Barris,54,Torre Baró,82,8,1
+2018-01-01,8,Nou Barris,54,Torre Baró,73,8,2
+2018-01-01,8,Nou Barris,54,Torre Baró,..,9,2
+2018-01-01,8,Nou Barris,54,Torre Baró,5,11,1
+2018-01-01,8,Nou Barris,54,Torre Baró,..,11,2
+2018-01-01,8,Nou Barris,54,Torre Baró,10,12,1
+2018-01-01,8,Nou Barris,54,Torre Baró,12,12,2
+2018-01-01,8,Nou Barris,54,Torre Baró,..,13,1
+2018-01-01,8,Nou Barris,54,Torre Baró,..,13,2
+2018-01-01,8,Nou Barris,54,Torre Baró,30,15,1
+2018-01-01,8,Nou Barris,54,Torre Baró,31,15,2
+2018-01-01,8,Nou Barris,54,Torre Baró,..,16,2
+2018-01-01,8,Nou Barris,54,Torre Baró,1198,17,1
+2018-01-01,8,Nou Barris,54,Torre Baró,1199,17,2
+2018-01-01,8,Nou Barris,54,Torre Baró,..,18,1
+2018-01-01,8,Nou Barris,54,Torre Baró,..,18,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,..,1,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,7,1,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,20,2,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,8,2,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,181,3,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,222,3,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,142,5,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,178,5,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,107,6,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,124,6,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,424,7,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,217,7,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,297,8,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,290,8,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,..,9,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,..,9,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,..,10,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,..,10,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,37,11,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,34,11,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,185,12,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,334,12,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,5,13,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,..,13,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,27,14,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,33,14,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,132,15,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,111,15,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,..,16,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,6,16,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,3900,17,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,3572,17,2
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,5,18,1
+2018-01-01,8,Nou Barris,55,Ciutat Meridiana,6,18,2
+2018-01-01,8,Nou Barris,56,Vallbona,12,3,1
+2018-01-01,8,Nou Barris,56,Vallbona,19,3,2
+2018-01-01,8,Nou Barris,56,Vallbona,..,5,2
+2018-01-01,8,Nou Barris,56,Vallbona,..,6,1
+2018-01-01,8,Nou Barris,56,Vallbona,..,6,2
+2018-01-01,8,Nou Barris,56,Vallbona,8,7,1
+2018-01-01,8,Nou Barris,56,Vallbona,..,7,2
+2018-01-01,8,Nou Barris,56,Vallbona,17,8,1
+2018-01-01,8,Nou Barris,56,Vallbona,17,8,2
+2018-01-01,8,Nou Barris,56,Vallbona,..,9,1
+2018-01-01,8,Nou Barris,56,Vallbona,7,11,1
+2018-01-01,8,Nou Barris,56,Vallbona,5,11,2
+2018-01-01,8,Nou Barris,56,Vallbona,22,12,1
+2018-01-01,8,Nou Barris,56,Vallbona,22,12,2
+2018-01-01,8,Nou Barris,56,Vallbona,..,14,2
+2018-01-01,8,Nou Barris,56,Vallbona,12,15,1
+2018-01-01,8,Nou Barris,56,Vallbona,10,15,2
+2018-01-01,8,Nou Barris,56,Vallbona,..,16,1
+2018-01-01,8,Nou Barris,56,Vallbona,..,16,2
+2018-01-01,8,Nou Barris,56,Vallbona,622,17,1
+2018-01-01,8,Nou Barris,56,Vallbona,601,17,2
+2018-01-01,8,Nou Barris,56,Vallbona,..,18,1
+2018-01-01,8,Nou Barris,56,Vallbona,..,18,2
+2018-01-01,8,Nou Barris,56,Vallbona,..,23,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,6,2,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,..,2,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,241,3,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,334,3,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,46,5,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,90,5,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,46,6,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,48,6,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,109,7,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,57,7,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,247,8,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,266,8,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,..,9,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,..,9,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,..,10,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,..,10,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,36,11,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,38,11,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,298,12,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,599,12,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,13,13,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,..,13,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,46,14,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,43,14,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,108,15,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,113,15,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,5,16,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,6,16,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,3681,17,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,3548,17,2
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,11,18,1
+2018-01-01,9,Sant Andreu,57,la Trinitat Vella,21,18,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,43,3,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,49,3,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,..,5,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,..,5,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,..,6,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,..,6,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,11,7,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,..,7,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,42,8,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,37,8,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,..,9,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,14,11,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,7,11,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,10,12,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,12,12,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,..,13,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,11,14,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,11,14,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,21,15,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,19,15,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,..,16,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,1143,17,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,1079,17,2
+2018-01-01,9,Sant Andreu,58,Baró de Viver,..,18,1
+2018-01-01,9,Sant Andreu,58,Baró de Viver,..,18,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,..,2,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,6,2,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,64,3,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,108,3,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,20,5,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,40,5,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,28,6,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,23,6,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,135,7,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,48,7,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,282,8,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,229,8,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,..,9,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,..,9,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,61,11,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,56,11,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,81,12,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,225,12,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,6,13,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,..,13,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,51,14,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,45,14,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,103,15,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,105,15,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,..,16,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,7,16,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,5580,17,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,5381,17,2
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,25,18,1
+2018-01-01,9,Sant Andreu,59,el Bon Pastor,19,18,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,..,1,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,..,1,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,6,2,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,5,2,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,148,3,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,159,3,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,..,4,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,24,5,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,61,5,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,107,6,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,79,6,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,218,7,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,103,7,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,784,8,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,602,8,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,27,9,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,25,9,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,..,10,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,240,11,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,223,11,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,97,12,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,201,12,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,12,13,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,7,13,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,88,14,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,99,14,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,267,15,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,176,15,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,46,16,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,67,16,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,28287,17,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,25273,17,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,114,18,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,102,18,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,..,19,1
+2018-01-01,9,Sant Andreu,60,Sant Andreu,..,19,2
+2018-01-01,9,Sant Andreu,60,Sant Andreu,..,23,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,..,1,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,12,2,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,..,2,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,69,3,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,79,3,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,8,5,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,28,5,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,95,6,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,93,6,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,201,7,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,86,7,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,681,8,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,569,8,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,17,9,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,11,9,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,..,10,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,..,10,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,263,11,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,263,11,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,45,12,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,89,12,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,24,13,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,14,13,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,95,14,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,92,14,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,252,15,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,167,15,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,27,16,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,43,16,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,13653,17,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,12135,17,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,83,18,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,84,18,2
+2018-01-01,9,Sant Andreu,61,la Sagrera,..,19,1
+2018-01-01,9,Sant Andreu,61,la Sagrera,..,23,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,1,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,1,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,2,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,2,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,44,3,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,56,3,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,5,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,14,5,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,39,6,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,39,6,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,94,7,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,43,7,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,331,8,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,282,8,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,7,9,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,9,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,10,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,10,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,118,11,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,90,11,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,23,12,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,46,12,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,13,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,13,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,69,14,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,55,14,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,155,15,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,123,15,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,14,16,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,25,16,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,6721,17,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,5695,17,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,50,18,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,41,18,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,19,2
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,23,1
+2018-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,23,2
+2018-01-01,9,Sant Andreu,63,Navas,..,1,1
+2018-01-01,9,Sant Andreu,63,Navas,..,2,1
+2018-01-01,9,Sant Andreu,63,Navas,..,2,2
+2018-01-01,9,Sant Andreu,63,Navas,56,3,1
+2018-01-01,9,Sant Andreu,63,Navas,78,3,2
+2018-01-01,9,Sant Andreu,63,Navas,..,4,2
+2018-01-01,9,Sant Andreu,63,Navas,16,5,1
+2018-01-01,9,Sant Andreu,63,Navas,43,5,2
+2018-01-01,9,Sant Andreu,63,Navas,84,6,1
+2018-01-01,9,Sant Andreu,63,Navas,85,6,2
+2018-01-01,9,Sant Andreu,63,Navas,115,7,1
+2018-01-01,9,Sant Andreu,63,Navas,52,7,2
+2018-01-01,9,Sant Andreu,63,Navas,553,8,1
+2018-01-01,9,Sant Andreu,63,Navas,454,8,2
+2018-01-01,9,Sant Andreu,63,Navas,12,9,1
+2018-01-01,9,Sant Andreu,63,Navas,14,9,2
+2018-01-01,9,Sant Andreu,63,Navas,..,10,1
+2018-01-01,9,Sant Andreu,63,Navas,..,10,2
+2018-01-01,9,Sant Andreu,63,Navas,256,11,1
+2018-01-01,9,Sant Andreu,63,Navas,272,11,2
+2018-01-01,9,Sant Andreu,63,Navas,30,12,1
+2018-01-01,9,Sant Andreu,63,Navas,79,12,2
+2018-01-01,9,Sant Andreu,63,Navas,18,13,1
+2018-01-01,9,Sant Andreu,63,Navas,10,13,2
+2018-01-01,9,Sant Andreu,63,Navas,72,14,1
+2018-01-01,9,Sant Andreu,63,Navas,66,14,2
+2018-01-01,9,Sant Andreu,63,Navas,215,15,1
+2018-01-01,9,Sant Andreu,63,Navas,147,15,2
+2018-01-01,9,Sant Andreu,63,Navas,41,16,1
+2018-01-01,9,Sant Andreu,63,Navas,34,16,2
+2018-01-01,9,Sant Andreu,63,Navas,10210,17,1
+2018-01-01,9,Sant Andreu,63,Navas,8987,17,2
+2018-01-01,9,Sant Andreu,63,Navas,61,18,1
+2018-01-01,9,Sant Andreu,63,Navas,82,18,2
+2018-01-01,9,Sant Andreu,63,Navas,..,19,2
+2018-01-01,9,Sant Andreu,63,Navas,..,23,1
+2018-01-01,9,Sant Andreu,63,Navas,..,23,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,1,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,2,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,7,2,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,133,3,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,205,3,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,4,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,4,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,10,5,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,34,5,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,135,6,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,122,6,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,175,7,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,84,7,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,1110,8,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,926,8,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,39,9,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,30,9,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,10,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,10,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,395,11,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,330,11,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,108,12,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,272,12,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,42,13,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,32,13,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,85,14,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,83,14,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,332,15,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,210,15,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,119,16,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,149,16,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,17394,17,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,15177,17,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,280,18,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,283,18,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,19,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,5,19,2
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,23,1
+2018-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,23,2
+2018-01-01,10,Sant Martí,65,el Clot,..,1,1
+2018-01-01,10,Sant Martí,65,el Clot,8,2,1
+2018-01-01,10,Sant Martí,65,el Clot,6,2,2
+2018-01-01,10,Sant Martí,65,el Clot,123,3,1
+2018-01-01,10,Sant Martí,65,el Clot,203,3,2
+2018-01-01,10,Sant Martí,65,el Clot,..,4,1
+2018-01-01,10,Sant Martí,65,el Clot,..,4,2
+2018-01-01,10,Sant Martí,65,el Clot,6,5,1
+2018-01-01,10,Sant Martí,65,el Clot,33,5,2
+2018-01-01,10,Sant Martí,65,el Clot,58,6,1
+2018-01-01,10,Sant Martí,65,el Clot,44,6,2
+2018-01-01,10,Sant Martí,65,el Clot,142,7,1
+2018-01-01,10,Sant Martí,65,el Clot,64,7,2
+2018-01-01,10,Sant Martí,65,el Clot,569,8,1
+2018-01-01,10,Sant Martí,65,el Clot,482,8,2
+2018-01-01,10,Sant Martí,65,el Clot,26,9,1
+2018-01-01,10,Sant Martí,65,el Clot,21,9,2
+2018-01-01,10,Sant Martí,65,el Clot,..,10,1
+2018-01-01,10,Sant Martí,65,el Clot,..,10,2
+2018-01-01,10,Sant Martí,65,el Clot,281,11,1
+2018-01-01,10,Sant Martí,65,el Clot,211,11,2
+2018-01-01,10,Sant Martí,65,el Clot,50,12,1
+2018-01-01,10,Sant Martí,65,el Clot,151,12,2
+2018-01-01,10,Sant Martí,65,el Clot,15,13,1
+2018-01-01,10,Sant Martí,65,el Clot,7,13,2
+2018-01-01,10,Sant Martí,65,el Clot,69,14,1
+2018-01-01,10,Sant Martí,65,el Clot,56,14,2
+2018-01-01,10,Sant Martí,65,el Clot,246,15,1
+2018-01-01,10,Sant Martí,65,el Clot,175,15,2
+2018-01-01,10,Sant Martí,65,el Clot,64,16,1
+2018-01-01,10,Sant Martí,65,el Clot,80,16,2
+2018-01-01,10,Sant Martí,65,el Clot,12294,17,1
+2018-01-01,10,Sant Martí,65,el Clot,11268,17,2
+2018-01-01,10,Sant Martí,65,el Clot,136,18,1
+2018-01-01,10,Sant Martí,65,el Clot,147,18,2
+2018-01-01,10,Sant Martí,65,el Clot,..,19,1
+2018-01-01,10,Sant Martí,65,el Clot,..,19,2
+2018-01-01,10,Sant Martí,65,el Clot,..,23,1
+2018-01-01,10,Sant Martí,65,el Clot,..,23,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,2,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,5,2,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,81,3,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,164,3,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,4,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,6,5,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,42,5,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,27,6,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,29,6,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,55,7,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,38,7,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,324,8,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,247,8,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,40,9,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,55,9,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,8,10,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,9,10,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,204,11,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,179,11,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,45,12,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,116,12,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,21,13,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,13,13,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,53,14,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,51,14,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,15,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,158,15,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,96,16,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,126,16,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,6589,17,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,6024,17,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,188,18,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,207,18,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,19,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,19,2
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,5,23,1
+2018-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,23,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,1,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,14,3,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,12,3,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,5,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,5,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,7,6,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,6,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,22,7,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,17,7,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,125,8,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,92,8,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,24,9,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,34,9,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,10,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,10,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,31,11,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,23,11,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,18,12,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,23,12,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,6,13,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,10,14,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,14,14,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,132,15,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,74,15,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,65,16,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,82,16,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,4147,17,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,3979,17,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,161,18,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,179,18,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,19,1
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,8,19,2
+2018-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,23,1
+2018-01-01,10,Sant Martí,68,el Poblenou,..,1,1
+2018-01-01,10,Sant Martí,68,el Poblenou,..,1,2
+2018-01-01,10,Sant Martí,68,el Poblenou,5,2,1
+2018-01-01,10,Sant Martí,68,el Poblenou,..,2,2
+2018-01-01,10,Sant Martí,68,el Poblenou,76,3,1
+2018-01-01,10,Sant Martí,68,el Poblenou,122,3,2
+2018-01-01,10,Sant Martí,68,el Poblenou,..,4,2
+2018-01-01,10,Sant Martí,68,el Poblenou,13,5,1
+2018-01-01,10,Sant Martí,68,el Poblenou,41,5,2
+2018-01-01,10,Sant Martí,68,el Poblenou,33,6,1
+2018-01-01,10,Sant Martí,68,el Poblenou,33,6,2
+2018-01-01,10,Sant Martí,68,el Poblenou,112,7,1
+2018-01-01,10,Sant Martí,68,el Poblenou,62,7,2
+2018-01-01,10,Sant Martí,68,el Poblenou,568,8,1
+2018-01-01,10,Sant Martí,68,el Poblenou,453,8,2
+2018-01-01,10,Sant Martí,68,el Poblenou,77,9,1
+2018-01-01,10,Sant Martí,68,el Poblenou,64,9,2
+2018-01-01,10,Sant Martí,68,el Poblenou,10,10,1
+2018-01-01,10,Sant Martí,68,el Poblenou,8,10,2
+2018-01-01,10,Sant Martí,68,el Poblenou,215,11,1
+2018-01-01,10,Sant Martí,68,el Poblenou,200,11,2
+2018-01-01,10,Sant Martí,68,el Poblenou,125,12,1
+2018-01-01,10,Sant Martí,68,el Poblenou,325,12,2
+2018-01-01,10,Sant Martí,68,el Poblenou,21,13,1
+2018-01-01,10,Sant Martí,68,el Poblenou,9,13,2
+2018-01-01,10,Sant Martí,68,el Poblenou,87,14,1
+2018-01-01,10,Sant Martí,68,el Poblenou,77,14,2
+2018-01-01,10,Sant Martí,68,el Poblenou,373,15,1
+2018-01-01,10,Sant Martí,68,el Poblenou,242,15,2
+2018-01-01,10,Sant Martí,68,el Poblenou,248,16,1
+2018-01-01,10,Sant Martí,68,el Poblenou,284,16,2
+2018-01-01,10,Sant Martí,68,el Poblenou,15080,17,1
+2018-01-01,10,Sant Martí,68,el Poblenou,13982,17,2
+2018-01-01,10,Sant Martí,68,el Poblenou,490,18,1
+2018-01-01,10,Sant Martí,68,el Poblenou,514,18,2
+2018-01-01,10,Sant Martí,68,el Poblenou,12,19,1
+2018-01-01,10,Sant Martí,68,el Poblenou,13,19,2
+2018-01-01,10,Sant Martí,68,el Poblenou,..,23,1
+2018-01-01,10,Sant Martí,68,el Poblenou,..,23,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,1,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,60,3,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,74,3,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,4,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,5,5,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,18,5,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,13,6,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,14,6,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,30,7,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,20,7,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,8,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,150,8,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,26,9,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,23,9,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,7,10,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,9,10,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,93,11,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,87,11,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,28,12,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,52,12,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,9,13,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,13,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,39,14,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,50,14,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,336,15,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,244,15,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,80,16,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,96,16,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,5859,17,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,5608,17,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,160,18,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,225,18,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,19,1
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,19,2
+2018-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,23,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,1,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,7,2,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,13,2,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,239,3,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,334,3,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,54,5,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,258,5,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,70,6,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,83,6,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,206,7,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,95,7,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,460,8,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,386,8,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,8,9,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,6,9,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,21,10,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,25,10,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,196,11,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,191,11,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,726,12,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,1684,12,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,6,13,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,10,13,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,72,14,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,76,14,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,559,15,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,443,15,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,27,16,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,35,16,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,8986,17,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,8352,17,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,34,18,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,52,18,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,19,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,19,2
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,23,1
+2018-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,23,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,..,2,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,..,2,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,112,3,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,146,3,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,..,4,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,10,5,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,37,5,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,39,6,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,35,6,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,87,7,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,44,7,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,330,8,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,281,8,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,19,9,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,15,9,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,..,10,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,123,11,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,109,11,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,84,12,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,158,12,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,6,13,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,..,13,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,52,14,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,65,14,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,282,15,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,193,15,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,57,16,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,64,16,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,9403,17,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,8615,17,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,119,18,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,127,18,2
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,..,19,1
+2018-01-01,10,Sant Martí,71,Provençals del Poblenou,..,19,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,1,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,10,2,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,2,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,47,3,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,74,3,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,10,5,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,28,5,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,94,6,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,74,6,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,106,7,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,54,7,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,445,8,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,406,8,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,16,9,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,62,9,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,10,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,344,11,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,311,11,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,44,12,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,114,12,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,19,13,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,7,13,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,54,14,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,50,14,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,252,15,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,195,15,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,21,16,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,17,16,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,12309,17,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,10800,17,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,61,18,1
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,61,18,2
+2018-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,19,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,..,1,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,..,1,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,..,2,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,8,2,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,77,3,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,90,3,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,..,4,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,24,5,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,64,5,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,76,6,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,67,6,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,139,7,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,63,7,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,517,8,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,415,8,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,..,9,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,5,9,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,..,10,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,..,10,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,356,11,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,356,11,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,105,12,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,193,12,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,16,13,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,6,13,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,76,14,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,68,14,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,285,15,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,230,15,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,24,16,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,20,16,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,13348,17,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,12071,17,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,50,18,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,46,18,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,..,19,2
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,..,23,1
+2018-01-01,10,Sant Martí,73,la Verneda i la Pau,..,23,2

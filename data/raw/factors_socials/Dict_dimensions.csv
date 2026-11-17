@@ -1,0 +1,337 @@
+Codi_Dimensio,Desc_Dimensio,Codi_Valor,Desc_Valor_CA,Desc_Valor_ES,Desc_Valor_EN
+1,SEXE,1,Dona,Mujer,Female
+1,SEXE,2,Home,Hombre,Male
+2,EDAT_1,0,0 anys,0 años,0 years
+2,EDAT_1,1,1 anys,1 años,1 years
+2,EDAT_1,2,2 anys,2 años,2 years
+2,EDAT_1,3,3 anys,3 años,3 years
+2,EDAT_1,4,4 anys,4 años,4 years
+2,EDAT_1,5,5 anys,5 años,5 years
+2,EDAT_1,6,6 anys,6 años,6 years
+2,EDAT_1,7,7 anys,7 años,7 years
+2,EDAT_1,8,8 anys,8 años,8 years
+2,EDAT_1,9,9 anys,9 años,9 years
+2,EDAT_1,10,10 anys,10 años,10 years
+2,EDAT_1,11,11 anys,11 años,11 years
+2,EDAT_1,12,12 anys,12 años,12 years
+2,EDAT_1,13,13 anys,13 años,13 years
+2,EDAT_1,14,14 anys,14 años,14 years
+2,EDAT_1,15,15 anys,15 años,15 years
+2,EDAT_1,16,16 anys,16 años,16 years
+2,EDAT_1,17,17 anys,17 años,17 years
+2,EDAT_1,18,18 anys,18 años,18 years
+2,EDAT_1,19,19 anys,19 años,19 years
+2,EDAT_1,20,20 anys,20 años,20 years
+2,EDAT_1,21,21 anys,21 años,21 years
+2,EDAT_1,22,22 anys,22 años,22 years
+2,EDAT_1,23,23 anys,23 años,23 years
+2,EDAT_1,24,24 anys,24 años,24 years
+2,EDAT_1,25,25 anys,25 años,25 years
+2,EDAT_1,26,26 anys,26 años,26 years
+2,EDAT_1,27,27 anys,27 años,27 years
+2,EDAT_1,28,28 anys,28 años,28 years
+2,EDAT_1,29,29 anys,29 años,29 years
+2,EDAT_1,30,30 anys,30 años,30 years
+2,EDAT_1,31,31 anys,31 años,31 years
+2,EDAT_1,32,32 anys,32 años,32 years
+2,EDAT_1,33,33 anys,33 años,33 years
+2,EDAT_1,34,34 anys,34 años,34 years
+2,EDAT_1,35,35 anys,35 años,35 years
+2,EDAT_1,36,36 anys,36 años,36 years
+2,EDAT_1,37,37 anys,37 años,37 years
+2,EDAT_1,38,38 anys,38 años,38 years
+2,EDAT_1,39,39 anys,39 años,39 years
+2,EDAT_1,40,40 anys,40 años,40 years
+2,EDAT_1,41,41 anys,41 años,41 years
+2,EDAT_1,42,42 anys,42 años,42 years
+2,EDAT_1,43,43 anys,43 años,43 years
+2,EDAT_1,44,44 anys,44 años,44 years
+2,EDAT_1,45,45 anys,45 años,45 years
+2,EDAT_1,46,46 anys,46 años,46 years
+2,EDAT_1,47,47 anys,47 años,47 years
+2,EDAT_1,48,48 anys,48 años,48 years
+2,EDAT_1,49,49 anys,49 años,49 years
+2,EDAT_1,50,50 anys,50 años,50 years
+2,EDAT_1,51,51 anys,51 años,51 years
+2,EDAT_1,52,52 anys,52 años,52 years
+2,EDAT_1,53,53 anys,53 años,53 years
+2,EDAT_1,54,54 anys,54 años,54 years
+2,EDAT_1,55,55 anys,55 años,55 years
+2,EDAT_1,56,56 anys,56 años,56 years
+2,EDAT_1,57,57 anys,57 años,57 years
+2,EDAT_1,58,58 anys,58 años,58 years
+2,EDAT_1,59,59 anys,59 años,59 years
+2,EDAT_1,60,60 anys,60 años,60 years
+2,EDAT_1,61,61 anys,61 años,61 years
+2,EDAT_1,62,62 anys,62 años,62 years
+2,EDAT_1,63,63 anys,63 años,63 years
+2,EDAT_1,64,64 anys,64 años,64 years
+2,EDAT_1,65,65 anys,65 años,65 years
+2,EDAT_1,66,66 anys,66 años,66 years
+2,EDAT_1,67,67 anys,67 años,67 years
+2,EDAT_1,68,68 anys,68 años,68 years
+2,EDAT_1,69,69 anys,69 años,69 years
+2,EDAT_1,70,70 anys,70 años,70 years
+2,EDAT_1,71,71 anys,71 años,71 years
+2,EDAT_1,72,72 anys,72 años,72 years
+2,EDAT_1,73,73 anys,73 años,73 years
+2,EDAT_1,74,74 anys,74 años,74 years
+2,EDAT_1,75,75 anys,75 años,75 years
+2,EDAT_1,76,76 anys,76 años,76 years
+2,EDAT_1,77,77 anys,77 años,77 years
+2,EDAT_1,78,78 anys,78 años,78 years
+2,EDAT_1,79,79 anys,79 años,79 years
+2,EDAT_1,80,80 anys,80 años,80 years
+2,EDAT_1,81,81 anys,81 años,81 years
+2,EDAT_1,82,82 anys,82 años,82 years
+2,EDAT_1,83,83 anys,83 años,83 years
+2,EDAT_1,84,84 anys,84 años,84 years
+2,EDAT_1,85,85 anys,85 años,85 years
+2,EDAT_1,86,86 anys,86 años,86 years
+2,EDAT_1,87,87 anys,87 años,87 years
+2,EDAT_1,88,88 anys,88 años,88 years
+2,EDAT_1,89,89 anys,89 años,89 years
+2,EDAT_1,90,90 anys,90 años,90 years
+2,EDAT_1,91,91 anys,91 años,91 years
+2,EDAT_1,92,92 anys,92 años,92 years
+2,EDAT_1,93,93 anys,93 años,93 years
+2,EDAT_1,94,94 anys,94 años,94 years
+2,EDAT_1,95,95 anys,95 años,95 years
+2,EDAT_1,96,96 anys,96 años,96 years
+2,EDAT_1,97,97 anys,97 años,97 years
+2,EDAT_1,98,98 anys,98 años,98 years
+2,EDAT_1,99,99 anys,99 años,99 years
+2,EDAT_1,100,≥100 anys,≥100 años,≥100 years
+2,EDAT_1,101,No consta,No consta,Not available
+3,EDAT_Q,0,<5 anys,<5 años,<5 years
+3,EDAT_Q,1,5-9 anys,5-9 años,5-9 years
+3,EDAT_Q,2,10-14 anys,10-14 años,10-14 years
+3,EDAT_Q,3,15-19 anys,15-19 años,15-19 years
+3,EDAT_Q,4,20-24 anys,20-24 años,20-24 years
+3,EDAT_Q,5,25-29 anys,25-29 años,25-29 years
+3,EDAT_Q,6,30-34 anys,30-34 años,30-34 years
+3,EDAT_Q,7,35-39 anys,35-39 años,35-39 years
+3,EDAT_Q,8,40-44 anys,40-44 años,40-44 years
+3,EDAT_Q,9,45-49 anys,45-49 años,45-49 years
+3,EDAT_Q,10,50-54 anys,50-54 años,50-54 years
+3,EDAT_Q,11,55-59 anys,55-59 años,55-59 years
+3,EDAT_Q,12,60-64 anys,60-64 años,60-64 years
+3,EDAT_Q,13,65-69 anys,65-69 años,65-69 years
+3,EDAT_Q,14,70-74 anys,70-74 años,70-74 years
+3,EDAT_Q,15,75-79 anys,75-79 años,75-79 years
+3,EDAT_Q,16,80-84 anys,80-84 años,80-84 years
+3,EDAT_Q,17,85-89 anys,85-89 años,85-89 years
+3,EDAT_Q,18,90-94 anys,90-94 años,90-94 years
+3,EDAT_Q,19,95-99 anys,95-99 años,95-99 years
+3,EDAT_Q,20,≥100 anys,≥100 años,≥100 years
+3,EDAT_Q,21,No consta,No consta,Not available
+4,LLOC_NAIX,1,Barcelona ciutat,Barcelona ciudad,City of Barcelona
+4,LLOC_NAIX,2,Resta de Catalunya,Resto de Cataluña,Rest of Catalonia
+4,LLOC_NAIX,3,Resta d’Espanya,Resto de España,Rest of Spain
+4,LLOC_NAIX,4,Resta de la Unió Europea,Resto de la Unión Europea,Rest of European Union
+4,LLOC_NAIX,5,Resta del món,Resto del mundo,Rest of World
+4,LLOC_NAIX,6,No consta,No consta,Not available
+5,LLOC_NAIX_REGIO,1,Àfrica oriental,África oriental,Eastern Africa
+5,LLOC_NAIX_REGIO,2,Àfrica central,África central,Middle Africa
+5,LLOC_NAIX_REGIO,3,Àfrica septentrional,África septentrional,Northern Africa
+5,LLOC_NAIX_REGIO,4,Àfrica meridional,África meridional,Southern Africa
+5,LLOC_NAIX_REGIO,5,Àfrica occidental,África occidental,Western Africa
+5,LLOC_NAIX_REGIO,6,Carib,Caribe,Caribbean
+5,LLOC_NAIX_REGIO,7,Amèrica central,América central,Central America
+5,LLOC_NAIX_REGIO,8,Amèrica del sud,América del sur,South America
+5,LLOC_NAIX_REGIO,9,Amèrica del nord,América del norte,Northern America
+5,LLOC_NAIX_REGIO,10,Àsia central,Asia central,Central Asia
+5,LLOC_NAIX_REGIO,11,Àsia oriental,Asia oriental,Eastern Asia
+5,LLOC_NAIX_REGIO,12,Àsia meridional,Asia meridional,Southern Asia
+5,LLOC_NAIX_REGIO,13,Àsia sud-oriental,Asia sur-oriental,South-Eastern Asia
+5,LLOC_NAIX_REGIO,14,Àsia occidental,Ásia occidental,Western Asia
+5,LLOC_NAIX_REGIO,15,Europa oriental,Europa oriental,Eastern Europe
+5,LLOC_NAIX_REGIO,16,Europa septentrional,Europa septentrional,Northern Europe
+5,LLOC_NAIX_REGIO,17,Europa meridional,Europa meridional,Southern Europe
+5,LLOC_NAIX_REGIO,18,Europa occidental,Europa occidental,Western Europe
+5,LLOC_NAIX_REGIO,19,Austràlia i Nova Zelanda,Australia y Nueva Zelanda,Australia and New Zealand
+5,LLOC_NAIX_REGIO,20,Melanèsia,Melanesia,Melanesia
+5,LLOC_NAIX_REGIO,21,Micronèsia,Micronesia,Micronesia
+5,LLOC_NAIX_REGIO,22,Polinèsia,Polinesia,Polynesia
+5,LLOC_NAIX_REGIO,23,No consta,No consta,Not available
+6,NACIONALITAT_G,1,Espanya,España,Spain
+6,NACIONALITAT_G,2,Resta de la Unió Europea,Resto de la Unión Europea,Rest of European Union
+6,NACIONALITAT_G,3,Resta del món,Resto del mundo,Rest of World
+6,NACIONALITAT_G,4,No consta,No consta,Not available
+7,NACIONALITAT_REGIO,1,Àfrica oriental,África oriental,Eastern Africa
+7,NACIONALITAT_REGIO,2,Àfrica central,África central,Middle Africa
+7,NACIONALITAT_REGIO,3,Àfrica septentrional,África septentrional,Northern Africa
+7,NACIONALITAT_REGIO,4,Àfrica meridional,África meridional,Southern Africa
+7,NACIONALITAT_REGIO,5,Àfrica occidental,África occidental,Western Africa
+7,NACIONALITAT_REGIO,6,Carib,Caribe,Caribbean
+7,NACIONALITAT_REGIO,7,Amèrica central,América central,Central America
+7,NACIONALITAT_REGIO,8,Amèrica del sud,América del sur,South America
+7,NACIONALITAT_REGIO,9,Amèrica del nord,América del norte,Northern America
+7,NACIONALITAT_REGIO,10,Àsia central,Asia central,Central Asia
+7,NACIONALITAT_REGIO,11,Àsia oriental,Asia oriental,Eastern Asia
+7,NACIONALITAT_REGIO,12,Àsia meridional,Asia meridional,Southern Asia
+7,NACIONALITAT_REGIO,13,Àsia sud-oriental,Asia sur-oriental,South-Eastern Asia
+7,NACIONALITAT_REGIO,14,Àsia occidental,Ásia occidental,Western Asia
+7,NACIONALITAT_REGIO,15,Europa oriental,Europa oriental,Eastern Europe
+7,NACIONALITAT_REGIO,16,Europa septentrional,Europa septentrional,Northern Europe
+7,NACIONALITAT_REGIO,17,Europa meridional,Europa meridional,Southern Europe
+7,NACIONALITAT_REGIO,18,Europa occidental,Europa occidental,Western Europe
+7,NACIONALITAT_REGIO,19,Austràlia i Nova Zelanda,Australia y Nueva Zelanda,Australia and New Zealand
+7,NACIONALITAT_REGIO,20,Melanèsia,Melanesia,Melanesia
+7,NACIONALITAT_REGIO,21,Micronèsia,Micronesia,Micronesia
+7,NACIONALITAT_REGIO,22,Polinèsia,Polinesia,Polynesia
+7,NACIONALITAT_REGIO,23,No consta,No consta,Not available
+8,NIV_EDUCA_esta,1,Sense estudis,Sin estudios,Less than primary education
+8,NIV_EDUCA_esta,2,"Estudis primaris, certificat d'escolaritat, EGB","Estudios primarios, certificado de escolaridad, EGB",Primary education
+8,NIV_EDUCA_esta,3,"Batxillerat elemental, graduat escolar, ESO, FPI","Bachillerato elemental, graduado escolar, ESO, FPI",Lower secondary education
+8,NIV_EDUCA_esta,4,"Batxillerat superior, BUP, COU, FPII, CFGM grau mitjà","Bachillerato superior, BUP, COU, FPII, CFGM grado medio",Upper secondary or post-secondary non-tertiary education
+8,NIV_EDUCA_esta,5,"Estudis universitaris, CFGS grau superior","Estudios universitarios, CFGS grado superior",Tertiary education
+8,NIV_EDUCA_esta,6,No consta,No consta,Not available
+9,DECADA,1,Abans de 1930,Antes de 1930,Before 1930
+9,DECADA,2,1930-1939,1930-1939,1930-1939
+9,DECADA,3,1940-1949,1940-1949,1940-1949
+9,DECADA,4,1950-1959,1950-1959,1950-1959
+9,DECADA,5,1960-1969,1960-1969,1960-1969
+9,DECADA,6,1970-1979,1970-1979,1970-1979
+9,DECADA,7,1980-1989,1980-1989,1980-1989
+9,DECADA,8,1990-1999,1990-1999,1990-1999
+9,DECADA,9,2000-2009,2000-2009,2000-2009
+9,DECADA,10,2010-2019,2010-2019,2010-2019
+9,DECADA,11,2020-2030,2020-2030,2020-2023
+10,ORDRE_COGNOM,1,Primer cognom,Primer apellido,First surname
+10,ORDRE_COGNOM,2,Segon cognom,Segundo apellido,Second surname
+10,ORDRE_COGNOM,3,Ambdós cognoms,Ambos apellidos,Both surname
+11,LLOC_NAIX_CONTINENT,1,Àfrica,África,Africa
+11,LLOC_NAIX_CONTINENT,2,Amèrica,América,Americas
+11,LLOC_NAIX_CONTINENT,3,Àsia,Asia,Asia
+11,LLOC_NAIX_CONTINENT,4,Europa,Europa,Europe
+11,LLOC_NAIX_CONTINENT,5,Oceania,Oceanía,Oceania
+11,LLOC_NAIX_CONTINENT,999,No consta,No consta,Not available
+12,NACIONALITAT_CONTINENT,1,Àfrica,África,Africa
+12,NACIONALITAT_CONTINENT,2,Amèrica,América,Americas
+12,NACIONALITAT_CONTINENT,3,Àsia,Asia,Asia
+12,NACIONALITAT_CONTINENT,4,Europa,Europa,Europe
+12,NACIONALITAT_CONTINENT,5,Oceania,Oceanía,Oceania
+12,NACIONALITAT_CONTINENT,999,No consta,No consta,Not available
+13,N_PERSONES_AGG,1,Una persona,Una persona,One person
+13,N_PERSONES_AGG,2,Dues persones,Dos personas,Two people
+13,N_PERSONES_AGG,3,Tres persones,Tres personas,Three people
+13,N_PERSONES_AGG,4,Quatre persones,Cuatro personas,Four people
+13,N_PERSONES_AGG,5,Cinc persones,Cinco personas,Five people
+13,N_PERSONES_AGG,6,Sis persones,Seis personas,Six people
+13,N_PERSONES_AGG,7,Set persones,Siete personas,Seven people
+13,N_PERSONES_AGG,8,Vuit persones,Ocho personas,Eight people
+13,N_PERSONES_AGG,9,Nou o més persones,Nueve o más personas,Nine or more people
+14,TIPUS_DOMICILI,1,Una dona de 18 a 64 anys,Una mujer de 18 a 64 años,One woman from 18 to 64 years old
+14,TIPUS_DOMICILI,2,Un home de 18 a 64 anys,Un hombre de 18 a 64 años,One man from 18 to 64 years old
+14,TIPUS_DOMICILI,3,Una dona de 65 anys i més,Una mujer de 65 años y más,One woman aged 65 and over
+14,TIPUS_DOMICILI,4,Un home de 65 anys i més,Un hombre de 65 años y más,One man aged 65 and over
+14,TIPUS_DOMICILI,5,Dues persones de 18 a 64 anys,Dos personas de 18 a 64 años,Two people aged 18 to 64
+14,TIPUS_DOMICILI,6,Dues persones de 65 anys i més,Dos personas de 65 años y más,Two people aged 65 and over
+14,TIPUS_DOMICILI,7,Dues persones: una de 18-64 anys i l'altra de 65 i més,Dos personas: una de 18-64 años y otra de 65 y más,Two people: one aged 18-64 and another aged 65 and over
+14,TIPUS_DOMICILI,8,Dues persones o més totes majors de 18 anys,Dos personas o más todas mayores de 18 años,Two or more people over 18 years of age
+14,TIPUS_DOMICILI,9,Dues persones o més: una dona de 18 anys i més amb altres menors de 18 anys,Dos personas o más: una mujer de 18 años y más con otros menores de 18 años,Two or more people: a woman aged 18 and over with others under age 18
+14,TIPUS_DOMICILI,10,Dues persones o més: un home de 18 anys i més amb altres menors de 18 anys,Dos personas o más: un hombre de 18 años y más con otros menores de 18 años,Two or more people: a man aged 18 and over with others under age 18
+14,TIPUS_DOMICILI,11,Tres persones o més: dues de 18 anys i més i la resta menors de 18 anys,Tres personas o más: Dos de 18 años y más y el resto menores de 18 años,Three or more people: Two aged 18 and over and the rest under age 18
+14,TIPUS_DOMICILI,12,Altres domicilis amb una o més persones menors de 18 anys,Otros domicilios con una o más personas menores de 18 años,Other households with one or more people under age 18
+15,DOM_00_18,1,Cap menor de 18 anys,Ningún menor de 18 años,No people under age 18
+15,DOM_00_18,2,Un menor de 18 anys,Un menor de 18 años,A person under age 18
+15,DOM_00_18,3,Dos menors de 18 anys,Dos menores de 18 años,Two people under age 18
+15,DOM_00_18,4,Tres menors de 18 anys,Tres menores de 18 años,Three people under age 18
+15,DOM_00_18,5,Quatre o més menors de 18 anys,Cuatro o más menores de 18 años,Four or more people under age 18
+16,DOM_18_64,1,Cap persona de 18 a 64 anys,Ninguna persona de 18 a 64 años,No people aged 18 to 64
+16,DOM_18_64,2,Una persona de 18 a 64 anys,Una persona de 18 a 64 años,One person aged 18 to 64
+16,DOM_18_64,3,Dues persones de 18 a 64 anys,Dos personas de 18 a 64 años,Two people aged 18 to 64
+16,DOM_18_64,4,Tres persones de 18 a 64 anys,Tres personas de 18 a 64 años,Three people aged 18 to 64
+16,DOM_18_64,5,Quatre persones o més de 18 a 64 anys,Cuatro personas o más de 18 a 64 años,Four people or more aged 18 to 64
+17,DOM_65_99,1,Cap persona de 65 anys i més,Ninguna persona de 65 años y más,No people aged 65 and over
+17,DOM_65_99,2,Una persona de 65 anys i més,Una persona de 65 años y más,One person aged 65 and over
+17,DOM_65_99,3,Dues persones de 65 anys i més,Dos personas de 65 años y más,Two people aged 65 and over
+17,DOM_65_99,4,Tres persones de 65 anys i més,Tres personas de 65 años y más,Three people aged 65 and over
+17,DOM_65_99,5,Quatre persones o més de 65 anys i més,Cuatro personas o más de 65 años y más,Four people or more aged 65 and over
+18,DOM_DONES,1,Cap dona,Ninguna mujer,No woman
+18,DOM_DONES,2,Una dona,Una mujer,A woman
+18,DOM_DONES,3,Dues dones,Dos mujeres,Two women
+18,DOM_DONES,4,Tres dones,Tres mujeres,Three women
+18,DOM_DONES,5,Quatre dones o més,Cuatro mujeres o más,Four women or more
+19,DOM_HOMES,1,Cap home,Ningún hombre,No man
+19,DOM_HOMES,2,Un home,Un hombre,One man
+19,DOM_HOMES,3,Dos homes,Dos hombres,Two men
+19,DOM_HOMES,4,Tres homes,Tres hombres,Three men
+19,DOM_HOMES,5,Quatre homes o més,Cuatro hombres o más,Four men or more
+20,NACIONALITAT_DOMICILI,1,Només nacionalitat espanyola,Solo nacionalidad española,Spanish nationality only
+20,NACIONALITAT_DOMICILI,2,Només nacionalitat estrangera,Solo nacionalidad extranjera,Foreign nationality only
+20,NACIONALITAT_DOMICILI,3,Mixtes,Mixtos,Mixed
+21,CODI_BARRI_DEST,72,Sant Martí de Provençals,Sant Martí de Provençals,Sant Martí de Provençals
+21,CODI_BARRI_DEST,71,Provençals del Poblenou,Provençals del Poblenou,Provençals del Poblenou
+21,CODI_BARRI_DEST,70,el Besòs i el Maresme,el Besòs i el Maresme,el Besòs i el Maresme
+21,CODI_BARRI_DEST,69,Diagonal Mar i el Front Marítim del Poblenou,Diagonal Mar i el Front Marítim del Poblenou,Diagonal Mar i el Front Marítim del Poblenou
+21,CODI_BARRI_DEST,68,el Poblenou,el Poblenou,el Poblenou
+21,CODI_BARRI_DEST,67,la Vila Olímpica del Poblenou,la Vila Olímpica del Poblenou,la Vila Olímpica del Poblenou
+21,CODI_BARRI_DEST,66,el Parc i la Llacuna del Poblenou,el Parc i la Llacuna del Poblenou,el Parc i la Llacuna del Poblenou
+21,CODI_BARRI_DEST,65,el Clot,el Clot,el Clot
+21,CODI_BARRI_DEST,64,el Camp de l'Arpa del Clot,el Camp de l'Arpa del Clot,el Camp de l'Arpa del Clot
+21,CODI_BARRI_DEST,12,la Marina del Prat Vermell,la Marina del Prat Vermell,la Marina del Prat Vermell
+21,CODI_BARRI_DEST,18,Sants,Sants,Sants
+21,CODI_BARRI_DEST,17,Sants - Badal,Sants - Badal,Sants - Badal
+21,CODI_BARRI_DEST,16,la Bordeta,la Bordeta,la Bordeta
+21,CODI_BARRI_DEST,15,Hostafrancs,Hostafrancs,Hostafrancs
+21,CODI_BARRI_DEST,14,la Font de la Guatlla,la Font de la Guatlla,la Font de la Guatlla
+21,CODI_BARRI_DEST,13,la Marina de Port,la Marina de Port,la Marina de Port
+21,CODI_BARRI_DEST,11,el Poble-sec,el Poble-sec,el Poble-sec
+21,CODI_BARRI_DEST,22,"Vallvidrera, el Tibidabo i les Planes","Vallvidrera, el Tibidabo i les Planes","Vallvidrera, el Tibidabo i les Planes"
+21,CODI_BARRI_DEST,23,Sarrià,Sarrià,Sarrià
+21,CODI_BARRI_DEST,26,Sant Gervasi - Galvany,Sant Gervasi - Galvany,Sant Gervasi - Galvany
+21,CODI_BARRI_DEST,25,Sant Gervasi - la Bonanova,Sant Gervasi - la Bonanova,Sant Gervasi - la Bonanova
+21,CODI_BARRI_DEST,24,les Tres Torres,les Tres Torres,les Tres Torres
+21,CODI_BARRI_DEST,27,el Putxet i el Farró,el Putxet i el Farró,el Putxet i el Farró
+21,CODI_BARRI_DEST,3,la Barceloneta,la Barceloneta,la Barceloneta
+21,CODI_BARRI_DEST,2,el Barri Gòtic,el Barri Gòtic,el Barri Gòtic
+21,CODI_BARRI_DEST,1,el Raval,el Raval,el Raval
+21,CODI_BARRI_DEST,4,"Sant Pere, Santa Caterina i la Ribera","Sant Pere, Santa Caterina i la Ribera","Sant Pere, Santa Caterina i la Ribera"
+21,CODI_BARRI_DEST,10,Sant Antoni,Sant Antoni,Sant Antoni
+21,CODI_BARRI_DEST,9,la Nova Esquerra de l'Eixample,la Nova Esquerra de l'Eixample,la Nova Esquerra de l'Eixample
+21,CODI_BARRI_DEST,8,l'Antiga Esquerra de l'Eixample,l'Antiga Esquerra de l'Eixample,l'Antiga Esquerra de l'Eixample
+21,CODI_BARRI_DEST,7,la Dreta de l'Eixample,la Dreta de l'Eixample,la Dreta de l'Eixample
+21,CODI_BARRI_DEST,6,la Sagrada Família,la Sagrada Família,la Sagrada Família
+21,CODI_BARRI_DEST,5,el Fort Pienc,el Fort Pienc,el Fort Pienc
+21,CODI_BARRI_DEST,21,Pedralbes,Pedralbes,Pedralbes
+21,CODI_BARRI_DEST,20,la Maternitat i Sant Ramon,la Maternitat i Sant Ramon,la Maternitat i Sant Ramon
+21,CODI_BARRI_DEST,19,les Corts,les Corts,les Corts
+21,CODI_BARRI_DEST,28,Vallcarca i els Penitents,Vallcarca i els Penitents,Vallcarca i els Penitents
+21,CODI_BARRI_DEST,30,la Salut,la Salut,la Salut
+21,CODI_BARRI_DEST,29,el Coll,el Coll,el Coll
+21,CODI_BARRI_DEST,32,el Camp d'en Grassot i Gràcia Nova,el Camp d'en Grassot i Gràcia Nova,el Camp d'en Grassot i Gràcia Nova
+21,CODI_BARRI_DEST,31,la Vila de Gràcia,la Vila de Gràcia,la Vila de Gràcia
+21,CODI_BARRI_DEST,43,Horta,Horta,Horta
+21,CODI_BARRI_DEST,42,la Clota,la Clota,la Clota
+21,CODI_BARRI_DEST,40,Montbau,Montbau,Montbau
+21,CODI_BARRI_DEST,39,Sant Genís dels Agudells,Sant Genís dels Agudells,Sant Genís dels Agudells
+21,CODI_BARRI_DEST,38,la Teixonera,la Teixonera,la Teixonera
+21,CODI_BARRI_DEST,36,la Font d'en Fargues,la Font d'en Fargues,la Font d'en Fargues
+21,CODI_BARRI_DEST,41,la Vall d'Hebron,la Vall d'Hebron,la Vall d'Hebron
+21,CODI_BARRI_DEST,37,el Carmel,el Carmel,el Carmel
+21,CODI_BARRI_DEST,34,Can Baró,Can Baró,Can Baró
+21,CODI_BARRI_DEST,35,el Guinardó,el Guinardó,el Guinardó
+21,CODI_BARRI_DEST,33,el Baix Guinardó,el Baix Guinardó,el Baix Guinardó
+21,CODI_BARRI_DEST,55,Ciutat Meridiana,Ciutat Meridiana,Ciutat Meridiana
+21,CODI_BARRI_DEST,54,Torre Baró,Torre Baró,Torre Baró
+21,CODI_BARRI_DEST,53,la Trinitat Nova,la Trinitat Nova,la Trinitat Nova
+21,CODI_BARRI_DEST,50,les Roquetes,les Roquetes,les Roquetes
+21,CODI_BARRI_DEST,52,la Prosperitat,la Prosperitat,la Prosperitat
+21,CODI_BARRI_DEST,51,Verdun,Verdun,Verdun
+21,CODI_BARRI_DEST,48,la Guineueta,la Guineueta,la Guineueta
+21,CODI_BARRI_DEST,47,Can Peguera,Can Peguera,Can Peguera
+21,CODI_BARRI_DEST,49,Canyelles,Canyelles,Canyelles
+21,CODI_BARRI_DEST,56,Vallbona,Vallbona,Vallbona
+21,CODI_BARRI_DEST,46,el Turó de la Peira,el Turó de la Peira,el Turó de la Peira
+21,CODI_BARRI_DEST,45,Porta,Porta,Porta
+21,CODI_BARRI_DEST,44,Vilapicina i la Torre Llobeta,Vilapicina i la Torre Llobeta,Vilapicina i la Torre Llobeta
+21,CODI_BARRI_DEST,59,el Bon Pastor,el Bon Pastor,el Bon Pastor
+21,CODI_BARRI_DEST,58,Baró de Viver,Baró de Viver,Baró de Viver
+21,CODI_BARRI_DEST,57,la Trinitat Vella,la Trinitat Vella,la Trinitat Vella
+21,CODI_BARRI_DEST,63,Navas,Navas,Navas
+21,CODI_BARRI_DEST,62,el Congrés i els Indians,el Congrés i els Indians,el Congrés i els Indians
+21,CODI_BARRI_DEST,61,la Sagrera,la Sagrera,la Sagrera
+21,CODI_BARRI_DEST,60,Sant Andreu,Sant Andreu,Sant Andreu
+21,CODI_BARRI_DEST,73,la Verneda i la Pau,la Verneda i la Pau,la Verneda i la Pau
