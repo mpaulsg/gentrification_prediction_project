@@ -1,12 +1,13 @@
 from pathlib import Path
-
 import pandas as pd
 
-
+# Guardem les regions objectiu i les columnes requerides com a constants globals
 TARGET_REGIONS = {
-    "Eastern Europe",
+    "Southern Europe",
+    "Western Europe",
     "Northern Europe",
     "Northern America",
+    "Australia and New Zealand"
 }
 
 REQUIRED_DATA_COLUMNS = {
@@ -20,16 +21,19 @@ REQUIRED_DATA_COLUMNS = {
 
 
 def _get_region_codes(dictionary_file: Path) -> tuple[set[str], set[str]]:
-    dimensions_df = pd.read_csv(
-        dictionary_file,
-        encoding="utf-8-sig",
-        dtype=str,
-    )
-    required_columns = {
-        "Desc_Dimensio",
-        "Codi_Valor",
-        "Desc_Valor_EN",
-    }
+    """
+    Llegeix el fitxer de diccionari de dimensions i retorna els codis de regió
+    de nacionalitat i els codis de les regions objectiu.
+    Args:
+        dictionary_file (Path): Ruta al fitxer CSV del diccionari de dimensions.    
+    Returns:
+        tuple: Un conjunt amb tots els codis de regió de nacionalitat i un altre
+                conjunt amb els codis de les regions objectiu.
+    """
+    dimensions_df = pd.read_csv(dictionary_file, encoding="utf-8-sig", 
+                                dtype=str)
+    required_columns = {"Desc_Dimensio", "Codi_Valor", "Desc_Valor_EN"}
+
     missing_columns = required_columns.difference(dimensions_df.columns)
     if missing_columns:
         raise ValueError(
@@ -38,19 +42,15 @@ def _get_region_codes(dictionary_file: Path) -> tuple[set[str], set[str]]:
         )
 
     nationality_regions = dimensions_df.loc[
-        dimensions_df["Desc_Dimensio"].eq("NACIONALITAT_REGIO")
-    ].copy()
+        dimensions_df["Desc_Dimensio"].eq("NACIONALITAT_REGIO")].copy()
     nationality_regions["Codi_Valor"] = (
-        nationality_regions["Codi_Valor"].astype("string").str.strip()
-    )
+        nationality_regions["Codi_Valor"].astype("string").str.strip())
     nationality_regions["Desc_Valor_EN"] = (
-        nationality_regions["Desc_Valor_EN"].astype("string").str.strip()
-    )
+        nationality_regions["Desc_Valor_EN"].astype("string").str.strip())
 
     target_rows = nationality_regions.loc[
-        nationality_regions["Desc_Valor_EN"].isin(TARGET_REGIONS)
-    ]
-    target_counts = target_rows["Desc_Valor_EN"].value_counts(
+        nationality_regions["Desc_Valor_EN"].isin(TARGET_REGIONS)]
+    target_counts = target_rows["Desc_Valor_EN"].value_counts()
     if (
         set(target_rows["Desc_Valor_EN"]) != TARGET_REGIONS
         or not target_counts.eq(1).all()
@@ -67,11 +67,13 @@ def _get_region_codes(dictionary_file: Path) -> tuple[set[str], set[str]]:
 
 def nationality_processing(config: dict) -> pd.DataFrame:
     """
-    Calcula el percentatge de població de les tres regions objectiu per barri i any.
-
-    Els registres d'ambdós sexes es combinen. El denominador inclou tots els
-    codis de regió de nacionalitat. Es conserven els grups barri-any incomplets
-    amb el percentatge marcat com a NaN.
+    Calcula el percentatge de població de les regions objectiu  per barri i any.
+    Args:
+        config (dict): Configuració carregada des del YAML.
+    Returns:
+        pd.DataFrame: Dataframe amb les columnes 'Any', 'Barri' i 'Valor',
+                      on 'Valor' és nombre de persones de les regions objectiu 
+                      per barri i any.
     """
     input_folder = Path(config["input_file"])
     if not input_folder.is_dir():
@@ -148,38 +150,27 @@ def nationality_processing(config: dict) -> pd.DataFrame:
     group_columns = ["Any", "Codi_Barri", "Nom_Barri"]
 
     row_counts = (
-        data.groupby(group_columns)["_population"]
-        .agg(total_rows="size", valid_rows="count")
-        .reset_index()
-    )
-    total_population = (
-        data.groupby(group_columns)["_population"]
-        .sum(min_count=1)
-        .reset_index()
-        .rename(columns={"_population": "total_population"})
-    )
+    data.groupby(group_columns)["_population"]
+    .agg(total_rows="size", valid_rows="count")
+    .reset_index())
+
     target_population = (
         data.loc[data["NACIONALITAT_REGIO"].isin(target_region_codes)]
         .groupby(group_columns)["_population"]
         .sum(min_count=1)
         .reset_index()
-        .rename(columns={"_population": "target_population"})
+        .rename(columns={"_population": "Valor"})
     )
 
-    result = row_counts.merge(total_population, on=group_columns)
-    result = result.merge(target_population, on=group_columns, how="left")
-    result["target_population"] = result["target_population"].fillna(0)
-    is_complete = result["total_rows"].eq(result["valid_rows"])
-    if result.loc[is_complete, "total_population"].le(0).any():
-        raise ValueError(
-            "A neighborhood-year has zero total population; "
-            "its percentage cannot be calculated."
-        )
+    result = row_counts.merge(target_population, on=group_columns, how="left")
 
-    result["Valor"] = (
-        result["target_population"] / result["total_population"] * 100
-    ).where(is_complete)
+    # Si hi ha files incompletes deixem el valor com NaN
+    is_complete = result["total_rows"].eq(result["valid_rows"])
+    result["Valor"] = result["Valor"].where(is_complete)
+    result = result.loc[result["Valor"].notna()]
+
     result = result.rename(columns={"Nom_Barri": "Barri"})
+
     return (
         result[["Any", "Barri", "Valor"]]
         .sort_values(["Barri", "Any"])

@@ -10,7 +10,7 @@ def process_parcs_jardins(df: pd.DataFrame) -> pd.DataFrame:
         df: Dataframe amb el recompte acumulatiu de parcs per barri i any.
     """
 
-    # Validació de les columnes requerides
+    # Columnes que necessitem
     required_columns = {
         "register_id",
         "created",
@@ -21,31 +21,21 @@ def process_parcs_jardins(df: pd.DataFrame) -> pd.DataFrame:
     if missing_columns:
         raise ValueError("Missing required columns")
 
-    # Generem un DF nou només amb les columnes necessàries i fem les 
-    # comprovacions de validesa corresponents
+    # Generem un DF nou només amb les columnes necessàries i netegem les dades
     parks_df = df[ ["register_id", 
                     "created", 
                     "addresses_neighborhood_name"]].copy()
+
+    # Neteja de la columna "register_id"
     parks_df["register_id"] = (parks_df["register_id"].astype("string")
                                .str.strip().str.lstrip("\ufeff"))
-    
-    if parks_df["register_id"].isna().any() or parks_df["register_id"].eq("").any():
-        raise ValueError("Park records must have a register_id.")
-
+    # Neteja de la columna "adresses_neighborhood_name"
     parks_df["addresses_neighborhood_name"] = (
         parks_df["addresses_neighborhood_name"].astype("string").str.strip())
     
-    if parks_df["addresses_neighborhood_name"].isna().any() or (
-        parks_df["addresses_neighborhood_name"].eq("").any()
-    ):
-        raise ValueError("Park records must have a neighborhood name.")
 
     # Eliminem els duplicats
     parks_df = parks_df.drop_duplicates()
-    if parks_df.duplicated("register_id").any():
-        raise ValueError(
-            "A register_id has conflicting creation dates or neighborhoods.")
-    parks_df = parks_df.drop_duplicates("register_id").copy()
 
     # Comprovem la validesa de les dates de creació dels parcs i generem un 
     # DataFrame amb el recompte acumulatiu de parcs per barri i any.
