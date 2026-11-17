@@ -50,7 +50,7 @@ def _get_region_codes(dictionary_file: Path) -> tuple[set[str], set[str]]:
     target_rows = nationality_regions.loc[
         nationality_regions["Desc_Valor_EN"].isin(TARGET_REGIONS)
     ]
-    target_counts = target_rows["Desc_Valor_EN"].value_counts()
+    target_counts = target_rows["Desc_Valor_EN"].value_counts(
     if (
         set(target_rows["Desc_Valor_EN"]) != TARGET_REGIONS
         or not target_counts.eq(1).all()
