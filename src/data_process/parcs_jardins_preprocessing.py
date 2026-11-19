@@ -75,12 +75,12 @@ def process_parcs_jardins(df: pd.DataFrame) -> pd.DataFrame:
                                as_index=False).size()
                                .rename(columns={
                                    "addresses_neighborhood_name": "Barri",
-                                   "size": "Valor"}))
+                                   "size": "Nombre_parcs"}))
     result_df["Any"] = result_df["Any"].astype(int)
 
     # Ordenem el DataFrame final per tenir en files consecutives la informació 
     # del mateix barri per anys diferents
-    result_df = result_df[["Barri", "Any", "Valor"]]
+    result_df = result_df[["Barri", "Any", "Nombre_parcs"]]
     result_df = result_df.sort_values(["Barri", "Any"]).reset_index(drop=True)
 
     return result_df

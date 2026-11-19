@@ -46,11 +46,11 @@ def process_obres_espai_public(df: pd.DataFrame) -> pd.DataFrame:
 
     # Agrupació per barri i any per obtenir el nombre d'obres per barri i any
     obres_df = (works_df.groupby(["nom_barri", "Any"], as_index=False)
-                .size().rename(columns={"nom_barri": "Barri", "size": "Valor"}))
+                .size().rename(columns={"nom_barri": "Barri", "size": "Nombre_obres"}))
     obres_df["Any"] = obres_df["Any"].astype(int)
 
     # Reordenació de columnes i files per tenir un DataFrame amb format final
-    obres_df = (obres_df[["Barri", "Any", "Valor"]]
+    obres_df = (obres_df[["Barri", "Any", "Nombre_obres"]]
                 .sort_values(["Barri", "Any"]).reset_index(drop=True))
     
     return obres_df

@@ -169,10 +169,12 @@ def nationality_processing(config: dict) -> pd.DataFrame:
     result["Valor"] = result["Valor"].where(is_complete)
     result = result.loc[result["Valor"].notna()]
 
-    result = result.rename(columns={"Nom_Barri": "Barri"})
+    result = result.rename(columns={"Nom_Barri": "Barri", 
+                "Valor": "Nombre_habitants_Europeus-NordAmericans"})
+    [["Any", "Barri", "Nombre_habitants_Europeus-NordAmericans"]]
 
     return (
-        result[["Any", "Barri", "Valor"]]
+        result[["Any", "Barri", "Nombre_habitants_Europeus-NordAmericans"]]
         .sort_values(["Barri", "Any"])
         .reset_index(drop=True)
     )

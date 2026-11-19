@@ -8,6 +8,8 @@ from src.data_process.parcs_jardins_preprocessing import process_parcs_jardins
 from src.data_process.nacionalitat_preprocessing import nationality_processing
 from src.data_process.vehicle_preprocessing import vehicle_processing
 from src.data_process.edat_preprocessing import age_processing
+from src.data_process.estudis_preprocessing import education_processing
+from src.data_process.renda_llar_preprocessing import income_processing
 from src.data_process import utils
 
 
@@ -31,22 +33,23 @@ def _process_public_works(config, raw_df):
         )
 
     clean_df = process_obres_espai_public(raw_df)
-    infrastructure_mask = (
+    TP_mask = (
         raw_df["tipusobra"]
         .astype("string")
         .str.strip()
         .eq("Infraestructura del transport")
         .fillna(False)
     )
-    infrastructure_df = process_obres_espai_public(
-        raw_df.loc[infrastructure_mask]
+    infrastructure_tp_df = process_obres_espai_public(
+        raw_df.loc[TP_mask]
     )
+    infrastructure_tp_df = infrastructure_tp_df.rename(columns={"Valor": "Nombre_obres_TP"})[["Any", "Barri", "Nombre_obres_TP"]]
     output_path = Path(config["output_file"])
     infrastructure_output_file = output_path.with_name(
         f"{output_path.stem}_Infraestructura_Transport.csv"
     )
 
-    return clean_df, {infrastructure_output_file: infrastructure_df}
+    return clean_df, {infrastructure_output_file: infrastructure_tp_df}
 
 
 def _process_parks(raw_df):
@@ -72,6 +75,8 @@ FOLDER_PROCESSORS = {
     "vehicles": vehicle_processing,
     "nationality": nationality_processing,
     "age": age_processing,
+    "studies": education_processing,
+    "income": income_processing,
 }
 
 

@@ -5,9 +5,9 @@ import pandas as pd
 def vehicle_processing(config: dict) -> pd.DataFrame:
     """
     Genera un dataframe amb:
-        Barri | Any | Valor
+        Barri | Any | Nombre_vehicles
 
-    Valor = mitjana de vehicles per secció censal del barri.
+    Nombre_vehicles = nombre total de vehicles per barri i any.
     """
     all_years = []
 
@@ -26,12 +26,12 @@ def vehicle_processing(config: dict) -> pd.DataFrame:
 
         df = pd.read_csv(file)
 
-        # Agrupem les dades per barri i any calculem la mitjana
+        # Agrupem les dades per barri i any i calculem el total
         grouped = (
-            df.groupby(["Nom_Barri", "Any"], as_index=False)["Total"].mean())
+            df.groupby(["Nom_Barri", "Any"], as_index=False)["Total"].sum())
 
         grouped = grouped.rename(columns={"Nom_Barri": "Barri", 
-                                          "Total": "Valor"})
+                                          "Total": "Nombre_vehicles"})
         all_years.append(grouped)
 
     # Generem el DF final

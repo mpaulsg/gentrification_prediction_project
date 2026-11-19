@@ -1,4 +1,4 @@
-Any,Barri,Valor
+Any,Barri,Edat_mitjana
 2015,Baró de Viver,39.564502875924404
 2016,Baró de Viver,39.43361753958587
 2017,Baró de Viver,39.50560897435897
@@ -59,18 +59,18 @@ Any,Barri,Valor
 2024,Ciutat Meridiana,39.35206265367453
 2025,Ciutat Meridiana,39.297234818173735
 2026,Ciutat Meridiana,39.18382223783594
-2015,Diagonal Mar i el Front Marítim del Poblenou,38.35951478392722
-2016,Diagonal Mar i el Front Marítim del Poblenou,38.57522859517872
-2017,Diagonal Mar i el Front Marítim del Poblenou,38.72559620796919
-2018,Diagonal Mar i el Front Marítim del Poblenou,39.007944168089686
-2019,Diagonal Mar i el Front Marítim del Poblenou,39.42179706692474
-2020,Diagonal Mar i el Front Marítim del Poblenou,39.85043439185141
-2021,Diagonal Mar i el Front Marítim del Poblenou,40.2183124953208
-2022,Diagonal Mar i el Front Marítim del Poblenou,40.68366805608185
-2023,Diagonal Mar i el Front Marítim del Poblenou,41.041742013261
-2024,Diagonal Mar i el Front Marítim del Poblenou,41.75037526268388
-2025,Diagonal Mar i el Front Marítim del Poblenou,42.01463630987581
-2026,Diagonal Mar i el Front Marítim del Poblenou,42.23126605504587
+2015,Diagonal Mar i el Front Marí­tim del Poblenou,38.35951478392722
+2016,Diagonal Mar i el Front Marí­tim del Poblenou,38.57522859517872
+2017,Diagonal Mar i el Front Marí­tim del Poblenou,38.72559620796919
+2018,Diagonal Mar i el Front Marí­tim del Poblenou,39.007944168089686
+2019,Diagonal Mar i el Front Marí­tim del Poblenou,39.42179706692474
+2020,Diagonal Mar i el Front Marí­tim del Poblenou,39.85043439185141
+2021,Diagonal Mar i el Front Marí­tim del Poblenou,40.2183124953208
+2022,Diagonal Mar i el Front Marí­tim del Poblenou,40.68366805608185
+2023,Diagonal Mar i el Front Marí­tim del Poblenou,41.041742013261
+2024,Diagonal Mar i el Front Marí­tim del Poblenou,41.75037526268388
+2025,Diagonal Mar i el Front Marí­tim del Poblenou,42.01463630987581
+2026,Diagonal Mar i el Front Marí­tim del Poblenou,42.23126605504587
 2015,Horta,45.36644243705555
 2016,Horta,45.5372694574118
 2017,Horta,45.41130626520681
@@ -143,18 +143,18 @@ Any,Barri,Valor
 2024,Porta,43.159346865016616
 2025,Porta,43.43735102750757
 2026,Porta,43.64401504344443
-2015,Prvençals del Poblenou,41.66846347607053
-2016,Prvençals del Poblenou,41.68079489989043
-2017,Prvençals del Poblenou,41.874535822151806
-2018,Prvençals del Poblenou,41.95556431351298
-2019,Prvençals del Poblenou,41.92437619961612
-2020,Prvençals del Poblenou,41.95722994856163
-2021,Prvençals del Poblenou,42.26863383789998
-2022,Prvençals del Poblenou,42.47411470361817
-2023,Prvençals del Poblenou,42.560543245175126
-2024,Prvençals del Poblenou,42.67139357391878
-2025,Prvençals del Poblenou,42.820141555257436
-2026,Prvençals del Poblenou,43.05862938345175
+2015,Provençals del Poblenou,41.66846347607053
+2016,Provençals del Poblenou,41.68079489989043
+2017,Provençals del Poblenou,41.874535822151806
+2018,Provençals del Poblenou,41.95556431351298
+2019,Provençals del Poblenou,41.92437619961612
+2020,Provençals del Poblenou,41.95722994856163
+2021,Provençals del Poblenou,42.26863383789998
+2022,Provençals del Poblenou,42.47411470361817
+2023,Provençals del Poblenou,42.560543245175126
+2024,Provençals del Poblenou,42.67139357391878
+2025,Provençals del Poblenou,42.820141555257436
+2026,Provençals del Poblenou,43.05862938345175
 2015,Sant Andreu,43.48197906550124
 2016,Sant Andreu,43.624991045203814
 2017,Sant Andreu,43.75147645650439
@@ -179,18 +179,18 @@ Any,Barri,Valor
 2024,Sant Antoni,44.354148105445205
 2025,Sant Antoni,44.35260788574977
 2026,Sant Antoni,44.430038577833386
-2015,Sant Genís dels Agudells,46.69944369267779
-2016,Sant Genís dels Agudells,46.58807506053269
-2017,Sant Genís dels Agudells,46.18938158089871
-2018,Sant Genís dels Agudells,45.8489229434726
-2019,Sant Genís dels Agudells,45.25717070453913
-2020,Sant Genís dels Agudells,44.966219912472646
-2021,Sant Genís dels Agudells,44.575037552915475
-2022,Sant Genís dels Agudells,44.71936649069186
-2023,Sant Genís dels Agudells,44.58752048061169
-2024,Sant Genís dels Agudells,44.20236394336927
-2025,Sant Genís dels Agudells,44.32112458086149
-2026,Sant Genís dels Agudells,44.18954498977505
+2015,Sant Gení­s dels Agudells,46.69944369267779
+2016,Sant Gení­s dels Agudells,46.58807506053269
+2017,Sant Gení­s dels Agudells,46.18938158089871
+2018,Sant Gení­s dels Agudells,45.8489229434726
+2019,Sant Gení­s dels Agudells,45.25717070453913
+2020,Sant Gení­s dels Agudells,44.966219912472646
+2021,Sant Gení­s dels Agudells,44.575037552915475
+2022,Sant Gení­s dels Agudells,44.71936649069186
+2023,Sant Gení­s dels Agudells,44.58752048061169
+2024,Sant Gení­s dels Agudells,44.20236394336927
+2025,Sant Gení­s dels Agudells,44.32112458086149
+2026,Sant Gení­s dels Agudells,44.18954498977505
 2015,Sant Gervasi - Galvany,43.30415655339806
 2016,Sant Gervasi - Galvany,43.22719371660336
 2017,Sant Gervasi - Galvany,43.0659277903509
@@ -215,18 +215,18 @@ Any,Barri,Valor
 2024,Sant Gervasi - la Bonanova,42.630987088713034
 2025,Sant Gervasi - la Bonanova,42.7646325806208
 2026,Sant Gervasi - la Bonanova,42.83899909145972
-2015,Sant Martí­ de Prvençals,45.78897686936849
-2016,Sant Martí­ de Prvençals,45.690356712179565
-2017,Sant Martí­ de Prvençals,45.74500928505107
-2018,Sant Martí­ de Prvençals,45.815525681871165
-2019,Sant Martí­ de Prvençals,45.98486432082995
-2020,Sant Martí­ de Prvençals,45.94124254396158
-2021,Sant Martí­ de Prvençals,45.926742614404326
-2022,Sant Martí­ de Prvençals,46.21534420573938
-2023,Sant Martí­ de Prvençals,45.98832835705146
-2024,Sant Martí­ de Prvençals,45.92275414838833
-2025,Sant Martí­ de Prvençals,45.860478231445974
-2026,Sant Martí­ de Prvençals,45.97596424681714
+2015,Sant Martí­ de Provençals,45.78897686936849
+2016,Sant Martí­ de Provençals,45.690356712179565
+2017,Sant Martí­ de Provençals,45.74500928505107
+2018,Sant Martí­ de Provençals,45.815525681871165
+2019,Sant Martí­ de Provençals,45.98486432082995
+2020,Sant Martí­ de Provençals,45.94124254396158
+2021,Sant Martí­ de Provençals,45.926742614404326
+2022,Sant Martí­ de Provençals,46.21534420573938
+2023,Sant Martí­ de Provençals,45.98832835705146
+2024,Sant Martí­ de Provençals,45.92275414838833
+2025,Sant Martí­ de Provençals,45.860478231445974
+2026,Sant Martí­ de Provençals,45.97596424681714
 2015,"Sant Pere, Santa Caterina i la Ribera",40.442041092797474
 2016,"Sant Pere, Santa Caterina i la Ribera",40.25575691511105
 2017,"Sant Pere, Santa Caterina i la Ribera",39.900070871722185
@@ -371,18 +371,18 @@ Any,Barri,Valor
 2024,el Barri Gòtic,37.46199613267886
 2025,el Barri Gòtic,37.67403375068046
 2026,el Barri Gòtic,38.125920171642065
-2015,el Besós i el Maresme,41.66766983845984
-2016,el Besós i el Maresme,41.7828383717317
-2017,el Besós i el Maresme,41.78182695259396
-2018,el Besós i el Maresme,41.461079375905875
-2019,el Besós i el Maresme,41.07096983985042
-2020,el Besós i el Maresme,40.7853970998546
-2021,el Besós i el Maresme,40.814331617049284
-2022,el Besós i el Maresme,40.80145649674205
-2023,el Besós i el Maresme,40.258849477528294
-2024,el Besós i el Maresme,39.74269373181698
-2025,el Besós i el Maresme,39.93978868617929
-2026,el Besós i el Maresme,40.22418665790339
+2015,el Besòs i el Maresme,41.66766983845984
+2016,el Besòs i el Maresme,41.7828383717317
+2017,el Besòs i el Maresme,41.78182695259396
+2018,el Besòs i el Maresme,41.461079375905875
+2019,el Besòs i el Maresme,41.07096983985042
+2020,el Besòs i el Maresme,40.7853970998546
+2021,el Besòs i el Maresme,40.814331617049284
+2022,el Besòs i el Maresme,40.80145649674205
+2023,el Besòs i el Maresme,40.258849477528294
+2024,el Besòs i el Maresme,39.74269373181698
+2025,el Besòs i el Maresme,39.93978868617929
+2026,el Besòs i el Maresme,40.22418665790339
 2015,el Bon Pastor,40.04957678355502
 2016,el Bon Pastor,40.19469453376206
 2017,el Bon Pastor,40.47114535677021
@@ -719,18 +719,18 @@ Any,Barri,Valor
 2024,la Prosperitat,45.142019737330266
 2025,la Prosperitat,44.974242699074914
 2026,la Prosperitat,45.047042334507296
-2015,la Sagrada Família,44.924447880734306
-2016,la Sagrada Família,44.89251148213124
-2017,la Sagrada Família,44.76844210072338
-2018,la Sagrada Família,44.71438651509212
-2019,la Sagrada Família,44.608161911081616
-2020,la Sagrada Família,44.525902211874275
-2021,la Sagrada Família,44.47017612143622
-2022,la Sagrada Família,44.69218002924092
-2023,la Sagrada Família,44.56151140628377
-2024,la Sagrada Família,44.48125336823466
-2025,la Sagrada Família,44.464663338332166
-2026,la Sagrada Família,44.70429027753868
+2015,la Sagrada Famí­lia,44.924447880734306
+2016,la Sagrada Famí­lia,44.89251148213124
+2017,la Sagrada Famí­lia,44.76844210072338
+2018,la Sagrada Famí­lia,44.71438651509212
+2019,la Sagrada Famí­lia,44.608161911081616
+2020,la Sagrada Famí­lia,44.525902211874275
+2021,la Sagrada Famí­lia,44.47017612143622
+2022,la Sagrada Famí­lia,44.69218002924092
+2023,la Sagrada Famí­lia,44.56151140628377
+2024,la Sagrada Famí­lia,44.48125336823466
+2025,la Sagrada Famí­lia,44.464663338332166
+2026,la Sagrada Famí­lia,44.70429027753868
 2015,la Sagrera,44.4462478920742
 2016,la Sagrera,44.68951285759639
 2017,la Sagrera,44.75670210911626
@@ -815,18 +815,18 @@ Any,Barri,Valor
 2024,la Verneda i la Pau,45.897830018083184
 2025,la Verneda i la Pau,45.60484686388988
 2026,la Verneda i la Pau,45.919307125953196
-2015,la Vila Olímpica del Poblenou,38.463534285402815
-2016,la Vila Olímpica del Poblenou,38.94241863502776
-2017,la Vila Olímpica del Poblenou,39.30531547104581
-2018,la Vila Olímpica del Poblenou,39.8444589877836
-2019,la Vila Olímpica del Poblenou,40.50975927130774
-2020,la Vila Olímpica del Poblenou,40.862742980561556
-2021,la Vila Olímpica del Poblenou,41.22587955968055
-2022,la Vila Olímpica del Poblenou,41.77863090732129
-2023,la Vila Olímpica del Poblenou,42.287064190289996
-2024,la Vila Olímpica del Poblenou,42.81055025996534
-2025,la Vila Olímpica del Poblenou,43.33720425439549
-2026,la Vila Olímpica del Poblenou,43.85003274394237
+2015,la Vila Olí­mpica del Poblenou,38.463534285402815
+2016,la Vila Olí­mpica del Poblenou,38.94241863502776
+2017,la Vila Olí­mpica del Poblenou,39.30531547104581
+2018,la Vila Olí­mpica del Poblenou,39.8444589877836
+2019,la Vila Olí­mpica del Poblenou,40.50975927130774
+2020,la Vila Olí­mpica del Poblenou,40.862742980561556
+2021,la Vila Olí­mpica del Poblenou,41.22587955968055
+2022,la Vila Olí­mpica del Poblenou,41.77863090732129
+2023,la Vila Olí­mpica del Poblenou,42.287064190289996
+2024,la Vila Olí­mpica del Poblenou,42.81055025996534
+2025,la Vila Olí­mpica del Poblenou,43.33720425439549
+2026,la Vila Olí­mpica del Poblenou,43.85003274394237
 2015,la Vila de Gràcia,42.88791173326341
 2016,la Vila de Gràcia,42.64679543811742
 2017,la Vila de Gràcia,42.561113666820006

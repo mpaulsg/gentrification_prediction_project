@@ -87,8 +87,8 @@ def age_processing(config: dict) -> pd.DataFrame:
 
     return (
         grouped.rename(
-            columns={"Nom_Barri": "Barri"}
-        )[["Any", "Barri", "Valor"]]
+            columns={"Nom_Barri": "Barri", "Valor": "Edat_mitjana"}
+        )[["Any", "Barri", "Edat_mitjana"]]
         .sort_values(["Barri", "Any"])
         .reset_index(drop=True)
     )
