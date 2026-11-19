@@ -40,13 +40,8 @@ def income_processing(config: dict) -> pd.DataFrame:
     # Per cada fitxer CSV, llegim les dades i les processem
     for data_file in data_files:
 
-        df = pd.read_csv(
-            data_file,
-            sep=separator,
-            encoding=encoding,
-            dtype=str,
-            keep_default_na=False,
-        )
+        df = pd.read_csv(data_file, sep=separator, encoding=encoding,
+                         dtype=str, keep_default_na=False)
 
         # Comprovem que el dataframe conté les columnes requerides
         missing_columns = REQUIRED_COLUMNS.difference(df.columns)

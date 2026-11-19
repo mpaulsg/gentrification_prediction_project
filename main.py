@@ -10,6 +10,7 @@ from src.data_process.vehicle_preprocessing import vehicle_processing
 from src.data_process.edat_preprocessing import age_processing
 from src.data_process.estudis_preprocessing import education_processing
 from src.data_process.renda_llar_preprocessing import income_processing
+from src.data_process.restaurants_preprocessing import restaurants_processing
 from src.data_process import utils
 
 
@@ -77,6 +78,7 @@ FOLDER_PROCESSORS = {
     "age": age_processing,
     "studies": education_processing,
     "income": income_processing,
+    "restaurants": restaurants_processing,
 }
 
 

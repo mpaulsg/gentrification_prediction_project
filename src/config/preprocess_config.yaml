@@ -1,11 +1,12 @@
-input_file: data/raw/factors_socials/renda_llar
-output_file: data/processed/factors_socials/Renda_llar.csv
-dictionary_file: data/raw/factors_socials/Dict_dimensions.csv
+input_file: data/raw/factors_comercials/Restaurants_BCN.csv
+output_file: data/processed/factors_comercials/Restaurants.csv
+dictionary_file: data/raw/factors_comercials/Dict_dimensions.csv
 
 # Options: folder/single_file
 type: folder
 # Options: basic/public_works/parks/vehicles/nationality/age/studies/income
-processor: income
+#          restaurants
+processor: restaurants
 
 csv:
   separator: ","
