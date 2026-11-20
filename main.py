@@ -11,6 +11,7 @@ from src.data_process.edat_preprocessing import age_processing
 from src.data_process.estudis_preprocessing import education_processing
 from src.data_process.renda_llar_preprocessing import income_processing
 from src.data_process.restaurants_preprocessing import restaurants_processing
+from src.data_process.teatre_preprocessing import theatre_spectators_processing
 from src.data_process import utils
 
 
@@ -79,6 +80,7 @@ FOLDER_PROCESSORS = {
     "studies": education_processing,
     "income": income_processing,
     "restaurants": restaurants_processing,
+    "teatres": theatre_spectators_processing,
 }
 
 

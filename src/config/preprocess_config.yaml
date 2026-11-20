@@ -1,12 +1,12 @@
-input_file: data/raw/factors_comercials/Restaurants_BCN.csv
-output_file: data/processed/factors_comercials/Restaurants.csv
+input_file: data/raw/factors_comercials/teatres
+output_file: data/processed/factors_comercials/Espectadors_teatre.csv
 dictionary_file: data/raw/factors_comercials/Dict_dimensions.csv
 
 # Options: folder/single_file
 type: folder
 # Options: basic/public_works/parks/vehicles/nationality/age/studies/income
-#          restaurants
-processor: restaurants
+#          restaurants/teatres
+processor: teatres
 
 csv:
   separator: ","
