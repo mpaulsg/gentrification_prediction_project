@@ -13,6 +13,7 @@ from src.data_process.renda_llar_preprocessing import income_processing
 from src.data_process.restaurants_preprocessing import restaurants_processing
 from src.data_process.teatre_preprocessing import theatre_spectators_processing
 from src.data_process.instalacions_esport_preprocessing import sports_facilities_processing
+from src.data_process.hotels_preprocessing import hotels_processing
 from src.data_process import utils
 
 
@@ -83,6 +84,7 @@ FOLDER_PROCESSORS = {
     "restaurants": restaurants_processing,
     "teatres": theatre_spectators_processing,
     "esport": sports_facilities_processing,
+    "hotels": hotels_processing
 }
 
 
