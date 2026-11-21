@@ -1,50 +1,125 @@
 Barri,Any,Nombre_restaurants
+Can Baró,1996,1
+Can Baró,1997,1
+Can Baró,1998,1
+Can Baró,1999,1
+Can Baró,2000,1
+Can Baró,2001,1
+Can Baró,2002,1
+Can Baró,2003,1
+Can Baró,2004,1
+Can Baró,2005,1
+Can Baró,2006,1
+Can Baró,2007,1
+Can Baró,2008,1
+Can Baró,2009,1
+Can Baró,2010,1
+Can Baró,2011,1
+Can Baró,2012,1
+Can Baró,2013,1
+Can Baró,2014,1
+Can Baró,2015,1
+Can Baró,2016,1
+Can Baró,2017,1
+Can Baró,2018,1
+Can Baró,2019,1
+Can Baró,2020,1
+Can Baró,2021,1
+Can Baró,2022,1
+Can Baró,2023,1
 Canyelles,2017,1
-Diagonal Mar i el Front Marítim del Poblenou,2003,1
-Diagonal Mar i el Front Marítim del Poblenou,2004,2
-Diagonal Mar i el Front Marítim del Poblenou,2005,3
-Diagonal Mar i el Front Marítim del Poblenou,2006,3
-Diagonal Mar i el Front Marítim del Poblenou,2007,3
-Diagonal Mar i el Front Marítim del Poblenou,2008,3
-Diagonal Mar i el Front Marítim del Poblenou,2009,4
-Diagonal Mar i el Front Marítim del Poblenou,2010,6
-Diagonal Mar i el Front Marítim del Poblenou,2011,8
-Diagonal Mar i el Front Marítim del Poblenou,2012,8
-Diagonal Mar i el Front Marítim del Poblenou,2013,8
-Diagonal Mar i el Front Marítim del Poblenou,2014,8
-Diagonal Mar i el Front Marítim del Poblenou,2015,10
-Diagonal Mar i el Front Marítim del Poblenou,2016,11
-Diagonal Mar i el Front Marítim del Poblenou,2017,12
-Diagonal Mar i el Front Marítim del Poblenou,2018,15
-Diagonal Mar i el Front Marítim del Poblenou,2019,3
-Horta,1996,1
-Horta,1997,1
-Horta,1998,1
-Horta,1999,1
-Horta,2000,1
-Horta,2001,1
-Horta,2002,1
-Horta,2003,1
-Horta,2004,1
-Horta,2005,1
-Horta,2006,1
-Horta,2007,2
-Horta,2008,2
-Horta,2009,2
-Horta,2010,2
-Horta,2011,2
-Horta,2012,2
-Horta,2013,2
-Horta,2014,2
-Horta,2015,2
-Horta,2016,2
-Horta,2017,2
-Horta,2018,5
-Hostafrancs,2014,1
-Hostafrancs,2015,3
-Hostafrancs,2016,3
-Hostafrancs,2017,3
-Hostafrancs,2018,4
+Diagonal Mar i el Front Marítim del Poblenou,1996,2
+Diagonal Mar i el Front Marítim del Poblenou,1997,2
+Diagonal Mar i el Front Marítim del Poblenou,1998,2
+Diagonal Mar i el Front Marítim del Poblenou,1999,2
+Diagonal Mar i el Front Marítim del Poblenou,2000,2
+Diagonal Mar i el Front Marítim del Poblenou,2001,2
+Diagonal Mar i el Front Marítim del Poblenou,2002,3
+Diagonal Mar i el Front Marítim del Poblenou,2003,6
+Diagonal Mar i el Front Marítim del Poblenou,2004,8
+Diagonal Mar i el Front Marítim del Poblenou,2005,9
+Diagonal Mar i el Front Marítim del Poblenou,2006,10
+Diagonal Mar i el Front Marítim del Poblenou,2007,10
+Diagonal Mar i el Front Marítim del Poblenou,2008,10
+Diagonal Mar i el Front Marítim del Poblenou,2009,11
+Diagonal Mar i el Front Marítim del Poblenou,2010,13
+Diagonal Mar i el Front Marítim del Poblenou,2011,15
+Diagonal Mar i el Front Marítim del Poblenou,2012,15
+Diagonal Mar i el Front Marítim del Poblenou,2013,15
+Diagonal Mar i el Front Marítim del Poblenou,2014,15
+Diagonal Mar i el Front Marítim del Poblenou,2015,17
+Diagonal Mar i el Front Marítim del Poblenou,2016,18
+Diagonal Mar i el Front Marítim del Poblenou,2017,19
+Diagonal Mar i el Front Marítim del Poblenou,2018,22
+Diagonal Mar i el Front Marítim del Poblenou,2019,10
+Diagonal Mar i el Front Marítim del Poblenou,2020,7
+Diagonal Mar i el Front Marítim del Poblenou,2021,7
+Diagonal Mar i el Front Marítim del Poblenou,2022,3
+Diagonal Mar i el Front Marítim del Poblenou,2023,3
+Diagonal Mar i el Front Marítim del Poblenou,2025,1
+Horta,1994,1
+Horta,1995,1
+Horta,1996,4
+Horta,1997,5
+Horta,1998,5
+Horta,1999,6
+Horta,2000,6
+Horta,2001,6
+Horta,2002,6
+Horta,2003,6
+Horta,2004,6
+Horta,2005,6
+Horta,2006,6
+Horta,2007,7
+Horta,2008,7
+Horta,2009,7
+Horta,2010,7
+Horta,2011,7
+Horta,2012,7
+Horta,2013,7
+Horta,2014,7
+Horta,2015,7
+Horta,2016,7
+Horta,2017,7
+Horta,2018,12
+Horta,2019,7
+Horta,2020,7
+Horta,2021,7
+Horta,2022,8
+Horta,2023,5
+Horta,2024,1
+Horta,2025,2
+Hostafrancs,1996,3
+Hostafrancs,1997,4
+Hostafrancs,1998,5
+Hostafrancs,1999,5
+Hostafrancs,2000,6
+Hostafrancs,2001,6
+Hostafrancs,2002,7
+Hostafrancs,2003,7
+Hostafrancs,2004,7
+Hostafrancs,2005,8
+Hostafrancs,2006,8
+Hostafrancs,2007,8
+Hostafrancs,2008,8
+Hostafrancs,2009,8
+Hostafrancs,2010,8
+Hostafrancs,2011,8
+Hostafrancs,2012,8
+Hostafrancs,2013,8
+Hostafrancs,2014,9
+Hostafrancs,2015,12
+Hostafrancs,2016,13
+Hostafrancs,2017,13
+Hostafrancs,2018,18
+Hostafrancs,2019,14
+Hostafrancs,2020,14
+Hostafrancs,2021,16
+Hostafrancs,2022,15
+Hostafrancs,2023,15
+Hostafrancs,2024,7
+Hostafrancs,2025,5
+Hostafrancs,2026,4
 Montbau,2018,1
 Navas,2004,1
 Navas,2005,1
@@ -60,48 +135,76 @@ Navas,2014,1
 Navas,2015,1
 Navas,2016,1
 Navas,2017,1
-Navas,2018,4
-Pedralbes,2001,1
-Pedralbes,2002,1
-Pedralbes,2003,1
-Pedralbes,2004,1
-Pedralbes,2005,1
-Pedralbes,2006,1
-Pedralbes,2007,2
-Pedralbes,2008,2
-Pedralbes,2009,2
-Pedralbes,2010,2
-Pedralbes,2011,3
-Pedralbes,2012,3
-Pedralbes,2013,3
-Pedralbes,2014,3
-Pedralbes,2015,3
-Pedralbes,2016,4
-Pedralbes,2017,4
-Pedralbes,2018,5
-Porta,1996,1
-Porta,1997,1
-Porta,1998,1
-Porta,1999,1
-Porta,2000,1
-Porta,2001,2
-Porta,2002,2
-Porta,2003,2
-Porta,2004,2
-Porta,2005,2
-Porta,2006,2
-Porta,2007,2
-Porta,2008,2
-Porta,2009,2
-Porta,2010,2
-Porta,2011,2
-Porta,2012,2
-Porta,2013,2
-Porta,2014,2
-Porta,2015,2
-Porta,2016,2
-Porta,2017,2
-Porta,2018,3
+Navas,2018,5
+Navas,2019,1
+Navas,2020,1
+Navas,2021,1
+Navas,2022,1
+Navas,2023,1
+Navas,2024,1
+Navas,2025,1
+Navas,2026,2
+Pedralbes,1996,3
+Pedralbes,1997,3
+Pedralbes,1998,4
+Pedralbes,1999,4
+Pedralbes,2000,4
+Pedralbes,2001,5
+Pedralbes,2002,5
+Pedralbes,2003,5
+Pedralbes,2004,5
+Pedralbes,2005,5
+Pedralbes,2006,5
+Pedralbes,2007,6
+Pedralbes,2008,6
+Pedralbes,2009,6
+Pedralbes,2010,6
+Pedralbes,2011,7
+Pedralbes,2012,7
+Pedralbes,2013,7
+Pedralbes,2014,7
+Pedralbes,2015,7
+Pedralbes,2016,8
+Pedralbes,2017,8
+Pedralbes,2018,9
+Pedralbes,2019,4
+Pedralbes,2020,4
+Pedralbes,2021,4
+Pedralbes,2022,5
+Pedralbes,2023,4
+Pedralbes,2024,1
+Pedralbes,2025,1
+Porta,1996,4
+Porta,1997,4
+Porta,1998,4
+Porta,1999,4
+Porta,2000,4
+Porta,2001,5
+Porta,2002,5
+Porta,2003,5
+Porta,2004,5
+Porta,2005,5
+Porta,2006,5
+Porta,2007,5
+Porta,2008,5
+Porta,2009,5
+Porta,2010,5
+Porta,2011,5
+Porta,2012,5
+Porta,2013,5
+Porta,2014,5
+Porta,2015,5
+Porta,2016,5
+Porta,2017,5
+Porta,2018,6
+Porta,2019,3
+Porta,2020,3
+Porta,2021,3
+Porta,2022,3
+Porta,2023,3
+Porta,2024,2
+Porta,2025,1
+Porta,2026,1
 Provençals del Poblenou,1986,1
 Provençals del Poblenou,1987,1
 Provençals del Poblenou,1988,1
@@ -112,146 +215,215 @@ Provençals del Poblenou,1992,1
 Provençals del Poblenou,1993,1
 Provençals del Poblenou,1994,1
 Provençals del Poblenou,1995,1
-Provençals del Poblenou,1996,1
-Provençals del Poblenou,1997,1
-Provençals del Poblenou,1998,1
-Provençals del Poblenou,1999,1
-Provençals del Poblenou,2000,1
-Provençals del Poblenou,2001,1
-Provençals del Poblenou,2002,1
-Provençals del Poblenou,2003,1
-Provençals del Poblenou,2004,1
-Provençals del Poblenou,2005,1
-Provençals del Poblenou,2006,1
-Provençals del Poblenou,2007,1
-Provençals del Poblenou,2008,1
-Provençals del Poblenou,2009,1
-Provençals del Poblenou,2010,3
-Provençals del Poblenou,2011,4
-Provençals del Poblenou,2012,5
-Provençals del Poblenou,2013,5
-Provençals del Poblenou,2014,5
-Provençals del Poblenou,2015,6
-Provençals del Poblenou,2016,6
-Provençals del Poblenou,2017,6
-Provençals del Poblenou,2018,8
+Provençals del Poblenou,1996,2
+Provençals del Poblenou,1997,2
+Provençals del Poblenou,1998,2
+Provençals del Poblenou,1999,2
+Provençals del Poblenou,2000,2
+Provençals del Poblenou,2001,2
+Provençals del Poblenou,2002,2
+Provençals del Poblenou,2003,2
+Provençals del Poblenou,2004,2
+Provençals del Poblenou,2005,2
+Provençals del Poblenou,2006,2
+Provençals del Poblenou,2007,2
+Provençals del Poblenou,2008,2
+Provençals del Poblenou,2009,2
+Provençals del Poblenou,2010,4
+Provençals del Poblenou,2011,5
+Provençals del Poblenou,2012,6
+Provençals del Poblenou,2013,6
+Provençals del Poblenou,2014,6
+Provençals del Poblenou,2015,7
+Provençals del Poblenou,2016,7
+Provençals del Poblenou,2017,7
+Provençals del Poblenou,2018,9
+Provençals del Poblenou,2019,1
+Provençals del Poblenou,2020,1
+Provençals del Poblenou,2021,1
+Provençals del Poblenou,2022,1
+Provençals del Poblenou,2023,1
 Sant Andreu,1994,1
 Sant Andreu,1995,1
-Sant Andreu,1996,1
-Sant Andreu,1997,1
-Sant Andreu,1998,1
-Sant Andreu,1999,1
-Sant Andreu,2000,1
-Sant Andreu,2001,1
-Sant Andreu,2002,1
-Sant Andreu,2003,1
-Sant Andreu,2004,1
-Sant Andreu,2005,1
-Sant Andreu,2006,1
-Sant Andreu,2007,2
-Sant Andreu,2008,3
-Sant Andreu,2009,3
-Sant Andreu,2010,4
-Sant Andreu,2011,4
-Sant Andreu,2012,4
-Sant Andreu,2013,4
-Sant Andreu,2014,4
-Sant Andreu,2015,4
-Sant Andreu,2016,4
-Sant Andreu,2017,4
-Sant Andreu,2018,8
-Sant Andreu,2019,1
+Sant Andreu,1996,10
+Sant Andreu,1997,10
+Sant Andreu,1998,10
+Sant Andreu,1999,11
+Sant Andreu,2000,11
+Sant Andreu,2001,11
+Sant Andreu,2002,11
+Sant Andreu,2003,11
+Sant Andreu,2004,12
+Sant Andreu,2005,13
+Sant Andreu,2006,13
+Sant Andreu,2007,14
+Sant Andreu,2008,15
+Sant Andreu,2009,15
+Sant Andreu,2010,16
+Sant Andreu,2011,16
+Sant Andreu,2012,16
+Sant Andreu,2013,16
+Sant Andreu,2014,16
+Sant Andreu,2015,16
+Sant Andreu,2016,16
+Sant Andreu,2017,16
+Sant Andreu,2018,22
+Sant Andreu,2019,15
+Sant Andreu,2020,14
+Sant Andreu,2021,14
+Sant Andreu,2022,14
+Sant Andreu,2023,14
+Sant Andreu,2024,8
+Sant Andreu,2025,8
+Sant Andreu,2026,4
 Sant Antoni,1995,1
-Sant Antoni,1996,1
-Sant Antoni,1997,1
-Sant Antoni,1998,2
-Sant Antoni,1999,2
-Sant Antoni,2000,2
-Sant Antoni,2001,3
-Sant Antoni,2002,3
-Sant Antoni,2003,4
-Sant Antoni,2004,4
-Sant Antoni,2005,6
-Sant Antoni,2006,8
-Sant Antoni,2007,8
-Sant Antoni,2008,8
-Sant Antoni,2009,8
-Sant Antoni,2010,9
-Sant Antoni,2011,10
-Sant Antoni,2012,11
-Sant Antoni,2013,13
-Sant Antoni,2014,13
-Sant Antoni,2015,13
-Sant Antoni,2016,19
-Sant Antoni,2017,23
-Sant Antoni,2018,24
-Sant Antoni,2019,2
+Sant Antoni,1996,22
+Sant Antoni,1997,22
+Sant Antoni,1998,24
+Sant Antoni,1999,26
+Sant Antoni,2000,26
+Sant Antoni,2001,28
+Sant Antoni,2002,30
+Sant Antoni,2003,32
+Sant Antoni,2004,33
+Sant Antoni,2005,35
+Sant Antoni,2006,37
+Sant Antoni,2007,37
+Sant Antoni,2008,38
+Sant Antoni,2009,38
+Sant Antoni,2010,39
+Sant Antoni,2011,40
+Sant Antoni,2012,41
+Sant Antoni,2013,43
+Sant Antoni,2014,43
+Sant Antoni,2015,45
+Sant Antoni,2016,51
+Sant Antoni,2017,59
+Sant Antoni,2018,65
+Sant Antoni,2019,44
+Sant Antoni,2020,42
+Sant Antoni,2021,43
+Sant Antoni,2022,46
+Sant Antoni,2023,42
+Sant Antoni,2024,21
+Sant Antoni,2025,16
+Sant Antoni,2026,13
 Sant Gervasi - Galvany,1984,1
 Sant Gervasi - Galvany,1985,1
-Sant Gervasi - Galvany,1986,1
-Sant Gervasi - Galvany,1987,1
-Sant Gervasi - Galvany,1988,1
-Sant Gervasi - Galvany,1989,1
-Sant Gervasi - Galvany,1990,1
-Sant Gervasi - Galvany,1991,2
-Sant Gervasi - Galvany,1992,2
-Sant Gervasi - Galvany,1993,4
-Sant Gervasi - Galvany,1994,4
-Sant Gervasi - Galvany,1995,4
-Sant Gervasi - Galvany,1996,4
-Sant Gervasi - Galvany,1997,4
-Sant Gervasi - Galvany,1998,5
-Sant Gervasi - Galvany,1999,5
-Sant Gervasi - Galvany,2000,5
-Sant Gervasi - Galvany,2001,7
-Sant Gervasi - Galvany,2002,7
-Sant Gervasi - Galvany,2003,9
-Sant Gervasi - Galvany,2004,9
-Sant Gervasi - Galvany,2005,10
-Sant Gervasi - Galvany,2006,12
-Sant Gervasi - Galvany,2007,14
-Sant Gervasi - Galvany,2008,15
-Sant Gervasi - Galvany,2009,17
-Sant Gervasi - Galvany,2010,19
-Sant Gervasi - Galvany,2011,22
-Sant Gervasi - Galvany,2012,22
-Sant Gervasi - Galvany,2013,25
-Sant Gervasi - Galvany,2014,25
-Sant Gervasi - Galvany,2015,30
-Sant Gervasi - Galvany,2016,33
-Sant Gervasi - Galvany,2017,42
-Sant Gervasi - Galvany,2018,63
-Sant Gervasi - Galvany,2019,4
-Sant Gervasi - la Bonanova,1998,1
-Sant Gervasi - la Bonanova,1999,1
-Sant Gervasi - la Bonanova,2000,1
-Sant Gervasi - la Bonanova,2001,1
-Sant Gervasi - la Bonanova,2002,1
-Sant Gervasi - la Bonanova,2003,1
-Sant Gervasi - la Bonanova,2004,1
-Sant Gervasi - la Bonanova,2005,1
-Sant Gervasi - la Bonanova,2006,1
-Sant Gervasi - la Bonanova,2007,1
-Sant Gervasi - la Bonanova,2008,1
-Sant Gervasi - la Bonanova,2009,1
-Sant Gervasi - la Bonanova,2010,1
-Sant Gervasi - la Bonanova,2011,2
-Sant Gervasi - la Bonanova,2012,3
-Sant Gervasi - la Bonanova,2013,4
-Sant Gervasi - la Bonanova,2014,4
-Sant Gervasi - la Bonanova,2015,4
-Sant Gervasi - la Bonanova,2016,7
-Sant Gervasi - la Bonanova,2017,7
-Sant Gervasi - la Bonanova,2018,12
-Sant Martí de Provençals,2010,1
-Sant Martí de Provençals,2011,1
-Sant Martí de Provençals,2012,1
-Sant Martí de Provençals,2013,1
-Sant Martí de Provençals,2014,1
-Sant Martí de Provençals,2015,1
-Sant Martí de Provençals,2016,1
-Sant Martí de Provençals,2017,1
-Sant Martí de Provençals,2018,2
+Sant Gervasi - Galvany,1986,2
+Sant Gervasi - Galvany,1987,2
+Sant Gervasi - Galvany,1988,3
+Sant Gervasi - Galvany,1989,3
+Sant Gervasi - Galvany,1990,4
+Sant Gervasi - Galvany,1991,5
+Sant Gervasi - Galvany,1992,5
+Sant Gervasi - Galvany,1993,7
+Sant Gervasi - Galvany,1994,7
+Sant Gervasi - Galvany,1995,7
+Sant Gervasi - Galvany,1996,41
+Sant Gervasi - Galvany,1997,41
+Sant Gervasi - Galvany,1998,43
+Sant Gervasi - Galvany,1999,44
+Sant Gervasi - Galvany,2000,46
+Sant Gervasi - Galvany,2001,51
+Sant Gervasi - Galvany,2002,53
+Sant Gervasi - Galvany,2003,57
+Sant Gervasi - Galvany,2004,57
+Sant Gervasi - Galvany,2005,58
+Sant Gervasi - Galvany,2006,60
+Sant Gervasi - Galvany,2007,63
+Sant Gervasi - Galvany,2008,64
+Sant Gervasi - Galvany,2009,66
+Sant Gervasi - Galvany,2010,68
+Sant Gervasi - Galvany,2011,72
+Sant Gervasi - Galvany,2012,73
+Sant Gervasi - Galvany,2013,77
+Sant Gervasi - Galvany,2014,77
+Sant Gervasi - Galvany,2015,82
+Sant Gervasi - Galvany,2016,85
+Sant Gervasi - Galvany,2017,95
+Sant Gervasi - Galvany,2018,121
+Sant Gervasi - Galvany,2019,62
+Sant Gervasi - Galvany,2020,58
+Sant Gervasi - Galvany,2021,63
+Sant Gervasi - Galvany,2022,63
+Sant Gervasi - Galvany,2023,62
+Sant Gervasi - Galvany,2024,29
+Sant Gervasi - Galvany,2025,28
+Sant Gervasi - Galvany,2026,24
+Sant Gervasi - la Bonanova,1988,1
+Sant Gervasi - la Bonanova,1989,1
+Sant Gervasi - la Bonanova,1990,1
+Sant Gervasi - la Bonanova,1991,1
+Sant Gervasi - la Bonanova,1992,1
+Sant Gervasi - la Bonanova,1993,1
+Sant Gervasi - la Bonanova,1994,1
+Sant Gervasi - la Bonanova,1995,1
+Sant Gervasi - la Bonanova,1996,17
+Sant Gervasi - la Bonanova,1997,18
+Sant Gervasi - la Bonanova,1998,21
+Sant Gervasi - la Bonanova,1999,22
+Sant Gervasi - la Bonanova,2000,24
+Sant Gervasi - la Bonanova,2001,24
+Sant Gervasi - la Bonanova,2002,24
+Sant Gervasi - la Bonanova,2003,24
+Sant Gervasi - la Bonanova,2004,25
+Sant Gervasi - la Bonanova,2005,25
+Sant Gervasi - la Bonanova,2006,25
+Sant Gervasi - la Bonanova,2007,25
+Sant Gervasi - la Bonanova,2008,26
+Sant Gervasi - la Bonanova,2009,26
+Sant Gervasi - la Bonanova,2010,26
+Sant Gervasi - la Bonanova,2011,27
+Sant Gervasi - la Bonanova,2012,28
+Sant Gervasi - la Bonanova,2013,29
+Sant Gervasi - la Bonanova,2014,29
+Sant Gervasi - la Bonanova,2015,29
+Sant Gervasi - la Bonanova,2016,32
+Sant Gervasi - la Bonanova,2017,33
+Sant Gervasi - la Bonanova,2018,39
+Sant Gervasi - la Bonanova,2019,27
+Sant Gervasi - la Bonanova,2020,27
+Sant Gervasi - la Bonanova,2021,27
+Sant Gervasi - la Bonanova,2022,27
+Sant Gervasi - la Bonanova,2023,28
+Sant Gervasi - la Bonanova,2024,10
+Sant Gervasi - la Bonanova,2025,10
+Sant Gervasi - la Bonanova,2026,8
+Sant Martí de Provençals,1993,1
+Sant Martí de Provençals,1994,1
+Sant Martí de Provençals,1995,1
+Sant Martí de Provençals,1996,2
+Sant Martí de Provençals,1997,2
+Sant Martí de Provençals,1998,2
+Sant Martí de Provençals,1999,2
+Sant Martí de Provençals,2000,2
+Sant Martí de Provençals,2001,2
+Sant Martí de Provençals,2002,2
+Sant Martí de Provençals,2003,2
+Sant Martí de Provençals,2004,2
+Sant Martí de Provençals,2005,2
+Sant Martí de Provençals,2006,2
+Sant Martí de Provençals,2007,2
+Sant Martí de Provençals,2008,2
+Sant Martí de Provençals,2009,2
+Sant Martí de Provençals,2010,3
+Sant Martí de Provençals,2011,3
+Sant Martí de Provençals,2012,3
+Sant Martí de Provençals,2013,3
+Sant Martí de Provençals,2014,3
+Sant Martí de Provençals,2015,3
+Sant Martí de Provençals,2016,3
+Sant Martí de Provençals,2017,3
+Sant Martí de Provençals,2018,4
+Sant Martí de Provençals,2019,2
+Sant Martí de Provençals,2020,2
+Sant Martí de Provençals,2021,2
+Sant Martí de Provençals,2022,3
+Sant Martí de Provençals,2023,3
+Sant Martí de Provençals,2024,2
+Sant Martí de Provençals,2025,2
+Sant Martí de Provençals,2026,2
 "Sant Pere, Santa Caterina i la Ribera",1986,1
 "Sant Pere, Santa Caterina i la Ribera",1987,1
 "Sant Pere, Santa Caterina i la Ribera",1988,1
@@ -262,80 +434,106 @@ Sant Martí de Provençals,2018,2
 "Sant Pere, Santa Caterina i la Ribera",1993,2
 "Sant Pere, Santa Caterina i la Ribera",1994,2
 "Sant Pere, Santa Caterina i la Ribera",1995,2
-"Sant Pere, Santa Caterina i la Ribera",1996,3
-"Sant Pere, Santa Caterina i la Ribera",1997,3
-"Sant Pere, Santa Caterina i la Ribera",1998,5
-"Sant Pere, Santa Caterina i la Ribera",1999,5
-"Sant Pere, Santa Caterina i la Ribera",2000,6
-"Sant Pere, Santa Caterina i la Ribera",2001,7
-"Sant Pere, Santa Caterina i la Ribera",2002,8
-"Sant Pere, Santa Caterina i la Ribera",2003,10
-"Sant Pere, Santa Caterina i la Ribera",2004,11
-"Sant Pere, Santa Caterina i la Ribera",2005,13
-"Sant Pere, Santa Caterina i la Ribera",2006,14
-"Sant Pere, Santa Caterina i la Ribera",2007,14
-"Sant Pere, Santa Caterina i la Ribera",2008,15
-"Sant Pere, Santa Caterina i la Ribera",2009,15
-"Sant Pere, Santa Caterina i la Ribera",2010,15
-"Sant Pere, Santa Caterina i la Ribera",2011,20
-"Sant Pere, Santa Caterina i la Ribera",2012,21
-"Sant Pere, Santa Caterina i la Ribera",2013,22
-"Sant Pere, Santa Caterina i la Ribera",2014,22
-"Sant Pere, Santa Caterina i la Ribera",2015,27
-"Sant Pere, Santa Caterina i la Ribera",2016,30
-"Sant Pere, Santa Caterina i la Ribera",2017,37
-"Sant Pere, Santa Caterina i la Ribera",2018,42
-"Sant Pere, Santa Caterina i la Ribera",2019,4
-"Sant Pere, Santa Caterina i la Ribera",2020,1
-Sants,1991,1
-Sants,1992,2
-Sants,1993,3
-Sants,1994,3
-Sants,1995,3
-Sants,1996,3
-Sants,1997,3
-Sants,1998,3
-Sants,1999,3
-Sants,2000,4
-Sants,2001,4
-Sants,2002,7
-Sants,2003,7
-Sants,2004,8
-Sants,2005,8
-Sants,2006,8
-Sants,2007,7
-Sants,2008,7
-Sants,2009,7
-Sants,2010,8
-Sants,2011,8
-Sants,2012,8
-Sants,2013,8
-Sants,2014,8
-Sants,2015,8
-Sants,2016,9
-Sants,2017,8
-Sants,2018,17
-Sants - Badal,1998,1
-Sants - Badal,1999,1
-Sants - Badal,2000,1
-Sants - Badal,2001,1
-Sants - Badal,2002,1
-Sants - Badal,2003,1
-Sants - Badal,2004,1
-Sants - Badal,2005,1
-Sants - Badal,2006,1
-Sants - Badal,2007,1
-Sants - Badal,2008,1
-Sants - Badal,2009,1
-Sants - Badal,2010,1
-Sants - Badal,2011,1
-Sants - Badal,2012,1
-Sants - Badal,2013,1
-Sants - Badal,2014,1
-Sants - Badal,2015,1
-Sants - Badal,2016,1
-Sants - Badal,2017,1
-Sants - Badal,2018,2
+"Sant Pere, Santa Caterina i la Ribera",1996,25
+"Sant Pere, Santa Caterina i la Ribera",1997,31
+"Sant Pere, Santa Caterina i la Ribera",1998,37
+"Sant Pere, Santa Caterina i la Ribera",1999,40
+"Sant Pere, Santa Caterina i la Ribera",2000,43
+"Sant Pere, Santa Caterina i la Ribera",2001,45
+"Sant Pere, Santa Caterina i la Ribera",2002,47
+"Sant Pere, Santa Caterina i la Ribera",2003,51
+"Sant Pere, Santa Caterina i la Ribera",2004,54
+"Sant Pere, Santa Caterina i la Ribera",2005,60
+"Sant Pere, Santa Caterina i la Ribera",2006,62
+"Sant Pere, Santa Caterina i la Ribera",2007,62
+"Sant Pere, Santa Caterina i la Ribera",2008,63
+"Sant Pere, Santa Caterina i la Ribera",2009,63
+"Sant Pere, Santa Caterina i la Ribera",2010,63
+"Sant Pere, Santa Caterina i la Ribera",2011,70
+"Sant Pere, Santa Caterina i la Ribera",2012,73
+"Sant Pere, Santa Caterina i la Ribera",2013,76
+"Sant Pere, Santa Caterina i la Ribera",2014,76
+"Sant Pere, Santa Caterina i la Ribera",2015,84
+"Sant Pere, Santa Caterina i la Ribera",2016,88
+"Sant Pere, Santa Caterina i la Ribera",2017,97
+"Sant Pere, Santa Caterina i la Ribera",2018,110
+"Sant Pere, Santa Caterina i la Ribera",2019,73
+"Sant Pere, Santa Caterina i la Ribera",2020,70
+"Sant Pere, Santa Caterina i la Ribera",2021,70
+"Sant Pere, Santa Caterina i la Ribera",2022,75
+"Sant Pere, Santa Caterina i la Ribera",2023,68
+"Sant Pere, Santa Caterina i la Ribera",2024,40
+"Sant Pere, Santa Caterina i la Ribera",2025,26
+"Sant Pere, Santa Caterina i la Ribera",2026,23
+Sants,1989,1
+Sants,1990,1
+Sants,1991,2
+Sants,1992,3
+Sants,1993,4
+Sants,1994,4
+Sants,1995,4
+Sants,1996,15
+Sants,1997,16
+Sants,1998,17
+Sants,1999,18
+Sants,2000,19
+Sants,2001,20
+Sants,2002,23
+Sants,2003,25
+Sants,2004,26
+Sants,2005,27
+Sants,2006,27
+Sants,2007,26
+Sants,2008,26
+Sants,2009,26
+Sants,2010,27
+Sants,2011,27
+Sants,2012,28
+Sants,2013,28
+Sants,2014,28
+Sants,2015,28
+Sants,2016,29
+Sants,2017,28
+Sants,2018,43
+Sants,2019,26
+Sants,2020,26
+Sants,2021,28
+Sants,2022,28
+Sants,2023,31
+Sants,2024,12
+Sants,2025,15
+Sants,2026,12
+Sants - Badal,1996,3
+Sants - Badal,1997,3
+Sants - Badal,1998,4
+Sants - Badal,1999,4
+Sants - Badal,2000,4
+Sants - Badal,2001,4
+Sants - Badal,2002,4
+Sants - Badal,2003,4
+Sants - Badal,2004,4
+Sants - Badal,2005,4
+Sants - Badal,2006,4
+Sants - Badal,2007,4
+Sants - Badal,2008,4
+Sants - Badal,2009,4
+Sants - Badal,2010,4
+Sants - Badal,2011,4
+Sants - Badal,2012,4
+Sants - Badal,2013,4
+Sants - Badal,2014,4
+Sants - Badal,2015,4
+Sants - Badal,2016,4
+Sants - Badal,2017,4
+Sants - Badal,2018,5
+Sants - Badal,2019,3
+Sants - Badal,2020,3
+Sants - Badal,2021,3
+Sants - Badal,2022,4
+Sants - Badal,2023,4
+Sants - Badal,2024,1
+Sants - Badal,2025,1
+Sants - Badal,2026,1
 Sarrià,1989,1
 Sarrià,1990,1
 Sarrià,1991,1
@@ -343,30 +541,37 @@ Sarrià,1992,1
 Sarrià,1993,1
 Sarrià,1994,1
 Sarrià,1995,1
-Sarrià,1996,1
-Sarrià,1997,1
-Sarrià,1998,2
-Sarrià,1999,2
-Sarrià,2000,2
-Sarrià,2001,2
-Sarrià,2002,2
-Sarrià,2003,2
-Sarrià,2004,2
-Sarrià,2005,2
-Sarrià,2006,3
-Sarrià,2007,5
-Sarrià,2008,6
-Sarrià,2009,7
-Sarrià,2010,7
-Sarrià,2011,8
-Sarrià,2012,8
-Sarrià,2013,10
-Sarrià,2014,10
-Sarrià,2015,10
-Sarrià,2016,10
-Sarrià,2017,12
-Sarrià,2018,12
-Sarrià,2019,1
+Sarrià,1996,8
+Sarrià,1997,8
+Sarrià,1998,10
+Sarrià,1999,11
+Sarrià,2000,11
+Sarrià,2001,11
+Sarrià,2002,11
+Sarrià,2003,11
+Sarrià,2004,11
+Sarrià,2005,11
+Sarrià,2006,12
+Sarrià,2007,14
+Sarrià,2008,15
+Sarrià,2009,16
+Sarrià,2010,16
+Sarrià,2011,17
+Sarrià,2012,18
+Sarrià,2013,20
+Sarrià,2014,20
+Sarrià,2015,20
+Sarrià,2016,20
+Sarrià,2017,23
+Sarrià,2018,23
+Sarrià,2019,12
+Sarrià,2020,11
+Sarrià,2021,11
+Sarrià,2022,11
+Sarrià,2023,11
+Sarrià,2024,3
+Sarrià,2025,3
+Sarrià,2026,2
 Torre Baró,2018,1
 Torre Baró,2019,1
 Vallcarca i els Penitents,1990,1
@@ -375,29 +580,34 @@ Vallcarca i els Penitents,1992,1
 Vallcarca i els Penitents,1993,1
 Vallcarca i els Penitents,1994,1
 Vallcarca i els Penitents,1995,1
-Vallcarca i els Penitents,1996,1
-Vallcarca i els Penitents,1997,1
-Vallcarca i els Penitents,1998,1
-Vallcarca i els Penitents,1999,1
-Vallcarca i els Penitents,2000,1
-Vallcarca i els Penitents,2001,1
-Vallcarca i els Penitents,2002,1
-Vallcarca i els Penitents,2003,1
-Vallcarca i els Penitents,2004,1
-Vallcarca i els Penitents,2005,1
-Vallcarca i els Penitents,2006,1
-Vallcarca i els Penitents,2007,1
-Vallcarca i els Penitents,2008,1
-Vallcarca i els Penitents,2009,1
-Vallcarca i els Penitents,2010,1
-Vallcarca i els Penitents,2011,1
-Vallcarca i els Penitents,2012,1
-Vallcarca i els Penitents,2013,1
-Vallcarca i els Penitents,2014,1
-Vallcarca i els Penitents,2015,1
-Vallcarca i els Penitents,2016,1
-Vallcarca i els Penitents,2017,1
-Vallcarca i els Penitents,2018,2
+Vallcarca i els Penitents,1996,2
+Vallcarca i els Penitents,1997,2
+Vallcarca i els Penitents,1998,2
+Vallcarca i els Penitents,1999,2
+Vallcarca i els Penitents,2000,2
+Vallcarca i els Penitents,2001,2
+Vallcarca i els Penitents,2002,2
+Vallcarca i els Penitents,2003,2
+Vallcarca i els Penitents,2004,2
+Vallcarca i els Penitents,2005,2
+Vallcarca i els Penitents,2006,2
+Vallcarca i els Penitents,2007,2
+Vallcarca i els Penitents,2008,2
+Vallcarca i els Penitents,2009,2
+Vallcarca i els Penitents,2010,2
+Vallcarca i els Penitents,2011,2
+Vallcarca i els Penitents,2012,2
+Vallcarca i els Penitents,2013,2
+Vallcarca i els Penitents,2014,2
+Vallcarca i els Penitents,2015,2
+Vallcarca i els Penitents,2016,2
+Vallcarca i els Penitents,2017,2
+Vallcarca i els Penitents,2018,3
+Vallcarca i els Penitents,2019,1
+Vallcarca i els Penitents,2020,1
+Vallcarca i els Penitents,2021,1
+Vallcarca i els Penitents,2022,1
+Vallcarca i els Penitents,2023,1
 "Vallvidrera, el Tibidabo i les Planes",1984,1
 "Vallvidrera, el Tibidabo i les Planes",1985,1
 "Vallvidrera, el Tibidabo i les Planes",1986,1
@@ -410,112 +620,227 @@ Vallcarca i els Penitents,2018,2
 "Vallvidrera, el Tibidabo i les Planes",1993,1
 "Vallvidrera, el Tibidabo i les Planes",1994,1
 "Vallvidrera, el Tibidabo i les Planes",1995,1
-"Vallvidrera, el Tibidabo i les Planes",1996,1
-"Vallvidrera, el Tibidabo i les Planes",1997,1
-"Vallvidrera, el Tibidabo i les Planes",1998,1
-"Vallvidrera, el Tibidabo i les Planes",1999,1
-"Vallvidrera, el Tibidabo i les Planes",2000,1
-"Vallvidrera, el Tibidabo i les Planes",2001,1
-"Vallvidrera, el Tibidabo i les Planes",2002,1
-"Vallvidrera, el Tibidabo i les Planes",2003,1
-"Vallvidrera, el Tibidabo i les Planes",2004,1
-"Vallvidrera, el Tibidabo i les Planes",2005,1
-"Vallvidrera, el Tibidabo i les Planes",2006,1
-"Vallvidrera, el Tibidabo i les Planes",2007,1
-"Vallvidrera, el Tibidabo i les Planes",2008,1
-"Vallvidrera, el Tibidabo i les Planes",2009,1
-"Vallvidrera, el Tibidabo i les Planes",2010,1
-"Vallvidrera, el Tibidabo i les Planes",2011,1
-"Vallvidrera, el Tibidabo i les Planes",2012,1
-"Vallvidrera, el Tibidabo i les Planes",2013,1
-"Vallvidrera, el Tibidabo i les Planes",2014,1
-"Vallvidrera, el Tibidabo i les Planes",2015,1
-"Vallvidrera, el Tibidabo i les Planes",2016,1
-"Vallvidrera, el Tibidabo i les Planes",2017,1
-"Vallvidrera, el Tibidabo i les Planes",2018,1
-Vilapicina i la Torre Llobeta,2018,2
+"Vallvidrera, el Tibidabo i les Planes",1996,4
+"Vallvidrera, el Tibidabo i les Planes",1997,4
+"Vallvidrera, el Tibidabo i les Planes",1998,4
+"Vallvidrera, el Tibidabo i les Planes",1999,5
+"Vallvidrera, el Tibidabo i les Planes",2000,5
+"Vallvidrera, el Tibidabo i les Planes",2001,5
+"Vallvidrera, el Tibidabo i les Planes",2002,5
+"Vallvidrera, el Tibidabo i les Planes",2003,6
+"Vallvidrera, el Tibidabo i les Planes",2004,6
+"Vallvidrera, el Tibidabo i les Planes",2005,6
+"Vallvidrera, el Tibidabo i les Planes",2006,6
+"Vallvidrera, el Tibidabo i les Planes",2007,6
+"Vallvidrera, el Tibidabo i les Planes",2008,6
+"Vallvidrera, el Tibidabo i les Planes",2009,6
+"Vallvidrera, el Tibidabo i les Planes",2010,6
+"Vallvidrera, el Tibidabo i les Planes",2011,6
+"Vallvidrera, el Tibidabo i les Planes",2012,6
+"Vallvidrera, el Tibidabo i les Planes",2013,6
+"Vallvidrera, el Tibidabo i les Planes",2014,6
+"Vallvidrera, el Tibidabo i les Planes",2015,6
+"Vallvidrera, el Tibidabo i les Planes",2016,6
+"Vallvidrera, el Tibidabo i les Planes",2017,6
+"Vallvidrera, el Tibidabo i les Planes",2018,6
+"Vallvidrera, el Tibidabo i les Planes",2019,5
+"Vallvidrera, el Tibidabo i les Planes",2020,5
+"Vallvidrera, el Tibidabo i les Planes",2021,5
+"Vallvidrera, el Tibidabo i les Planes",2022,6
+"Vallvidrera, el Tibidabo i les Planes",2023,5
+"Vallvidrera, el Tibidabo i les Planes",2024,2
+"Vallvidrera, el Tibidabo i les Planes",2025,1
+"Vallvidrera, el Tibidabo i les Planes",2026,1
+Verdun,2001,1
+Verdun,2002,1
+Verdun,2003,1
+Verdun,2004,1
+Verdun,2005,1
+Verdun,2006,1
+Verdun,2007,1
+Verdun,2008,1
+Verdun,2009,1
+Verdun,2010,1
+Verdun,2011,1
+Verdun,2012,1
+Verdun,2013,1
+Verdun,2014,1
+Verdun,2015,1
+Verdun,2016,1
+Verdun,2017,1
+Verdun,2018,1
+Verdun,2019,1
+Verdun,2020,1
+Verdun,2021,1
+Verdun,2022,1
+Verdun,2023,1
+Verdun,2025,1
+Vilapicina i la Torre Llobeta,1996,4
+Vilapicina i la Torre Llobeta,1997,4
+Vilapicina i la Torre Llobeta,1998,4
+Vilapicina i la Torre Llobeta,1999,4
+Vilapicina i la Torre Llobeta,2000,4
+Vilapicina i la Torre Llobeta,2001,4
+Vilapicina i la Torre Llobeta,2002,4
+Vilapicina i la Torre Llobeta,2003,4
+Vilapicina i la Torre Llobeta,2004,4
+Vilapicina i la Torre Llobeta,2005,4
+Vilapicina i la Torre Llobeta,2006,4
+Vilapicina i la Torre Llobeta,2007,4
+Vilapicina i la Torre Llobeta,2008,4
+Vilapicina i la Torre Llobeta,2009,4
+Vilapicina i la Torre Llobeta,2010,4
+Vilapicina i la Torre Llobeta,2011,4
+Vilapicina i la Torre Llobeta,2012,4
+Vilapicina i la Torre Llobeta,2013,4
+Vilapicina i la Torre Llobeta,2014,4
+Vilapicina i la Torre Llobeta,2015,4
+Vilapicina i la Torre Llobeta,2016,4
+Vilapicina i la Torre Llobeta,2017,4
+Vilapicina i la Torre Llobeta,2018,6
+Vilapicina i la Torre Llobeta,2019,4
+Vilapicina i la Torre Llobeta,2020,4
+Vilapicina i la Torre Llobeta,2021,4
+Vilapicina i la Torre Llobeta,2022,5
+Vilapicina i la Torre Llobeta,2023,5
+Vilapicina i la Torre Llobeta,2024,2
+Vilapicina i la Torre Llobeta,2025,3
 el Baix Guinardó,1990,1
 el Baix Guinardó,1991,1
 el Baix Guinardó,1992,1
 el Baix Guinardó,1993,1
 el Baix Guinardó,1994,1
 el Baix Guinardó,1995,1
-el Baix Guinardó,1996,1
-el Baix Guinardó,1997,1
-el Baix Guinardó,1998,1
-el Baix Guinardó,1999,1
-el Baix Guinardó,2000,1
-el Baix Guinardó,2001,1
-el Baix Guinardó,2002,1
-el Baix Guinardó,2003,1
-el Baix Guinardó,2004,1
-el Baix Guinardó,2005,1
-el Baix Guinardó,2006,1
-el Baix Guinardó,2007,1
-el Baix Guinardó,2008,1
-el Baix Guinardó,2009,1
-el Baix Guinardó,2010,1
-el Baix Guinardó,2011,1
-el Baix Guinardó,2012,1
-el Baix Guinardó,2013,1
-el Baix Guinardó,2014,1
-el Baix Guinardó,2015,1
-el Baix Guinardó,2016,1
-el Baix Guinardó,2017,1
-el Baix Guinardó,2018,2
-el Barri Gòtic,1986,1
-el Barri Gòtic,1987,1
-el Barri Gòtic,1988,1
-el Barri Gòtic,1989,1
-el Barri Gòtic,1990,1
-el Barri Gòtic,1991,1
-el Barri Gòtic,1992,2
-el Barri Gòtic,1993,2
-el Barri Gòtic,1994,2
-el Barri Gòtic,1995,3
-el Barri Gòtic,1996,4
-el Barri Gòtic,1997,5
-el Barri Gòtic,1998,8
-el Barri Gòtic,1999,8
-el Barri Gòtic,2000,10
-el Barri Gòtic,2001,11
-el Barri Gòtic,2002,12
-el Barri Gòtic,2003,15
-el Barri Gòtic,2004,16
-el Barri Gòtic,2005,18
-el Barri Gòtic,2006,19
-el Barri Gòtic,2007,20
-el Barri Gòtic,2008,24
-el Barri Gòtic,2009,25
-el Barri Gòtic,2010,25
-el Barri Gòtic,2011,25
-el Barri Gòtic,2012,28
-el Barri Gòtic,2013,29
-el Barri Gòtic,2014,30
-el Barri Gòtic,2015,35
-el Barri Gòtic,2016,37
-el Barri Gòtic,2017,39
-el Barri Gòtic,2018,56
-el Barri Gòtic,2019,1
-el Bon Pastor,2000,3
-el Bon Pastor,2001,3
-el Bon Pastor,2002,3
-el Bon Pastor,2003,3
-el Bon Pastor,2004,3
-el Bon Pastor,2005,4
-el Bon Pastor,2006,4
-el Bon Pastor,2007,4
-el Bon Pastor,2008,4
-el Bon Pastor,2009,4
-el Bon Pastor,2010,4
-el Bon Pastor,2011,5
-el Bon Pastor,2012,5
-el Bon Pastor,2013,5
-el Bon Pastor,2014,5
-el Bon Pastor,2015,5
-el Bon Pastor,2016,5
-el Bon Pastor,2017,4
-el Bon Pastor,2018,9
+el Baix Guinardó,1996,4
+el Baix Guinardó,1997,4
+el Baix Guinardó,1998,4
+el Baix Guinardó,1999,4
+el Baix Guinardó,2000,4
+el Baix Guinardó,2001,4
+el Baix Guinardó,2002,4
+el Baix Guinardó,2003,4
+el Baix Guinardó,2004,4
+el Baix Guinardó,2005,5
+el Baix Guinardó,2006,5
+el Baix Guinardó,2007,5
+el Baix Guinardó,2008,5
+el Baix Guinardó,2009,5
+el Baix Guinardó,2010,5
+el Baix Guinardó,2011,5
+el Baix Guinardó,2012,5
+el Baix Guinardó,2013,5
+el Baix Guinardó,2014,5
+el Baix Guinardó,2015,6
+el Baix Guinardó,2016,6
+el Baix Guinardó,2017,6
+el Baix Guinardó,2018,7
+el Baix Guinardó,2019,5
+el Baix Guinardó,2020,5
+el Baix Guinardó,2021,5
+el Baix Guinardó,2022,5
+el Baix Guinardó,2023,5
+el Baix Guinardó,2024,2
+el Baix Guinardó,2025,3
+el Baix Guinardó,2026,2
+el Barri Gòtic,1984,1
+el Barri Gòtic,1985,1
+el Barri Gòtic,1986,2
+el Barri Gòtic,1987,2
+el Barri Gòtic,1988,3
+el Barri Gòtic,1989,3
+el Barri Gòtic,1990,3
+el Barri Gòtic,1991,3
+el Barri Gòtic,1992,4
+el Barri Gòtic,1993,5
+el Barri Gòtic,1994,6
+el Barri Gòtic,1995,7
+el Barri Gòtic,1996,42
+el Barri Gòtic,1997,46
+el Barri Gòtic,1998,53
+el Barri Gòtic,1999,55
+el Barri Gòtic,2000,60
+el Barri Gòtic,2001,68
+el Barri Gòtic,2002,69
+el Barri Gòtic,2003,76
+el Barri Gòtic,2004,78
+el Barri Gòtic,2005,80
+el Barri Gòtic,2006,83
+el Barri Gòtic,2007,86
+el Barri Gòtic,2008,90
+el Barri Gòtic,2009,91
+el Barri Gòtic,2010,91
+el Barri Gòtic,2011,92
+el Barri Gòtic,2012,96
+el Barri Gòtic,2013,97
+el Barri Gòtic,2014,98
+el Barri Gòtic,2015,106
+el Barri Gòtic,2016,109
+el Barri Gòtic,2017,111
+el Barri Gòtic,2018,137
+el Barri Gòtic,2019,82
+el Barri Gòtic,2020,81
+el Barri Gòtic,2021,82
+el Barri Gòtic,2022,83
+el Barri Gòtic,2023,79
+el Barri Gòtic,2024,37
+el Barri Gòtic,2025,27
+el Barri Gòtic,2026,23
+el Besòs i el Maresme,1996,2
+el Besòs i el Maresme,1997,2
+el Besòs i el Maresme,1998,2
+el Besòs i el Maresme,1999,2
+el Besòs i el Maresme,2000,2
+el Besòs i el Maresme,2001,2
+el Besòs i el Maresme,2002,2
+el Besòs i el Maresme,2003,2
+el Besòs i el Maresme,2004,2
+el Besòs i el Maresme,2005,2
+el Besòs i el Maresme,2006,2
+el Besòs i el Maresme,2007,2
+el Besòs i el Maresme,2008,2
+el Besòs i el Maresme,2009,2
+el Besòs i el Maresme,2010,2
+el Besòs i el Maresme,2011,2
+el Besòs i el Maresme,2012,2
+el Besòs i el Maresme,2013,2
+el Besòs i el Maresme,2014,2
+el Besòs i el Maresme,2015,2
+el Besòs i el Maresme,2016,2
+el Besòs i el Maresme,2017,2
+el Besòs i el Maresme,2018,2
+el Besòs i el Maresme,2019,2
+el Besòs i el Maresme,2020,2
+el Besòs i el Maresme,2021,3
+el Besòs i el Maresme,2022,2
+el Besòs i el Maresme,2023,2
+el Bon Pastor,1996,4
+el Bon Pastor,1997,4
+el Bon Pastor,1998,4
+el Bon Pastor,1999,4
+el Bon Pastor,2000,7
+el Bon Pastor,2001,7
+el Bon Pastor,2002,7
+el Bon Pastor,2003,7
+el Bon Pastor,2004,7
+el Bon Pastor,2005,8
+el Bon Pastor,2006,8
+el Bon Pastor,2007,8
+el Bon Pastor,2008,8
+el Bon Pastor,2009,8
+el Bon Pastor,2010,8
+el Bon Pastor,2011,9
+el Bon Pastor,2012,9
+el Bon Pastor,2013,9
+el Bon Pastor,2014,9
+el Bon Pastor,2015,9
+el Bon Pastor,2016,9
+el Bon Pastor,2017,8
+el Bon Pastor,2018,14
+el Bon Pastor,2019,5
+el Bon Pastor,2020,5
+el Bon Pastor,2021,5
+el Bon Pastor,2022,5
+el Bon Pastor,2023,5
 el Camp d'en Grassot i Gràcia Nova,1988,1
 el Camp d'en Grassot i Gràcia Nova,1989,1
 el Camp d'en Grassot i Gràcia Nova,1990,1
@@ -524,68 +849,154 @@ el Camp d'en Grassot i Gràcia Nova,1992,1
 el Camp d'en Grassot i Gràcia Nova,1993,1
 el Camp d'en Grassot i Gràcia Nova,1994,1
 el Camp d'en Grassot i Gràcia Nova,1995,1
-el Camp d'en Grassot i Gràcia Nova,1996,1
-el Camp d'en Grassot i Gràcia Nova,1997,1
-el Camp d'en Grassot i Gràcia Nova,1998,2
-el Camp d'en Grassot i Gràcia Nova,1999,2
-el Camp d'en Grassot i Gràcia Nova,2000,3
-el Camp d'en Grassot i Gràcia Nova,2001,3
-el Camp d'en Grassot i Gràcia Nova,2002,3
-el Camp d'en Grassot i Gràcia Nova,2003,3
-el Camp d'en Grassot i Gràcia Nova,2004,4
-el Camp d'en Grassot i Gràcia Nova,2005,6
-el Camp d'en Grassot i Gràcia Nova,2006,6
-el Camp d'en Grassot i Gràcia Nova,2007,6
-el Camp d'en Grassot i Gràcia Nova,2008,6
-el Camp d'en Grassot i Gràcia Nova,2009,6
-el Camp d'en Grassot i Gràcia Nova,2010,6
-el Camp d'en Grassot i Gràcia Nova,2011,6
-el Camp d'en Grassot i Gràcia Nova,2012,6
-el Camp d'en Grassot i Gràcia Nova,2013,6
-el Camp d'en Grassot i Gràcia Nova,2014,6
-el Camp d'en Grassot i Gràcia Nova,2015,6
-el Camp d'en Grassot i Gràcia Nova,2016,6
-el Camp d'en Grassot i Gràcia Nova,2017,7
-el Camp d'en Grassot i Gràcia Nova,2018,11
-el Camp de l'Arpa del Clot,1998,1
-el Camp de l'Arpa del Clot,1999,1
-el Camp de l'Arpa del Clot,2000,1
-el Camp de l'Arpa del Clot,2001,1
-el Camp de l'Arpa del Clot,2002,1
-el Camp de l'Arpa del Clot,2003,1
-el Camp de l'Arpa del Clot,2004,1
-el Camp de l'Arpa del Clot,2005,1
-el Camp de l'Arpa del Clot,2006,1
-el Camp de l'Arpa del Clot,2007,2
-el Camp de l'Arpa del Clot,2008,2
-el Camp de l'Arpa del Clot,2009,2
-el Camp de l'Arpa del Clot,2010,2
-el Camp de l'Arpa del Clot,2011,3
-el Camp de l'Arpa del Clot,2012,3
-el Camp de l'Arpa del Clot,2013,3
-el Camp de l'Arpa del Clot,2014,3
-el Camp de l'Arpa del Clot,2015,4
-el Camp de l'Arpa del Clot,2016,4
-el Camp de l'Arpa del Clot,2017,4
-el Camp de l'Arpa del Clot,2018,8
-el Camp de l'Arpa del Clot,2019,1
-el Carmel,2017,1
-el Clot,2003,1
-el Clot,2004,1
-el Clot,2005,1
-el Clot,2006,1
-el Clot,2007,1
-el Clot,2008,1
-el Clot,2009,1
-el Clot,2010,1
-el Clot,2011,1
-el Clot,2012,1
-el Clot,2013,1
-el Clot,2014,1
-el Clot,2015,1
-el Clot,2016,1
-el Clot,2017,1
-el Clot,2018,2
+el Camp d'en Grassot i Gràcia Nova,1996,6
+el Camp d'en Grassot i Gràcia Nova,1997,6
+el Camp d'en Grassot i Gràcia Nova,1998,8
+el Camp d'en Grassot i Gràcia Nova,1999,8
+el Camp d'en Grassot i Gràcia Nova,2000,9
+el Camp d'en Grassot i Gràcia Nova,2001,9
+el Camp d'en Grassot i Gràcia Nova,2002,9
+el Camp d'en Grassot i Gràcia Nova,2003,10
+el Camp d'en Grassot i Gràcia Nova,2004,11
+el Camp d'en Grassot i Gràcia Nova,2005,14
+el Camp d'en Grassot i Gràcia Nova,2006,14
+el Camp d'en Grassot i Gràcia Nova,2007,14
+el Camp d'en Grassot i Gràcia Nova,2008,14
+el Camp d'en Grassot i Gràcia Nova,2009,14
+el Camp d'en Grassot i Gràcia Nova,2010,15
+el Camp d'en Grassot i Gràcia Nova,2011,15
+el Camp d'en Grassot i Gràcia Nova,2012,15
+el Camp d'en Grassot i Gràcia Nova,2013,15
+el Camp d'en Grassot i Gràcia Nova,2014,15
+el Camp d'en Grassot i Gràcia Nova,2015,16
+el Camp d'en Grassot i Gràcia Nova,2016,16
+el Camp d'en Grassot i Gràcia Nova,2017,17
+el Camp d'en Grassot i Gràcia Nova,2018,22
+el Camp d'en Grassot i Gràcia Nova,2019,11
+el Camp d'en Grassot i Gràcia Nova,2020,11
+el Camp d'en Grassot i Gràcia Nova,2021,11
+el Camp d'en Grassot i Gràcia Nova,2022,12
+el Camp d'en Grassot i Gràcia Nova,2023,12
+el Camp d'en Grassot i Gràcia Nova,2024,5
+el Camp d'en Grassot i Gràcia Nova,2025,5
+el Camp d'en Grassot i Gràcia Nova,2026,3
+el Camp de l'Arpa del Clot,1996,3
+el Camp de l'Arpa del Clot,1997,3
+el Camp de l'Arpa del Clot,1998,4
+el Camp de l'Arpa del Clot,1999,6
+el Camp de l'Arpa del Clot,2000,6
+el Camp de l'Arpa del Clot,2001,6
+el Camp de l'Arpa del Clot,2002,6
+el Camp de l'Arpa del Clot,2003,6
+el Camp de l'Arpa del Clot,2004,6
+el Camp de l'Arpa del Clot,2005,6
+el Camp de l'Arpa del Clot,2006,6
+el Camp de l'Arpa del Clot,2007,7
+el Camp de l'Arpa del Clot,2008,8
+el Camp de l'Arpa del Clot,2009,8
+el Camp de l'Arpa del Clot,2010,8
+el Camp de l'Arpa del Clot,2011,9
+el Camp de l'Arpa del Clot,2012,9
+el Camp de l'Arpa del Clot,2013,9
+el Camp de l'Arpa del Clot,2014,9
+el Camp de l'Arpa del Clot,2015,10
+el Camp de l'Arpa del Clot,2016,10
+el Camp de l'Arpa del Clot,2017,10
+el Camp de l'Arpa del Clot,2018,14
+el Camp de l'Arpa del Clot,2019,7
+el Camp de l'Arpa del Clot,2020,6
+el Camp de l'Arpa del Clot,2021,6
+el Camp de l'Arpa del Clot,2022,6
+el Camp de l'Arpa del Clot,2023,6
+el Camp de l'Arpa del Clot,2024,1
+el Camp de l'Arpa del Clot,2025,1
+el Camp de l'Arpa del Clot,2026,1
+el Carmel,1996,1
+el Carmel,1997,1
+el Carmel,1998,1
+el Carmel,1999,1
+el Carmel,2000,1
+el Carmel,2001,1
+el Carmel,2002,1
+el Carmel,2003,1
+el Carmel,2004,1
+el Carmel,2005,1
+el Carmel,2006,1
+el Carmel,2007,1
+el Carmel,2008,1
+el Carmel,2009,1
+el Carmel,2010,1
+el Carmel,2011,1
+el Carmel,2012,1
+el Carmel,2013,1
+el Carmel,2014,1
+el Carmel,2015,1
+el Carmel,2016,1
+el Carmel,2017,2
+el Carmel,2018,1
+el Carmel,2019,1
+el Carmel,2020,1
+el Carmel,2021,1
+el Carmel,2022,1
+el Carmel,2023,1
+el Clot,1996,2
+el Clot,1997,3
+el Clot,1998,3
+el Clot,1999,4
+el Clot,2000,4
+el Clot,2001,4
+el Clot,2002,5
+el Clot,2003,7
+el Clot,2004,7
+el Clot,2005,7
+el Clot,2006,7
+el Clot,2007,7
+el Clot,2008,7
+el Clot,2009,7
+el Clot,2010,7
+el Clot,2011,7
+el Clot,2012,7
+el Clot,2013,7
+el Clot,2014,7
+el Clot,2015,7
+el Clot,2016,7
+el Clot,2017,7
+el Clot,2018,8
+el Clot,2019,6
+el Clot,2020,6
+el Clot,2021,6
+el Clot,2022,7
+el Clot,2023,6
+el Clot,2024,4
+el Clot,2025,1
+el Coll,1996,1
+el Coll,1997,1
+el Coll,1998,1
+el Coll,1999,1
+el Coll,2000,1
+el Coll,2001,1
+el Coll,2002,1
+el Coll,2003,1
+el Coll,2004,1
+el Coll,2005,1
+el Coll,2006,1
+el Coll,2007,1
+el Coll,2008,1
+el Coll,2009,1
+el Coll,2010,1
+el Coll,2011,1
+el Coll,2012,1
+el Coll,2013,1
+el Coll,2014,1
+el Coll,2015,1
+el Coll,2016,1
+el Coll,2017,1
+el Coll,2018,1
+el Coll,2019,1
+el Coll,2020,1
+el Coll,2021,1
+el Coll,2022,1
+el Coll,2023,1
 el Congrés i els Indians,1988,1
 el Congrés i els Indians,1989,1
 el Congrés i els Indians,1990,1
@@ -594,251 +1005,353 @@ el Congrés i els Indians,1992,1
 el Congrés i els Indians,1993,1
 el Congrés i els Indians,1994,1
 el Congrés i els Indians,1995,1
-el Congrés i els Indians,1996,1
-el Congrés i els Indians,1997,1
-el Congrés i els Indians,1998,1
-el Congrés i els Indians,1999,1
-el Congrés i els Indians,2000,1
-el Congrés i els Indians,2001,1
-el Congrés i els Indians,2002,1
-el Congrés i els Indians,2003,1
-el Congrés i els Indians,2004,1
-el Congrés i els Indians,2005,1
-el Congrés i els Indians,2006,1
-el Congrés i els Indians,2007,1
-el Congrés i els Indians,2008,1
-el Congrés i els Indians,2009,1
-el Congrés i els Indians,2010,1
-el Congrés i els Indians,2011,1
-el Congrés i els Indians,2012,1
-el Congrés i els Indians,2013,1
-el Congrés i els Indians,2014,1
-el Congrés i els Indians,2015,1
-el Congrés i els Indians,2016,1
-el Congrés i els Indians,2017,1
-el Congrés i els Indians,2018,2
-el Fort Pienc,2003,1
-el Fort Pienc,2004,1
-el Fort Pienc,2005,1
-el Fort Pienc,2006,1
-el Fort Pienc,2007,1
-el Fort Pienc,2008,1
-el Fort Pienc,2009,1
-el Fort Pienc,2010,2
-el Fort Pienc,2011,2
-el Fort Pienc,2012,2
-el Fort Pienc,2013,2
-el Fort Pienc,2014,2
-el Fort Pienc,2015,2
-el Fort Pienc,2016,3
-el Fort Pienc,2017,4
-el Fort Pienc,2018,7
-el Fort Pienc,2019,1
+el Congrés i els Indians,1996,5
+el Congrés i els Indians,1997,5
+el Congrés i els Indians,1998,5
+el Congrés i els Indians,1999,5
+el Congrés i els Indians,2000,5
+el Congrés i els Indians,2001,6
+el Congrés i els Indians,2002,6
+el Congrés i els Indians,2003,6
+el Congrés i els Indians,2004,6
+el Congrés i els Indians,2005,6
+el Congrés i els Indians,2006,6
+el Congrés i els Indians,2007,6
+el Congrés i els Indians,2008,6
+el Congrés i els Indians,2009,6
+el Congrés i els Indians,2010,6
+el Congrés i els Indians,2011,6
+el Congrés i els Indians,2012,6
+el Congrés i els Indians,2013,6
+el Congrés i els Indians,2014,6
+el Congrés i els Indians,2015,7
+el Congrés i els Indians,2016,7
+el Congrés i els Indians,2017,7
+el Congrés i els Indians,2018,8
+el Congrés i els Indians,2019,6
+el Congrés i els Indians,2020,6
+el Congrés i els Indians,2021,6
+el Congrés i els Indians,2022,7
+el Congrés i els Indians,2023,7
+el Congrés i els Indians,2024,3
+el Congrés i els Indians,2025,3
+el Congrés i els Indians,2026,2
+el Fort Pienc,1996,8
+el Fort Pienc,1997,8
+el Fort Pienc,1998,11
+el Fort Pienc,1999,11
+el Fort Pienc,2000,12
+el Fort Pienc,2001,13
+el Fort Pienc,2002,13
+el Fort Pienc,2003,15
+el Fort Pienc,2004,15
+el Fort Pienc,2005,16
+el Fort Pienc,2006,16
+el Fort Pienc,2007,16
+el Fort Pienc,2008,16
+el Fort Pienc,2009,16
+el Fort Pienc,2010,17
+el Fort Pienc,2011,17
+el Fort Pienc,2012,17
+el Fort Pienc,2013,17
+el Fort Pienc,2014,17
+el Fort Pienc,2015,17
+el Fort Pienc,2016,18
+el Fort Pienc,2017,19
+el Fort Pienc,2018,24
+el Fort Pienc,2019,18
+el Fort Pienc,2020,17
+el Fort Pienc,2021,19
+el Fort Pienc,2022,18
+el Fort Pienc,2023,19
+el Fort Pienc,2024,8
+el Fort Pienc,2025,9
+el Fort Pienc,2026,5
 el Guinardó,1987,1
 el Guinardó,1988,1
 el Guinardó,1989,1
-el Guinardó,1990,1
-el Guinardó,1991,1
-el Guinardó,1992,1
-el Guinardó,1993,1
-el Guinardó,1994,1
-el Guinardó,1995,1
-el Guinardó,1996,1
-el Guinardó,1997,2
-el Guinardó,1998,2
-el Guinardó,1999,2
-el Guinardó,2000,2
-el Guinardó,2001,2
-el Guinardó,2002,2
-el Guinardó,2003,2
-el Guinardó,2004,2
-el Guinardó,2005,2
-el Guinardó,2006,2
-el Guinardó,2007,2
-el Guinardó,2008,2
-el Guinardó,2009,2
-el Guinardó,2010,2
-el Guinardó,2011,2
-el Guinardó,2012,2
-el Guinardó,2013,3
-el Guinardó,2014,3
-el Guinardó,2015,3
-el Guinardó,2016,4
-el Guinardó,2017,4
-el Guinardó,2018,6
+el Guinardó,1990,2
+el Guinardó,1991,2
+el Guinardó,1992,2
+el Guinardó,1993,2
+el Guinardó,1994,2
+el Guinardó,1995,2
+el Guinardó,1996,6
+el Guinardó,1997,7
+el Guinardó,1998,8
+el Guinardó,1999,8
+el Guinardó,2000,8
+el Guinardó,2001,8
+el Guinardó,2002,8
+el Guinardó,2003,8
+el Guinardó,2004,8
+el Guinardó,2005,8
+el Guinardó,2006,8
+el Guinardó,2007,8
+el Guinardó,2008,8
+el Guinardó,2009,8
+el Guinardó,2010,8
+el Guinardó,2011,8
+el Guinardó,2012,8
+el Guinardó,2013,9
+el Guinardó,2014,9
+el Guinardó,2015,9
+el Guinardó,2016,10
+el Guinardó,2017,10
+el Guinardó,2018,12
+el Guinardó,2019,6
+el Guinardó,2020,6
+el Guinardó,2021,6
+el Guinardó,2022,6
+el Guinardó,2023,6
+el Guinardó,2024,2
+el Guinardó,2025,2
+el Guinardó,2026,2
 el Parc i la Llacuna del Poblenou,1994,1
-el Parc i la Llacuna del Poblenou,1995,1
-el Parc i la Llacuna del Poblenou,1996,1
-el Parc i la Llacuna del Poblenou,1997,1
-el Parc i la Llacuna del Poblenou,1998,1
-el Parc i la Llacuna del Poblenou,1999,1
-el Parc i la Llacuna del Poblenou,2000,1
-el Parc i la Llacuna del Poblenou,2001,1
-el Parc i la Llacuna del Poblenou,2002,1
-el Parc i la Llacuna del Poblenou,2003,1
-el Parc i la Llacuna del Poblenou,2004,1
-el Parc i la Llacuna del Poblenou,2005,1
-el Parc i la Llacuna del Poblenou,2006,1
-el Parc i la Llacuna del Poblenou,2007,1
-el Parc i la Llacuna del Poblenou,2008,1
-el Parc i la Llacuna del Poblenou,2009,1
-el Parc i la Llacuna del Poblenou,2010,2
-el Parc i la Llacuna del Poblenou,2011,3
-el Parc i la Llacuna del Poblenou,2012,3
-el Parc i la Llacuna del Poblenou,2013,4
-el Parc i la Llacuna del Poblenou,2014,4
-el Parc i la Llacuna del Poblenou,2015,6
-el Parc i la Llacuna del Poblenou,2016,7
-el Parc i la Llacuna del Poblenou,2017,7
-el Parc i la Llacuna del Poblenou,2018,9
-el Parc i la Llacuna del Poblenou,2019,1
+el Parc i la Llacuna del Poblenou,1995,2
+el Parc i la Llacuna del Poblenou,1996,4
+el Parc i la Llacuna del Poblenou,1997,4
+el Parc i la Llacuna del Poblenou,1998,4
+el Parc i la Llacuna del Poblenou,1999,4
+el Parc i la Llacuna del Poblenou,2000,4
+el Parc i la Llacuna del Poblenou,2001,4
+el Parc i la Llacuna del Poblenou,2002,5
+el Parc i la Llacuna del Poblenou,2003,5
+el Parc i la Llacuna del Poblenou,2004,5
+el Parc i la Llacuna del Poblenou,2005,5
+el Parc i la Llacuna del Poblenou,2006,5
+el Parc i la Llacuna del Poblenou,2007,5
+el Parc i la Llacuna del Poblenou,2008,5
+el Parc i la Llacuna del Poblenou,2009,5
+el Parc i la Llacuna del Poblenou,2010,6
+el Parc i la Llacuna del Poblenou,2011,7
+el Parc i la Llacuna del Poblenou,2012,7
+el Parc i la Llacuna del Poblenou,2013,8
+el Parc i la Llacuna del Poblenou,2014,8
+el Parc i la Llacuna del Poblenou,2015,10
+el Parc i la Llacuna del Poblenou,2016,11
+el Parc i la Llacuna del Poblenou,2017,11
+el Parc i la Llacuna del Poblenou,2018,15
+el Parc i la Llacuna del Poblenou,2019,7
+el Parc i la Llacuna del Poblenou,2020,6
+el Parc i la Llacuna del Poblenou,2021,6
+el Parc i la Llacuna del Poblenou,2022,9
+el Parc i la Llacuna del Poblenou,2023,7
+el Parc i la Llacuna del Poblenou,2024,2
+el Parc i la Llacuna del Poblenou,2025,4
+el Parc i la Llacuna del Poblenou,2026,3
 el Poble-sec,1988,1
-el Poble-sec,1989,1
-el Poble-sec,1990,1
-el Poble-sec,1991,2
-el Poble-sec,1992,2
-el Poble-sec,1993,2
-el Poble-sec,1994,2
-el Poble-sec,1995,2
-el Poble-sec,1996,2
-el Poble-sec,1997,2
-el Poble-sec,1998,5
-el Poble-sec,1999,5
-el Poble-sec,2000,6
-el Poble-sec,2001,6
-el Poble-sec,2002,6
-el Poble-sec,2003,7
-el Poble-sec,2004,7
-el Poble-sec,2005,7
-el Poble-sec,2006,8
-el Poble-sec,2007,11
-el Poble-sec,2008,11
-el Poble-sec,2009,11
-el Poble-sec,2010,12
-el Poble-sec,2011,12
-el Poble-sec,2012,12
-el Poble-sec,2013,12
-el Poble-sec,2014,14
-el Poble-sec,2015,16
-el Poble-sec,2016,19
-el Poble-sec,2017,20
-el Poble-sec,2018,24
-el Poble-sec,2019,2
-el Poble-sec,2020,2
-el Poblenou,1996,1
-el Poblenou,1997,1
-el Poblenou,1998,1
-el Poblenou,1999,1
-el Poblenou,2000,1
-el Poblenou,2001,2
-el Poblenou,2002,2
-el Poblenou,2003,2
-el Poblenou,2004,2
-el Poblenou,2005,3
-el Poblenou,2006,3
-el Poblenou,2007,5
-el Poblenou,2008,5
-el Poblenou,2009,7
-el Poblenou,2010,7
-el Poblenou,2011,9
-el Poblenou,2012,10
-el Poblenou,2013,11
-el Poblenou,2014,11
-el Poblenou,2015,13
-el Poblenou,2016,15
-el Poblenou,2017,14
-el Poblenou,2018,23
-el Poblenou,2019,3
-el Poblenou,2020,1
+el Poble-sec,1989,2
+el Poble-sec,1990,2
+el Poble-sec,1991,4
+el Poble-sec,1992,4
+el Poble-sec,1993,4
+el Poble-sec,1994,5
+el Poble-sec,1995,5
+el Poble-sec,1996,23
+el Poble-sec,1997,23
+el Poble-sec,1998,26
+el Poble-sec,1999,29
+el Poble-sec,2000,31
+el Poble-sec,2001,32
+el Poble-sec,2002,32
+el Poble-sec,2003,35
+el Poble-sec,2004,35
+el Poble-sec,2005,37
+el Poble-sec,2006,39
+el Poble-sec,2007,42
+el Poble-sec,2008,42
+el Poble-sec,2009,42
+el Poble-sec,2010,43
+el Poble-sec,2011,43
+el Poble-sec,2012,43
+el Poble-sec,2013,43
+el Poble-sec,2014,45
+el Poble-sec,2015,48
+el Poble-sec,2016,51
+el Poble-sec,2017,53
+el Poble-sec,2018,62
+el Poble-sec,2019,40
+el Poble-sec,2020,40
+el Poble-sec,2021,40
+el Poble-sec,2022,43
+el Poble-sec,2023,42
+el Poble-sec,2024,17
+el Poble-sec,2025,15
+el Poble-sec,2026,14
+el Poblenou,1994,1
+el Poblenou,1995,1
+el Poblenou,1996,10
+el Poblenou,1997,10
+el Poblenou,1998,10
+el Poblenou,1999,11
+el Poblenou,2000,12
+el Poblenou,2001,14
+el Poblenou,2002,15
+el Poblenou,2003,20
+el Poblenou,2004,20
+el Poblenou,2005,21
+el Poblenou,2006,21
+el Poblenou,2007,23
+el Poblenou,2008,23
+el Poblenou,2009,25
+el Poblenou,2010,25
+el Poblenou,2011,27
+el Poblenou,2012,28
+el Poblenou,2013,29
+el Poblenou,2014,29
+el Poblenou,2015,32
+el Poblenou,2016,35
+el Poblenou,2017,34
+el Poblenou,2018,45
+el Poblenou,2019,25
+el Poblenou,2020,24
+el Poblenou,2021,25
+el Poblenou,2022,28
+el Poblenou,2023,29
+el Poblenou,2024,13
+el Poblenou,2025,12
+el Poblenou,2026,10
 el Putxet i el Farró,1995,1
-el Putxet i el Farró,1996,1
-el Putxet i el Farró,1997,1
-el Putxet i el Farró,1998,2
-el Putxet i el Farró,1999,2
-el Putxet i el Farró,2000,2
-el Putxet i el Farró,2001,2
-el Putxet i el Farró,2002,2
-el Putxet i el Farró,2003,2
-el Putxet i el Farró,2004,2
-el Putxet i el Farró,2005,2
-el Putxet i el Farró,2006,2
-el Putxet i el Farró,2007,3
-el Putxet i el Farró,2008,3
-el Putxet i el Farró,2009,3
-el Putxet i el Farró,2010,4
-el Putxet i el Farró,2011,4
-el Putxet i el Farró,2012,4
-el Putxet i el Farró,2013,4
-el Putxet i el Farró,2014,4
-el Putxet i el Farró,2015,5
-el Putxet i el Farró,2016,6
-el Putxet i el Farró,2017,6
-el Putxet i el Farró,2018,13
-el Putxet i el Farró,2019,1
+el Putxet i el Farró,1996,6
+el Putxet i el Farró,1997,6
+el Putxet i el Farró,1998,8
+el Putxet i el Farró,1999,8
+el Putxet i el Farró,2000,8
+el Putxet i el Farró,2001,8
+el Putxet i el Farró,2002,9
+el Putxet i el Farró,2003,9
+el Putxet i el Farró,2004,9
+el Putxet i el Farró,2005,10
+el Putxet i el Farró,2006,10
+el Putxet i el Farró,2007,12
+el Putxet i el Farró,2008,12
+el Putxet i el Farró,2009,12
+el Putxet i el Farró,2010,13
+el Putxet i el Farró,2011,13
+el Putxet i el Farró,2012,13
+el Putxet i el Farró,2013,13
+el Putxet i el Farró,2014,13
+el Putxet i el Farró,2015,15
+el Putxet i el Farró,2016,16
+el Putxet i el Farró,2017,17
+el Putxet i el Farró,2018,24
+el Putxet i el Farró,2019,12
+el Putxet i el Farró,2020,11
+el Putxet i el Farró,2021,12
+el Putxet i el Farró,2022,12
+el Putxet i el Farró,2023,13
+el Putxet i el Farró,2024,5
+el Putxet i el Farró,2025,6
+el Putxet i el Farró,2026,3
 el Raval,1986,1
 el Raval,1987,1
-el Raval,1988,2
-el Raval,1989,2
-el Raval,1990,2
-el Raval,1991,3
-el Raval,1992,3
-el Raval,1993,3
-el Raval,1994,3
-el Raval,1995,3
-el Raval,1996,5
-el Raval,1997,6
-el Raval,1998,6
-el Raval,1999,7
-el Raval,2000,7
-el Raval,2001,7
-el Raval,2002,8
-el Raval,2003,8
-el Raval,2004,10
-el Raval,2005,11
-el Raval,2006,12
-el Raval,2007,14
-el Raval,2008,17
-el Raval,2009,19
-el Raval,2010,19
-el Raval,2011,21
-el Raval,2012,22
-el Raval,2013,24
-el Raval,2014,24
-el Raval,2015,28
-el Raval,2016,36
-el Raval,2017,35
-el Raval,2018,46
-el Raval,2019,3
-l'Antiga Esquerra de l'Eixample,1991,1
-l'Antiga Esquerra de l'Eixample,1992,1
-l'Antiga Esquerra de l'Eixample,1993,1
-l'Antiga Esquerra de l'Eixample,1994,1
-l'Antiga Esquerra de l'Eixample,1995,1
-l'Antiga Esquerra de l'Eixample,1996,3
-l'Antiga Esquerra de l'Eixample,1997,3
-l'Antiga Esquerra de l'Eixample,1998,4
-l'Antiga Esquerra de l'Eixample,1999,5
-l'Antiga Esquerra de l'Eixample,2000,6
-l'Antiga Esquerra de l'Eixample,2001,6
-l'Antiga Esquerra de l'Eixample,2002,9
-l'Antiga Esquerra de l'Eixample,2003,12
-l'Antiga Esquerra de l'Eixample,2004,14
-l'Antiga Esquerra de l'Eixample,2005,16
-l'Antiga Esquerra de l'Eixample,2006,21
-l'Antiga Esquerra de l'Eixample,2007,24
-l'Antiga Esquerra de l'Eixample,2008,25
-l'Antiga Esquerra de l'Eixample,2009,27
-l'Antiga Esquerra de l'Eixample,2010,27
-l'Antiga Esquerra de l'Eixample,2011,28
-l'Antiga Esquerra de l'Eixample,2012,30
-l'Antiga Esquerra de l'Eixample,2013,32
-l'Antiga Esquerra de l'Eixample,2014,32
-l'Antiga Esquerra de l'Eixample,2015,38
-l'Antiga Esquerra de l'Eixample,2016,41
-l'Antiga Esquerra de l'Eixample,2017,53
-l'Antiga Esquerra de l'Eixample,2018,80
-l'Antiga Esquerra de l'Eixample,2019,9
-l'Antiga Esquerra de l'Eixample,2020,2
+el Raval,1988,3
+el Raval,1989,3
+el Raval,1990,3
+el Raval,1991,4
+el Raval,1992,4
+el Raval,1993,4
+el Raval,1994,4
+el Raval,1995,4
+el Raval,1996,33
+el Raval,1997,36
+el Raval,1998,40
+el Raval,1999,43
+el Raval,2000,49
+el Raval,2001,53
+el Raval,2002,56
+el Raval,2003,58
+el Raval,2004,61
+el Raval,2005,63
+el Raval,2006,64
+el Raval,2007,68
+el Raval,2008,71
+el Raval,2009,73
+el Raval,2010,73
+el Raval,2011,76
+el Raval,2012,79
+el Raval,2013,82
+el Raval,2014,82
+el Raval,2015,87
+el Raval,2016,97
+el Raval,2017,96
+el Raval,2018,115
+el Raval,2019,73
+el Raval,2020,70
+el Raval,2021,71
+el Raval,2022,73
+el Raval,2023,68
+el Raval,2024,25
+el Raval,2025,21
+el Raval,2026,17
+el Turó de la Peira,1997,1
+el Turó de la Peira,1998,1
+el Turó de la Peira,1999,1
+el Turó de la Peira,2000,1
+el Turó de la Peira,2001,1
+el Turó de la Peira,2002,1
+el Turó de la Peira,2003,1
+el Turó de la Peira,2004,1
+el Turó de la Peira,2005,1
+el Turó de la Peira,2006,1
+el Turó de la Peira,2007,1
+el Turó de la Peira,2008,1
+el Turó de la Peira,2009,1
+el Turó de la Peira,2010,1
+el Turó de la Peira,2011,1
+el Turó de la Peira,2012,1
+el Turó de la Peira,2013,1
+el Turó de la Peira,2014,1
+el Turó de la Peira,2015,1
+el Turó de la Peira,2016,1
+el Turó de la Peira,2017,1
+el Turó de la Peira,2018,1
+el Turó de la Peira,2019,1
+el Turó de la Peira,2020,1
+el Turó de la Peira,2021,1
+el Turó de la Peira,2022,1
+el Turó de la Peira,2023,1
+l'Antiga Esquerra de l'Eixample,1987,1
+l'Antiga Esquerra de l'Eixample,1988,1
+l'Antiga Esquerra de l'Eixample,1989,1
+l'Antiga Esquerra de l'Eixample,1990,1
+l'Antiga Esquerra de l'Eixample,1991,2
+l'Antiga Esquerra de l'Eixample,1992,2
+l'Antiga Esquerra de l'Eixample,1993,2
+l'Antiga Esquerra de l'Eixample,1994,2
+l'Antiga Esquerra de l'Eixample,1995,2
+l'Antiga Esquerra de l'Eixample,1996,55
+l'Antiga Esquerra de l'Eixample,1997,61
+l'Antiga Esquerra de l'Eixample,1998,68
+l'Antiga Esquerra de l'Eixample,1999,70
+l'Antiga Esquerra de l'Eixample,2000,72
+l'Antiga Esquerra de l'Eixample,2001,73
+l'Antiga Esquerra de l'Eixample,2002,81
+l'Antiga Esquerra de l'Eixample,2003,86
+l'Antiga Esquerra de l'Eixample,2004,90
+l'Antiga Esquerra de l'Eixample,2005,94
+l'Antiga Esquerra de l'Eixample,2006,102
+l'Antiga Esquerra de l'Eixample,2007,107
+l'Antiga Esquerra de l'Eixample,2008,108
+l'Antiga Esquerra de l'Eixample,2009,110
+l'Antiga Esquerra de l'Eixample,2010,112
+l'Antiga Esquerra de l'Eixample,2011,114
+l'Antiga Esquerra de l'Eixample,2012,116
+l'Antiga Esquerra de l'Eixample,2013,120
+l'Antiga Esquerra de l'Eixample,2014,120
+l'Antiga Esquerra de l'Eixample,2015,129
+l'Antiga Esquerra de l'Eixample,2016,134
+l'Antiga Esquerra de l'Eixample,2017,148
+l'Antiga Esquerra de l'Eixample,2018,190
+l'Antiga Esquerra de l'Eixample,2019,121
+l'Antiga Esquerra de l'Eixample,2020,115
+l'Antiga Esquerra de l'Eixample,2021,118
+l'Antiga Esquerra de l'Eixample,2022,127
+l'Antiga Esquerra de l'Eixample,2023,130
+l'Antiga Esquerra de l'Eixample,2024,54
+l'Antiga Esquerra de l'Eixample,2025,55
+l'Antiga Esquerra de l'Eixample,2026,40
 la Barceloneta,1988,1
 la Barceloneta,1989,1
 la Barceloneta,1990,1
@@ -847,65 +1360,162 @@ la Barceloneta,1992,1
 la Barceloneta,1993,2
 la Barceloneta,1994,2
 la Barceloneta,1995,2
-la Barceloneta,1996,2
-la Barceloneta,1997,2
-la Barceloneta,1998,3
-la Barceloneta,1999,3
-la Barceloneta,2000,3
-la Barceloneta,2001,3
-la Barceloneta,2002,4
-la Barceloneta,2003,6
-la Barceloneta,2004,6
-la Barceloneta,2005,6
-la Barceloneta,2006,10
-la Barceloneta,2007,11
-la Barceloneta,2008,12
-la Barceloneta,2009,12
-la Barceloneta,2010,12
-la Barceloneta,2011,13
-la Barceloneta,2012,13
-la Barceloneta,2013,13
-la Barceloneta,2014,13
-la Barceloneta,2015,15
-la Barceloneta,2016,17
-la Barceloneta,2017,19
-la Barceloneta,2018,25
-la Barceloneta,2019,1
-la Bordeta,2011,1
-la Bordeta,2012,1
-la Bordeta,2013,1
-la Bordeta,2014,1
-la Bordeta,2015,1
-la Bordeta,2016,1
-la Bordeta,2017,1
-la Bordeta,2018,2
-la Dreta de l'Eixample,1996,2
-la Dreta de l'Eixample,1997,4
-la Dreta de l'Eixample,1998,7
-la Dreta de l'Eixample,1999,7
-la Dreta de l'Eixample,2000,8
-la Dreta de l'Eixample,2001,9
-la Dreta de l'Eixample,2002,13
-la Dreta de l'Eixample,2003,14
-la Dreta de l'Eixample,2004,15
-la Dreta de l'Eixample,2005,16
-la Dreta de l'Eixample,2006,27
-la Dreta de l'Eixample,2007,29
-la Dreta de l'Eixample,2008,33
-la Dreta de l'Eixample,2009,35
-la Dreta de l'Eixample,2010,35
-la Dreta de l'Eixample,2011,44
-la Dreta de l'Eixample,2012,46
-la Dreta de l'Eixample,2013,46
-la Dreta de l'Eixample,2014,47
-la Dreta de l'Eixample,2015,54
-la Dreta de l'Eixample,2016,60
-la Dreta de l'Eixample,2017,76
-la Dreta de l'Eixample,2018,104
-la Dreta de l'Eixample,2019,18
-la Dreta de l'Eixample,2020,2
-la Font de la Guatlla,2018,3
-la Font de la Guatlla,2019,1
+la Barceloneta,1996,25
+la Barceloneta,1997,27
+la Barceloneta,1998,28
+la Barceloneta,1999,28
+la Barceloneta,2000,30
+la Barceloneta,2001,32
+la Barceloneta,2002,34
+la Barceloneta,2003,40
+la Barceloneta,2004,43
+la Barceloneta,2005,44
+la Barceloneta,2006,48
+la Barceloneta,2007,53
+la Barceloneta,2008,54
+la Barceloneta,2009,54
+la Barceloneta,2010,55
+la Barceloneta,2011,56
+la Barceloneta,2012,56
+la Barceloneta,2013,57
+la Barceloneta,2014,57
+la Barceloneta,2015,60
+la Barceloneta,2016,64
+la Barceloneta,2017,67
+la Barceloneta,2018,74
+la Barceloneta,2019,51
+la Barceloneta,2020,50
+la Barceloneta,2021,51
+la Barceloneta,2022,50
+la Barceloneta,2023,50
+la Barceloneta,2024,18
+la Barceloneta,2025,9
+la Barceloneta,2026,9
+la Bordeta,1996,2
+la Bordeta,1997,2
+la Bordeta,1998,2
+la Bordeta,1999,2
+la Bordeta,2000,2
+la Bordeta,2001,3
+la Bordeta,2002,3
+la Bordeta,2003,3
+la Bordeta,2004,3
+la Bordeta,2005,3
+la Bordeta,2006,3
+la Bordeta,2007,3
+la Bordeta,2008,3
+la Bordeta,2009,3
+la Bordeta,2010,3
+la Bordeta,2011,4
+la Bordeta,2012,4
+la Bordeta,2013,4
+la Bordeta,2014,4
+la Bordeta,2015,4
+la Bordeta,2016,5
+la Bordeta,2017,5
+la Bordeta,2018,7
+la Bordeta,2019,5
+la Bordeta,2020,5
+la Bordeta,2021,6
+la Bordeta,2022,5
+la Bordeta,2023,5
+la Bordeta,2024,2
+la Bordeta,2025,4
+la Bordeta,2026,2
+la Dreta de l'Eixample,1995,1
+la Dreta de l'Eixample,1996,46
+la Dreta de l'Eixample,1997,51
+la Dreta de l'Eixample,1998,57
+la Dreta de l'Eixample,1999,61
+la Dreta de l'Eixample,2000,64
+la Dreta de l'Eixample,2001,73
+la Dreta de l'Eixample,2002,78
+la Dreta de l'Eixample,2003,82
+la Dreta de l'Eixample,2004,83
+la Dreta de l'Eixample,2005,84
+la Dreta de l'Eixample,2006,96
+la Dreta de l'Eixample,2007,99
+la Dreta de l'Eixample,2008,104
+la Dreta de l'Eixample,2009,106
+la Dreta de l'Eixample,2010,109
+la Dreta de l'Eixample,2011,119
+la Dreta de l'Eixample,2012,122
+la Dreta de l'Eixample,2013,122
+la Dreta de l'Eixample,2014,123
+la Dreta de l'Eixample,2015,132
+la Dreta de l'Eixample,2016,145
+la Dreta de l'Eixample,2017,163
+la Dreta de l'Eixample,2018,209
+la Dreta de l'Eixample,2019,128
+la Dreta de l'Eixample,2020,112
+la Dreta de l'Eixample,2021,112
+la Dreta de l'Eixample,2022,120
+la Dreta de l'Eixample,2023,119
+la Dreta de l'Eixample,2024,62
+la Dreta de l'Eixample,2025,55
+la Dreta de l'Eixample,2026,48
+la Font d'en Fargues,1996,1
+la Font d'en Fargues,1997,1
+la Font d'en Fargues,1998,1
+la Font d'en Fargues,1999,1
+la Font d'en Fargues,2000,1
+la Font d'en Fargues,2001,1
+la Font d'en Fargues,2002,1
+la Font d'en Fargues,2003,1
+la Font d'en Fargues,2004,1
+la Font d'en Fargues,2005,1
+la Font d'en Fargues,2006,1
+la Font d'en Fargues,2007,1
+la Font d'en Fargues,2008,1
+la Font d'en Fargues,2009,1
+la Font d'en Fargues,2010,1
+la Font d'en Fargues,2011,1
+la Font d'en Fargues,2012,1
+la Font d'en Fargues,2013,1
+la Font d'en Fargues,2014,1
+la Font d'en Fargues,2015,1
+la Font d'en Fargues,2016,1
+la Font d'en Fargues,2017,1
+la Font d'en Fargues,2018,1
+la Font d'en Fargues,2019,1
+la Font d'en Fargues,2020,1
+la Font d'en Fargues,2021,1
+la Font d'en Fargues,2022,1
+la Font d'en Fargues,2023,1
+la Font d'en Fargues,2024,2
+la Font d'en Fargues,2025,1
+la Font d'en Fargues,2026,1
+la Font de la Guatlla,1996,1
+la Font de la Guatlla,1997,1
+la Font de la Guatlla,1998,1
+la Font de la Guatlla,1999,1
+la Font de la Guatlla,2000,1
+la Font de la Guatlla,2001,1
+la Font de la Guatlla,2002,2
+la Font de la Guatlla,2003,2
+la Font de la Guatlla,2004,2
+la Font de la Guatlla,2005,2
+la Font de la Guatlla,2006,2
+la Font de la Guatlla,2007,2
+la Font de la Guatlla,2008,2
+la Font de la Guatlla,2009,2
+la Font de la Guatlla,2010,2
+la Font de la Guatlla,2011,2
+la Font de la Guatlla,2012,2
+la Font de la Guatlla,2013,2
+la Font de la Guatlla,2014,2
+la Font de la Guatlla,2015,2
+la Font de la Guatlla,2016,2
+la Font de la Guatlla,2017,2
+la Font de la Guatlla,2018,5
+la Font de la Guatlla,2019,3
+la Font de la Guatlla,2020,2
+la Font de la Guatlla,2021,2
+la Font de la Guatlla,2022,2
+la Font de la Guatlla,2023,2
+la Font de la Guatlla,2024,1
+la Font de la Guatlla,2025,1
+la Font de la Guatlla,2026,1
 la Guineueta,1988,1
 la Guineueta,1989,1
 la Guineueta,1990,1
@@ -914,52 +1524,64 @@ la Guineueta,1992,1
 la Guineueta,1993,1
 la Guineueta,1994,1
 la Guineueta,1995,1
-la Guineueta,1996,1
-la Guineueta,1997,1
-la Guineueta,1998,1
-la Guineueta,1999,1
-la Guineueta,2000,1
-la Guineueta,2001,1
-la Guineueta,2002,1
-la Guineueta,2003,1
-la Guineueta,2004,1
-la Guineueta,2005,1
-la Guineueta,2006,1
-la Guineueta,2007,2
-la Guineueta,2008,2
-la Guineueta,2009,2
-la Guineueta,2010,2
-la Guineueta,2011,2
-la Guineueta,2012,2
-la Guineueta,2013,2
-la Guineueta,2014,3
-la Guineueta,2015,3
-la Guineueta,2016,3
-la Guineueta,2017,3
-la Guineueta,2018,4
-la Marina de Port,1996,1
-la Marina de Port,1997,1
-la Marina de Port,1998,1
-la Marina de Port,1999,1
-la Marina de Port,2000,1
-la Marina de Port,2001,1
-la Marina de Port,2002,1
-la Marina de Port,2003,1
-la Marina de Port,2004,1
-la Marina de Port,2005,1
-la Marina de Port,2006,1
-la Marina de Port,2007,1
-la Marina de Port,2008,1
-la Marina de Port,2009,1
-la Marina de Port,2010,1
-la Marina de Port,2011,2
-la Marina de Port,2012,2
-la Marina de Port,2013,2
-la Marina de Port,2014,2
-la Marina de Port,2015,2
-la Marina de Port,2016,2
-la Marina de Port,2017,2
-la Marina de Port,2018,2
+la Guineueta,1996,3
+la Guineueta,1997,3
+la Guineueta,1998,3
+la Guineueta,1999,3
+la Guineueta,2000,3
+la Guineueta,2001,3
+la Guineueta,2002,3
+la Guineueta,2003,3
+la Guineueta,2004,3
+la Guineueta,2005,3
+la Guineueta,2006,3
+la Guineueta,2007,4
+la Guineueta,2008,4
+la Guineueta,2009,4
+la Guineueta,2010,4
+la Guineueta,2011,4
+la Guineueta,2012,4
+la Guineueta,2013,4
+la Guineueta,2014,5
+la Guineueta,2015,5
+la Guineueta,2016,5
+la Guineueta,2017,5
+la Guineueta,2018,6
+la Guineueta,2019,2
+la Guineueta,2020,2
+la Guineueta,2021,2
+la Guineueta,2022,2
+la Guineueta,2023,2
+la Marina de Port,1996,2
+la Marina de Port,1997,2
+la Marina de Port,1998,2
+la Marina de Port,1999,2
+la Marina de Port,2000,2
+la Marina de Port,2001,2
+la Marina de Port,2002,2
+la Marina de Port,2003,2
+la Marina de Port,2004,2
+la Marina de Port,2005,2
+la Marina de Port,2006,2
+la Marina de Port,2007,2
+la Marina de Port,2008,2
+la Marina de Port,2009,2
+la Marina de Port,2010,2
+la Marina de Port,2011,3
+la Marina de Port,2012,3
+la Marina de Port,2013,3
+la Marina de Port,2014,3
+la Marina de Port,2015,3
+la Marina de Port,2016,3
+la Marina de Port,2017,3
+la Marina de Port,2018,3
+la Marina de Port,2019,1
+la Marina de Port,2020,1
+la Marina de Port,2021,2
+la Marina de Port,2022,2
+la Marina de Port,2023,2
+la Marina de Port,2024,1
+la Marina de Port,2025,1
 la Marina del Prat Vermell,1989,2
 la Marina del Prat Vermell,1990,2
 la Marina del Prat Vermell,1991,2
@@ -974,69 +1596,117 @@ la Marina del Prat Vermell,1999,2
 la Marina del Prat Vermell,2000,2
 la Marina del Prat Vermell,2001,2
 la Marina del Prat Vermell,2002,2
-la Marina del Prat Vermell,2003,2
-la Marina del Prat Vermell,2004,2
-la Marina del Prat Vermell,2005,2
-la Marina del Prat Vermell,2006,3
-la Marina del Prat Vermell,2007,3
-la Marina del Prat Vermell,2008,3
-la Marina del Prat Vermell,2009,3
-la Marina del Prat Vermell,2010,3
-la Marina del Prat Vermell,2011,3
-la Marina del Prat Vermell,2012,3
-la Marina del Prat Vermell,2013,3
-la Marina del Prat Vermell,2014,3
-la Marina del Prat Vermell,2015,3
-la Marina del Prat Vermell,2016,3
-la Marina del Prat Vermell,2017,3
-la Marina del Prat Vermell,2018,4
-la Maternitat i Sant Ramon,1996,1
-la Maternitat i Sant Ramon,1997,1
-la Maternitat i Sant Ramon,1998,1
-la Maternitat i Sant Ramon,1999,1
-la Maternitat i Sant Ramon,2000,1
-la Maternitat i Sant Ramon,2001,1
-la Maternitat i Sant Ramon,2002,1
-la Maternitat i Sant Ramon,2003,1
-la Maternitat i Sant Ramon,2004,1
-la Maternitat i Sant Ramon,2005,1
-la Maternitat i Sant Ramon,2006,1
-la Maternitat i Sant Ramon,2007,1
-la Maternitat i Sant Ramon,2008,1
-la Maternitat i Sant Ramon,2009,1
-la Maternitat i Sant Ramon,2010,1
-la Maternitat i Sant Ramon,2011,1
-la Maternitat i Sant Ramon,2012,1
-la Maternitat i Sant Ramon,2013,1
-la Maternitat i Sant Ramon,2014,1
-la Maternitat i Sant Ramon,2015,2
-la Maternitat i Sant Ramon,2016,2
-la Maternitat i Sant Ramon,2017,2
-la Maternitat i Sant Ramon,2018,3
-la Maternitat i Sant Ramon,2019,1
-la Nova Esquerra de l'Eixample,1998,1
-la Nova Esquerra de l'Eixample,1999,1
-la Nova Esquerra de l'Eixample,2000,1
-la Nova Esquerra de l'Eixample,2001,1
-la Nova Esquerra de l'Eixample,2002,1
-la Nova Esquerra de l'Eixample,2003,3
-la Nova Esquerra de l'Eixample,2004,3
-la Nova Esquerra de l'Eixample,2005,4
-la Nova Esquerra de l'Eixample,2006,5
-la Nova Esquerra de l'Eixample,2007,5
-la Nova Esquerra de l'Eixample,2008,7
-la Nova Esquerra de l'Eixample,2009,8
-la Nova Esquerra de l'Eixample,2010,8
-la Nova Esquerra de l'Eixample,2011,12
-la Nova Esquerra de l'Eixample,2012,13
-la Nova Esquerra de l'Eixample,2013,13
-la Nova Esquerra de l'Eixample,2014,14
-la Nova Esquerra de l'Eixample,2015,15
-la Nova Esquerra de l'Eixample,2016,16
-la Nova Esquerra de l'Eixample,2017,17
-la Nova Esquerra de l'Eixample,2018,31
-la Nova Esquerra de l'Eixample,2019,2
-la Nova Esquerra de l'Eixample,2020,1
+la Marina del Prat Vermell,2003,3
+la Marina del Prat Vermell,2004,3
+la Marina del Prat Vermell,2005,3
+la Marina del Prat Vermell,2006,4
+la Marina del Prat Vermell,2007,4
+la Marina del Prat Vermell,2008,4
+la Marina del Prat Vermell,2009,4
+la Marina del Prat Vermell,2010,4
+la Marina del Prat Vermell,2011,4
+la Marina del Prat Vermell,2012,4
+la Marina del Prat Vermell,2013,4
+la Marina del Prat Vermell,2014,4
+la Marina del Prat Vermell,2015,4
+la Marina del Prat Vermell,2016,4
+la Marina del Prat Vermell,2017,4
+la Marina del Prat Vermell,2018,5
+la Marina del Prat Vermell,2019,1
+la Marina del Prat Vermell,2020,1
+la Marina del Prat Vermell,2021,1
+la Marina del Prat Vermell,2022,1
+la Marina del Prat Vermell,2023,1
+la Maternitat i Sant Ramon,1996,14
+la Maternitat i Sant Ramon,1997,15
+la Maternitat i Sant Ramon,1998,15
+la Maternitat i Sant Ramon,1999,15
+la Maternitat i Sant Ramon,2000,16
+la Maternitat i Sant Ramon,2001,16
+la Maternitat i Sant Ramon,2002,17
+la Maternitat i Sant Ramon,2003,17
+la Maternitat i Sant Ramon,2004,17
+la Maternitat i Sant Ramon,2005,17
+la Maternitat i Sant Ramon,2006,17
+la Maternitat i Sant Ramon,2007,17
+la Maternitat i Sant Ramon,2008,18
+la Maternitat i Sant Ramon,2009,18
+la Maternitat i Sant Ramon,2010,18
+la Maternitat i Sant Ramon,2011,18
+la Maternitat i Sant Ramon,2012,18
+la Maternitat i Sant Ramon,2013,18
+la Maternitat i Sant Ramon,2014,18
+la Maternitat i Sant Ramon,2015,19
+la Maternitat i Sant Ramon,2016,19
+la Maternitat i Sant Ramon,2017,19
+la Maternitat i Sant Ramon,2018,21
+la Maternitat i Sant Ramon,2019,19
+la Maternitat i Sant Ramon,2020,18
+la Maternitat i Sant Ramon,2021,19
+la Maternitat i Sant Ramon,2022,18
+la Maternitat i Sant Ramon,2023,18
+la Maternitat i Sant Ramon,2024,8
+la Maternitat i Sant Ramon,2025,3
+la Maternitat i Sant Ramon,2026,2
+la Nova Esquerra de l'Eixample,1996,13
+la Nova Esquerra de l'Eixample,1997,14
+la Nova Esquerra de l'Eixample,1998,15
+la Nova Esquerra de l'Eixample,1999,15
+la Nova Esquerra de l'Eixample,2000,17
+la Nova Esquerra de l'Eixample,2001,17
+la Nova Esquerra de l'Eixample,2002,18
+la Nova Esquerra de l'Eixample,2003,20
+la Nova Esquerra de l'Eixample,2004,21
+la Nova Esquerra de l'Eixample,2005,22
+la Nova Esquerra de l'Eixample,2006,23
+la Nova Esquerra de l'Eixample,2007,23
+la Nova Esquerra de l'Eixample,2008,25
+la Nova Esquerra de l'Eixample,2009,26
+la Nova Esquerra de l'Eixample,2010,26
+la Nova Esquerra de l'Eixample,2011,30
+la Nova Esquerra de l'Eixample,2012,31
+la Nova Esquerra de l'Eixample,2013,32
+la Nova Esquerra de l'Eixample,2014,33
+la Nova Esquerra de l'Eixample,2015,34
+la Nova Esquerra de l'Eixample,2016,36
+la Nova Esquerra de l'Eixample,2017,37
+la Nova Esquerra de l'Eixample,2018,58
+la Nova Esquerra de l'Eixample,2019,29
+la Nova Esquerra de l'Eixample,2020,28
+la Nova Esquerra de l'Eixample,2021,27
+la Nova Esquerra de l'Eixample,2022,30
+la Nova Esquerra de l'Eixample,2023,27
+la Nova Esquerra de l'Eixample,2024,11
+la Nova Esquerra de l'Eixample,2025,9
+la Nova Esquerra de l'Eixample,2026,6
+la Prosperitat,1996,1
+la Prosperitat,1997,1
+la Prosperitat,1998,1
+la Prosperitat,1999,1
+la Prosperitat,2000,1
+la Prosperitat,2001,1
+la Prosperitat,2002,1
+la Prosperitat,2003,1
+la Prosperitat,2004,1
+la Prosperitat,2005,1
+la Prosperitat,2006,1
+la Prosperitat,2007,1
+la Prosperitat,2008,1
+la Prosperitat,2009,1
+la Prosperitat,2010,1
+la Prosperitat,2011,1
+la Prosperitat,2012,1
+la Prosperitat,2013,1
+la Prosperitat,2014,1
+la Prosperitat,2015,1
+la Prosperitat,2016,1
+la Prosperitat,2017,1
+la Prosperitat,2018,1
+la Prosperitat,2019,1
+la Prosperitat,2020,1
+la Prosperitat,2021,1
+la Prosperitat,2022,1
+la Prosperitat,2023,1
 la Sagrada Família,1987,1
 la Sagrada Família,1988,1
 la Sagrada Família,1989,1
@@ -1046,34 +1716,152 @@ la Sagrada Família,1992,1
 la Sagrada Família,1993,1
 la Sagrada Família,1994,1
 la Sagrada Família,1995,1
-la Sagrada Família,1996,1
-la Sagrada Família,1997,1
-la Sagrada Família,1998,1
-la Sagrada Família,1999,1
-la Sagrada Família,2000,1
-la Sagrada Família,2001,1
-la Sagrada Família,2002,2
-la Sagrada Família,2003,2
-la Sagrada Família,2004,2
-la Sagrada Família,2005,2
-la Sagrada Família,2006,2
-la Sagrada Família,2007,3
-la Sagrada Família,2008,3
-la Sagrada Família,2009,3
-la Sagrada Família,2010,3
-la Sagrada Família,2011,4
-la Sagrada Família,2012,4
-la Sagrada Família,2013,4
-la Sagrada Família,2014,4
-la Sagrada Família,2015,5
-la Sagrada Família,2016,5
-la Sagrada Família,2017,6
-la Sagrada Família,2018,14
-la Sagrada Família,2019,2
-la Sagrera,2015,1
-la Sagrera,2016,1
-la Sagrera,2017,1
-la Sagrera,2018,3
+la Sagrada Família,1996,17
+la Sagrada Família,1997,20
+la Sagrada Família,1998,23
+la Sagrada Família,1999,23
+la Sagrada Família,2000,23
+la Sagrada Família,2001,23
+la Sagrada Família,2002,25
+la Sagrada Família,2003,26
+la Sagrada Família,2004,27
+la Sagrada Família,2005,28
+la Sagrada Família,2006,28
+la Sagrada Família,2007,29
+la Sagrada Família,2008,29
+la Sagrada Família,2009,29
+la Sagrada Família,2010,29
+la Sagrada Família,2011,30
+la Sagrada Família,2012,30
+la Sagrada Família,2013,30
+la Sagrada Família,2014,30
+la Sagrada Família,2015,31
+la Sagrada Família,2016,31
+la Sagrada Família,2017,35
+la Sagrada Família,2018,45
+la Sagrada Família,2019,33
+la Sagrada Família,2020,31
+la Sagrada Família,2021,33
+la Sagrada Família,2022,33
+la Sagrada Família,2023,31
+la Sagrada Família,2024,5
+la Sagrada Família,2025,5
+la Sagrada Família,2026,6
+la Sagrera,1996,1
+la Sagrera,1997,1
+la Sagrera,1998,1
+la Sagrera,1999,1
+la Sagrera,2000,1
+la Sagrera,2001,1
+la Sagrera,2002,1
+la Sagrera,2003,1
+la Sagrera,2004,1
+la Sagrera,2005,1
+la Sagrera,2006,1
+la Sagrera,2007,2
+la Sagrera,2008,2
+la Sagrera,2009,2
+la Sagrera,2010,2
+la Sagrera,2011,2
+la Sagrera,2012,2
+la Sagrera,2013,2
+la Sagrera,2014,2
+la Sagrera,2015,3
+la Sagrera,2016,3
+la Sagrera,2017,3
+la Sagrera,2018,5
+la Sagrera,2019,2
+la Sagrera,2020,2
+la Sagrera,2021,2
+la Sagrera,2022,2
+la Sagrera,2023,2
+la Sagrera,2024,1
+la Sagrera,2025,1
+la Sagrera,2026,1
+la Salut,1996,1
+la Salut,1997,1
+la Salut,1998,1
+la Salut,1999,1
+la Salut,2000,1
+la Salut,2001,1
+la Salut,2002,1
+la Salut,2003,2
+la Salut,2004,2
+la Salut,2005,2
+la Salut,2006,2
+la Salut,2007,2
+la Salut,2008,2
+la Salut,2009,2
+la Salut,2010,2
+la Salut,2011,2
+la Salut,2012,2
+la Salut,2013,2
+la Salut,2014,2
+la Salut,2015,2
+la Salut,2016,2
+la Salut,2017,2
+la Salut,2018,2
+la Salut,2019,2
+la Salut,2020,2
+la Salut,2021,2
+la Salut,2022,2
+la Salut,2023,2
+la Teixonera,1996,2
+la Teixonera,1997,2
+la Teixonera,1998,2
+la Teixonera,1999,2
+la Teixonera,2000,2
+la Teixonera,2001,2
+la Teixonera,2002,2
+la Teixonera,2003,2
+la Teixonera,2004,2
+la Teixonera,2005,2
+la Teixonera,2006,2
+la Teixonera,2007,2
+la Teixonera,2008,2
+la Teixonera,2009,2
+la Teixonera,2010,2
+la Teixonera,2011,2
+la Teixonera,2012,2
+la Teixonera,2013,2
+la Teixonera,2014,2
+la Teixonera,2015,2
+la Teixonera,2016,2
+la Teixonera,2017,2
+la Teixonera,2018,2
+la Teixonera,2019,2
+la Teixonera,2020,2
+la Teixonera,2021,2
+la Teixonera,2022,2
+la Teixonera,2023,2
+la Trinitat Vella,1996,2
+la Trinitat Vella,1997,2
+la Trinitat Vella,1998,2
+la Trinitat Vella,1999,2
+la Trinitat Vella,2000,2
+la Trinitat Vella,2001,2
+la Trinitat Vella,2002,2
+la Trinitat Vella,2003,2
+la Trinitat Vella,2004,2
+la Trinitat Vella,2005,2
+la Trinitat Vella,2006,2
+la Trinitat Vella,2007,2
+la Trinitat Vella,2008,2
+la Trinitat Vella,2009,2
+la Trinitat Vella,2010,2
+la Trinitat Vella,2011,2
+la Trinitat Vella,2012,2
+la Trinitat Vella,2013,2
+la Trinitat Vella,2014,2
+la Trinitat Vella,2015,2
+la Trinitat Vella,2016,2
+la Trinitat Vella,2017,2
+la Trinitat Vella,2018,2
+la Trinitat Vella,2019,2
+la Trinitat Vella,2020,2
+la Trinitat Vella,2021,2
+la Trinitat Vella,2022,2
+la Trinitat Vella,2023,2
 la Vall d'Hebron,1988,1
 la Vall d'Hebron,1989,1
 la Vall d'Hebron,1990,1
@@ -1082,124 +1870,207 @@ la Vall d'Hebron,1992,1
 la Vall d'Hebron,1993,1
 la Vall d'Hebron,1994,1
 la Vall d'Hebron,1995,1
-la Vall d'Hebron,1996,1
-la Vall d'Hebron,1997,1
-la Vall d'Hebron,1998,1
-la Vall d'Hebron,1999,1
-la Vall d'Hebron,2000,1
-la Vall d'Hebron,2001,1
-la Vall d'Hebron,2002,1
-la Vall d'Hebron,2003,1
-la Vall d'Hebron,2004,1
-la Vall d'Hebron,2005,1
-la Vall d'Hebron,2006,1
-la Vall d'Hebron,2007,1
-la Vall d'Hebron,2008,1
-la Vall d'Hebron,2009,1
-la Vall d'Hebron,2010,1
-la Vall d'Hebron,2011,1
-la Vall d'Hebron,2012,1
-la Vall d'Hebron,2013,1
-la Vall d'Hebron,2014,1
-la Vall d'Hebron,2015,1
-la Vall d'Hebron,2016,1
-la Vall d'Hebron,2017,1
-la Vall d'Hebron,2018,1
-la Vila Olímpica del Poblenou,1998,1
-la Vila Olímpica del Poblenou,1999,1
-la Vila Olímpica del Poblenou,2000,2
-la Vila Olímpica del Poblenou,2001,2
-la Vila Olímpica del Poblenou,2002,2
-la Vila Olímpica del Poblenou,2003,2
-la Vila Olímpica del Poblenou,2004,2
-la Vila Olímpica del Poblenou,2005,3
-la Vila Olímpica del Poblenou,2006,3
-la Vila Olímpica del Poblenou,2007,3
-la Vila Olímpica del Poblenou,2008,3
-la Vila Olímpica del Poblenou,2009,3
-la Vila Olímpica del Poblenou,2010,3
-la Vila Olímpica del Poblenou,2011,3
-la Vila Olímpica del Poblenou,2012,4
-la Vila Olímpica del Poblenou,2013,4
-la Vila Olímpica del Poblenou,2014,4
-la Vila Olímpica del Poblenou,2015,4
-la Vila Olímpica del Poblenou,2016,4
-la Vila Olímpica del Poblenou,2017,4
-la Vila Olímpica del Poblenou,2018,5
-la Vila Olímpica del Poblenou,2019,1
-la Vila de Gràcia,1987,1
-la Vila de Gràcia,1988,1
-la Vila de Gràcia,1989,1
-la Vila de Gràcia,1990,1
-la Vila de Gràcia,1991,1
-la Vila de Gràcia,1992,1
-la Vila de Gràcia,1993,3
-la Vila de Gràcia,1994,3
-la Vila de Gràcia,1995,3
-la Vila de Gràcia,1996,3
-la Vila de Gràcia,1997,5
-la Vila de Gràcia,1998,7
-la Vila de Gràcia,1999,7
-la Vila de Gràcia,2000,8
-la Vila de Gràcia,2001,8
-la Vila de Gràcia,2002,10
-la Vila de Gràcia,2003,12
-la Vila de Gràcia,2004,12
-la Vila de Gràcia,2005,13
-la Vila de Gràcia,2006,16
-la Vila de Gràcia,2007,19
-la Vila de Gràcia,2008,20
-la Vila de Gràcia,2009,22
-la Vila de Gràcia,2010,23
-la Vila de Gràcia,2011,25
-la Vila de Gràcia,2012,28
-la Vila de Gràcia,2013,28
-la Vila de Gràcia,2014,29
-la Vila de Gràcia,2015,32
-la Vila de Gràcia,2016,33
-la Vila de Gràcia,2017,39
-la Vila de Gràcia,2018,52
-la Vila de Gràcia,2019,3
-la Vila de Gràcia,2020,2
-les Corts,1992,1
-les Corts,1993,1
-les Corts,1994,1
-les Corts,1995,1
-les Corts,1996,2
-les Corts,1997,2
-les Corts,1998,4
-les Corts,1999,4
-les Corts,2000,4
-les Corts,2001,4
-les Corts,2002,4
-les Corts,2003,5
-les Corts,2004,6
-les Corts,2005,7
-les Corts,2006,8
-les Corts,2007,11
-les Corts,2008,11
-les Corts,2009,11
-les Corts,2010,12
-les Corts,2011,13
-les Corts,2012,13
-les Corts,2013,14
-les Corts,2014,14
-les Corts,2015,14
-les Corts,2016,14
-les Corts,2017,14
-les Corts,2018,22
-les Tres Torres,2005,1
-les Tres Torres,2006,2
-les Tres Torres,2007,2
-les Tres Torres,2008,2
-les Tres Torres,2009,2
-les Tres Torres,2010,2
-les Tres Torres,2011,2
-les Tres Torres,2012,2
-les Tres Torres,2013,2
-les Tres Torres,2014,2
-les Tres Torres,2015,4
-les Tres Torres,2016,4
-les Tres Torres,2017,4
-les Tres Torres,2018,3
-les Tres Torres,2019,1
+la Vall d'Hebron,1996,2
+la Vall d'Hebron,1997,3
+la Vall d'Hebron,1998,3
+la Vall d'Hebron,1999,3
+la Vall d'Hebron,2000,3
+la Vall d'Hebron,2001,3
+la Vall d'Hebron,2002,3
+la Vall d'Hebron,2003,3
+la Vall d'Hebron,2004,3
+la Vall d'Hebron,2005,3
+la Vall d'Hebron,2006,3
+la Vall d'Hebron,2007,3
+la Vall d'Hebron,2008,3
+la Vall d'Hebron,2009,3
+la Vall d'Hebron,2010,3
+la Vall d'Hebron,2011,3
+la Vall d'Hebron,2012,3
+la Vall d'Hebron,2013,3
+la Vall d'Hebron,2014,3
+la Vall d'Hebron,2015,3
+la Vall d'Hebron,2016,3
+la Vall d'Hebron,2017,3
+la Vall d'Hebron,2018,3
+la Vall d'Hebron,2019,2
+la Vall d'Hebron,2020,2
+la Vall d'Hebron,2021,2
+la Vall d'Hebron,2022,2
+la Vall d'Hebron,2023,2
+la Verneda i la Pau,1992,1
+la Verneda i la Pau,1993,1
+la Verneda i la Pau,1994,1
+la Verneda i la Pau,1995,1
+la Verneda i la Pau,1996,2
+la Verneda i la Pau,1997,2
+la Verneda i la Pau,1998,2
+la Verneda i la Pau,1999,2
+la Verneda i la Pau,2000,2
+la Verneda i la Pau,2001,2
+la Verneda i la Pau,2002,2
+la Verneda i la Pau,2003,2
+la Verneda i la Pau,2004,2
+la Verneda i la Pau,2005,2
+la Verneda i la Pau,2006,2
+la Verneda i la Pau,2007,2
+la Verneda i la Pau,2008,2
+la Verneda i la Pau,2009,2
+la Verneda i la Pau,2010,2
+la Verneda i la Pau,2011,2
+la Verneda i la Pau,2012,2
+la Verneda i la Pau,2013,2
+la Verneda i la Pau,2014,2
+la Verneda i la Pau,2015,2
+la Verneda i la Pau,2016,2
+la Verneda i la Pau,2017,2
+la Verneda i la Pau,2018,2
+la Verneda i la Pau,2019,2
+la Verneda i la Pau,2020,2
+la Verneda i la Pau,2021,2
+la Verneda i la Pau,2022,2
+la Verneda i la Pau,2023,1
+la Vila Olímpica del Poblenou,1993,2
+la Vila Olímpica del Poblenou,1994,2
+la Vila Olímpica del Poblenou,1995,2
+la Vila Olímpica del Poblenou,1996,5
+la Vila Olímpica del Poblenou,1997,6
+la Vila Olímpica del Poblenou,1998,7
+la Vila Olímpica del Poblenou,1999,7
+la Vila Olímpica del Poblenou,2000,9
+la Vila Olímpica del Poblenou,2001,9
+la Vila Olímpica del Poblenou,2002,9
+la Vila Olímpica del Poblenou,2003,10
+la Vila Olímpica del Poblenou,2004,11
+la Vila Olímpica del Poblenou,2005,12
+la Vila Olímpica del Poblenou,2006,12
+la Vila Olímpica del Poblenou,2007,12
+la Vila Olímpica del Poblenou,2008,12
+la Vila Olímpica del Poblenou,2009,12
+la Vila Olímpica del Poblenou,2010,12
+la Vila Olímpica del Poblenou,2011,12
+la Vila Olímpica del Poblenou,2012,13
+la Vila Olímpica del Poblenou,2013,13
+la Vila Olímpica del Poblenou,2014,13
+la Vila Olímpica del Poblenou,2015,13
+la Vila Olímpica del Poblenou,2016,13
+la Vila Olímpica del Poblenou,2017,13
+la Vila Olímpica del Poblenou,2018,15
+la Vila Olímpica del Poblenou,2019,12
+la Vila Olímpica del Poblenou,2020,11
+la Vila Olímpica del Poblenou,2021,11
+la Vila Olímpica del Poblenou,2022,12
+la Vila Olímpica del Poblenou,2023,11
+la Vila Olímpica del Poblenou,2024,11
+la Vila Olímpica del Poblenou,2025,9
+la Vila Olímpica del Poblenou,2026,9
+la Vila de Gràcia,1987,3
+la Vila de Gràcia,1988,3
+la Vila de Gràcia,1989,4
+la Vila de Gràcia,1990,4
+la Vila de Gràcia,1991,4
+la Vila de Gràcia,1992,4
+la Vila de Gràcia,1993,6
+la Vila de Gràcia,1994,6
+la Vila de Gràcia,1995,6
+la Vila de Gràcia,1996,44
+la Vila de Gràcia,1997,49
+la Vila de Gràcia,1998,57
+la Vila de Gràcia,1999,57
+la Vila de Gràcia,2000,59
+la Vila de Gràcia,2001,61
+la Vila de Gràcia,2002,65
+la Vila de Gràcia,2003,69
+la Vila de Gràcia,2004,69
+la Vila de Gràcia,2005,73
+la Vila de Gràcia,2006,76
+la Vila de Gràcia,2007,79
+la Vila de Gràcia,2008,80
+la Vila de Gràcia,2009,82
+la Vila de Gràcia,2010,83
+la Vila de Gràcia,2011,85
+la Vila de Gràcia,2012,89
+la Vila de Gràcia,2013,89
+la Vila de Gràcia,2014,90
+la Vila de Gràcia,2015,95
+la Vila de Gràcia,2016,96
+la Vila de Gràcia,2017,102
+la Vila de Gràcia,2018,125
+la Vila de Gràcia,2019,77
+la Vila de Gràcia,2020,76
+la Vila de Gràcia,2021,76
+la Vila de Gràcia,2022,77
+la Vila de Gràcia,2023,80
+la Vila de Gràcia,2024,30
+la Vila de Gràcia,2025,25
+la Vila de Gràcia,2026,23
+les Corts,1988,1
+les Corts,1989,1
+les Corts,1990,1
+les Corts,1991,1
+les Corts,1992,2
+les Corts,1993,2
+les Corts,1994,2
+les Corts,1995,2
+les Corts,1996,31
+les Corts,1997,35
+les Corts,1998,38
+les Corts,1999,39
+les Corts,2000,40
+les Corts,2001,40
+les Corts,2002,41
+les Corts,2003,43
+les Corts,2004,45
+les Corts,2005,46
+les Corts,2006,47
+les Corts,2007,52
+les Corts,2008,52
+les Corts,2009,53
+les Corts,2010,54
+les Corts,2011,55
+les Corts,2012,55
+les Corts,2013,56
+les Corts,2014,56
+les Corts,2015,57
+les Corts,2016,57
+les Corts,2017,59
+les Corts,2018,71
+les Corts,2019,49
+les Corts,2020,49
+les Corts,2021,51
+les Corts,2022,49
+les Corts,2023,49
+les Corts,2024,14
+les Corts,2025,12
+les Corts,2026,5
+les Tres Torres,1996,3
+les Tres Torres,1997,4
+les Tres Torres,1998,4
+les Tres Torres,1999,4
+les Tres Torres,2000,4
+les Tres Torres,2001,4
+les Tres Torres,2002,4
+les Tres Torres,2003,4
+les Tres Torres,2004,4
+les Tres Torres,2005,5
+les Tres Torres,2006,6
+les Tres Torres,2007,6
+les Tres Torres,2008,6
+les Tres Torres,2009,6
+les Tres Torres,2010,7
+les Tres Torres,2011,7
+les Tres Torres,2012,7
+les Tres Torres,2013,7
+les Tres Torres,2014,7
+les Tres Torres,2015,9
+les Tres Torres,2016,10
+les Tres Torres,2017,10
+les Tres Torres,2018,9
+les Tres Torres,2019,7
+les Tres Torres,2020,6
+les Tres Torres,2021,7
+les Tres Torres,2022,6
+les Tres Torres,2023,6
+les Tres Torres,2024,2
+les Tres Torres,2025,2
+les Tres Torres,2026,1

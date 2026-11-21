@@ -58,9 +58,9 @@ def restaurants_processing(config: dict) -> pd.DataFrame:
 
     # Convertim dates a datetime
     restaurants["created"] = pd.to_datetime(restaurants["created"], 
-                                            errors="coerce", utc=True)
+                                            format="mixed", utc=True)
     restaurants["modified"] = pd.to_datetime(restaurants["modified"],
-                                             errors="coerce", utc=True)
+                                             format="mixed", utc=True)
 
     # Netegem els noms dels barris
     restaurants["addresses_neighborhood_name"] = (
@@ -96,4 +96,4 @@ def restaurants_processing(config: dict) -> pd.DataFrame:
     # Ordenem el resultat final
     result = (result.sort_values(["Barri", "Any"]).reset_index(drop=True))
 
-    return result
+    return (result, {})

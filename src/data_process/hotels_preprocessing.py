@@ -57,9 +57,9 @@ def hotels_processing(config: dict) -> pd.DataFrame:
 
     # Convertim dates a datetime
     hotels["created"] = pd.to_datetime(hotels["created"], 
-                                       errors="coerce", utc=True)
+                                       format="mixed", utc=True)
     hotels["modified"] = pd.to_datetime(hotels["modified"],
-                                        errors="coerce", utc=True)
+                                        format="mixed", utc=True)
 
     # Netegem els noms dels barris
     hotels["addresses_neighborhood_name"] = (
@@ -107,4 +107,4 @@ def hotels_processing(config: dict) -> pd.DataFrame:
     # Ordenem el resultat final
     result = (result.sort_values(["Barri", "Any"]).reset_index(drop=True))
 
-    return result
+    return (result, {})

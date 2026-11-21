@@ -24,13 +24,6 @@ def age_processing(config: dict) -> pd.DataFrame:
     if not input_folder.is_dir():
         raise NotADirectoryError(f"La carpeta no existeix: {input_folder}")
 
-    # Obtenim la configuració del CSV a partir de la configuració
-    csv_config = config.get("csv", {})
-    separator = csv_config.get("separator", ",")
-    encoding = csv_config.get("encoding", "cp1252")
-    null_values = {str(value).strip()
-                   for value in csv_config.get("null_values", ["..", ""])}
-
     data_files = sorted(input_folder.glob("*.csv"))
 
     # Generem una llista per emmagatzemar els dataframes anuals
@@ -38,8 +31,13 @@ def age_processing(config: dict) -> pd.DataFrame:
 
     # Per cada fitxer CSV, llegim les dades i les processem
     for data_file in data_files:
-        df = pd.read_csv(data_file, sep=separator, encoding=encoding,
-            dtype=str, keep_default_na=False)
+        null_values = {str(value).strip()
+                   for value in config.get("null_values", ["..", ""])}
+
+        df = pd.read_csv(data_file, encoding="utf-8", dtype=str, 
+                                 engine="python",
+                                 usecols=["Data_Referencia", "Nom_Barri",
+                                          "Valor", "EDAT_1"])
 
         # Comprovem que el dataframe conté les columnes requerides
         missing_columns = REQUIRED_COLUMNS.difference(df.columns)
@@ -85,10 +83,11 @@ def age_processing(config: dict) -> pd.DataFrame:
 
     grouped["Valor"] = (grouped["weighted_sum"] / grouped["total_population"])
 
+
     return (
         grouped.rename(
             columns={"Nom_Barri": "Barri", "Valor": "Edat_mitjana"}
         )[["Any", "Barri", "Edat_mitjana"]]
         .sort_values(["Barri", "Any"])
         .reset_index(drop=True)
-    )
+    ), {}

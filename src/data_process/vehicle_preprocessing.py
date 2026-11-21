@@ -39,4 +39,4 @@ def vehicle_processing(config: dict) -> pd.DataFrame:
                 .sort_values(["Barri", "Any"])
                 .reset_index(drop=True))
 
-    return final_df
+    return final_df, {}

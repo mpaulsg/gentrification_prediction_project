@@ -68,8 +68,8 @@ def sports_facilities_processing(config: dict) -> pd.DataFrame:
     df = df.drop_duplicates(subset=["register_id"])
 
     # Convertim dates a datetime
-    df["created"] = pd.to_datetime(df["created"], errors="coerce", utc=True)
-    df["modified"] = pd.to_datetime(df["modified"], errors="coerce", utc=True)
+    df["created"] = pd.to_datetime(df["created"], format="mixed", utc=True)
+    df["modified"] = pd.to_datetime(df["modified"], format="mixed", utc=True)
 
     # Eliminem registres invàlids
     invalid_rows = (
@@ -116,4 +116,4 @@ def sports_facilities_processing(config: dict) -> pd.DataFrame:
     # Ordenem el resultat final
     result = (result.sort_values(["Barri", "Any"]).reset_index(drop=True))
 
-    return result
+    return (result, {})

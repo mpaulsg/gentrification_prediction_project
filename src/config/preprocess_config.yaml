@@ -1,12 +1,10 @@
-input_file: data/raw/factors_comercials/Allotjament_hotels_BCN.csv
-output_file: data/processed/factors_comercials/Hotels_BCN.csv
+input_file: data/raw/factors_comercials/teatres
+output_file: data/processed/factors_comercials/Espectadors_teatre.csv
 dictionary_file: data/raw/factors_comercials/Dict_dimensions.csv
 
-# Options: folder/single_file
-type: folder
-# Options: basic/public_works/parks/vehicles/nationality/age/studies/income
+# Options: basic/public_works/parks/vehicles/age/studies/income
 #          restaurants/teatres/esport/hotels
-processor: hotels
+processor: teatres
 
 csv:
   separator: ","
@@ -14,3 +12,7 @@ csv:
   null_values:
     - ".."
     - ""
+
+filters:
+  start_year: 2015
+  end_year: 2018
