@@ -1,0 +1,731 @@
+Any,Barri,Nombre_immigrants
+2015,Baró de Viver,110
+2016,Baró de Viver,84
+2017,Baró de Viver,92
+2018,Baró de Viver,113
+2019,Baró de Viver,148
+2020,Baró de Viver,66
+2021,Baró de Viver,122
+2022,Baró de Viver,119
+2023,Baró de Viver,114
+2024,Baró de Viver,167
+2015,Can Baró,402
+2016,Can Baró,374
+2017,Can Baró,473
+2018,Can Baró,464
+2019,Can Baró,517
+2020,Can Baró,313
+2021,Can Baró,409
+2022,Can Baró,635
+2023,Can Baró,553
+2024,Can Baró,613
+2015,Can Peguera,41
+2016,Can Peguera,69
+2017,Can Peguera,57
+2018,Can Peguera,55
+2019,Can Peguera,52
+2020,Can Peguera,24
+2021,Can Peguera,52
+2022,Can Peguera,46
+2023,Can Peguera,57
+2024,Can Peguera,47
+2015,Canyelles,162
+2016,Canyelles,129
+2017,Canyelles,140
+2018,Canyelles,170
+2019,Canyelles,176
+2020,Canyelles,104
+2021,Canyelles,134
+2022,Canyelles,213
+2023,Canyelles,208
+2024,Canyelles,222
+2015,Ciutat Meridiana,600
+2016,Ciutat Meridiana,626
+2017,Ciutat Meridiana,838
+2018,Ciutat Meridiana,765
+2019,Ciutat Meridiana,774
+2020,Ciutat Meridiana,526
+2021,Ciutat Meridiana,625
+2022,Ciutat Meridiana,777
+2023,Ciutat Meridiana,830
+2024,Ciutat Meridiana,844
+2015,Diagonal Mar i el Front Marítim del Poblenou,673
+2016,Diagonal Mar i el Front Marítim del Poblenou,665
+2017,Diagonal Mar i el Front Marítim del Poblenou,780
+2018,Diagonal Mar i el Front Marítim del Poblenou,629
+2019,Diagonal Mar i el Front Marítim del Poblenou,714
+2020,Diagonal Mar i el Front Marítim del Poblenou,528
+2021,Diagonal Mar i el Front Marítim del Poblenou,753
+2022,Diagonal Mar i el Front Marítim del Poblenou,937
+2023,Diagonal Mar i el Front Marítim del Poblenou,761
+2024,Diagonal Mar i el Front Marítim del Poblenou,833
+2015,Horta,988
+2016,Horta,969
+2017,Horta,1127
+2018,Horta,1506
+2019,Horta,1838
+2020,Horta,1123
+2021,Horta,1298
+2022,Horta,2702
+2023,Horta,3137
+2024,Horta,1949
+2015,Hostafrancs,1174
+2016,Hostafrancs,1023
+2017,Hostafrancs,1159
+2018,Hostafrancs,1291
+2019,Hostafrancs,1356
+2020,Hostafrancs,900
+2021,Hostafrancs,1168
+2022,Hostafrancs,1425
+2023,Hostafrancs,1430
+2024,Hostafrancs,1609
+2015,Montbau,222
+2016,Montbau,231
+2017,Montbau,256
+2018,Montbau,299
+2019,Montbau,334
+2020,Montbau,211
+2021,Montbau,263
+2022,Montbau,399
+2023,Montbau,392
+2024,Montbau,382
+2015,Navas,932
+2016,Navas,913
+2017,Navas,988
+2018,Navas,1017
+2019,Navas,1149
+2020,Navas,734
+2021,Navas,930
+2022,Navas,1262
+2023,Navas,1248
+2024,Navas,1299
+2015,Pedralbes,742
+2016,Pedralbes,739
+2017,Pedralbes,764
+2018,Pedralbes,651
+2019,Pedralbes,725
+2020,Pedralbes,510
+2021,Pedralbes,697
+2022,Pedralbes,1023
+2023,Pedralbes,926
+2024,Pedralbes,878
+2015,Porta,1004
+2016,Porta,1166
+2017,Porta,1398
+2018,Porta,1820
+2019,Porta,2323
+2020,Porta,1331
+2021,Porta,1564
+2022,Porta,2936
+2023,Porta,3630
+2024,Porta,2082
+2015,Provençals del Poblenou,939
+2016,Provençals del Poblenou,807
+2017,Provençals del Poblenou,972
+2018,Provençals del Poblenou,999
+2019,Provençals del Poblenou,1069
+2020,Provençals del Poblenou,733
+2021,Provençals del Poblenou,957
+2022,Provençals del Poblenou,1282
+2023,Provençals del Poblenou,1293
+2024,Provençals del Poblenou,1234
+2015,Sant Andreu,1811
+2016,Sant Andreu,1751
+2017,Sant Andreu,1965
+2018,Sant Andreu,1927
+2019,Sant Andreu,2240
+2020,Sant Andreu,1423
+2021,Sant Andreu,1790
+2022,Sant Andreu,2397
+2023,Sant Andreu,2485
+2024,Sant Andreu,2377
+2015,Sant Antoni,2301
+2016,Sant Antoni,2149
+2017,Sant Antoni,2500
+2018,Sant Antoni,2643
+2019,Sant Antoni,2971
+2020,Sant Antoni,1889
+2021,Sant Antoni,2626
+2022,Sant Antoni,3210
+2023,Sant Antoni,3145
+2024,Sant Antoni,3186
+2015,Sant Genís dels Agudells,268
+2016,Sant Genís dels Agudells,335
+2017,Sant Genís dels Agudells,379
+2018,Sant Genís dels Agudells,458
+2019,Sant Genís dels Agudells,444
+2020,Sant Genís dels Agudells,275
+2021,Sant Genís dels Agudells,380
+2022,Sant Genís dels Agudells,475
+2023,Sant Genís dels Agudells,588
+2024,Sant Genís dels Agudells,585
+2015,Sant Gervasi - Galvany,2268
+2016,Sant Gervasi - Galvany,2269
+2017,Sant Gervasi - Galvany,2434
+2018,Sant Gervasi - Galvany,2343
+2019,Sant Gervasi - Galvany,2337
+2020,Sant Gervasi - Galvany,1679
+2021,Sant Gervasi - Galvany,2621
+2022,Sant Gervasi - Galvany,3240
+2023,Sant Gervasi - Galvany,3228
+2024,Sant Gervasi - Galvany,3108
+2015,Sant Gervasi - la Bonanova,1217
+2016,Sant Gervasi - la Bonanova,1123
+2017,Sant Gervasi - la Bonanova,1181
+2018,Sant Gervasi - la Bonanova,1323
+2019,Sant Gervasi - la Bonanova,1504
+2020,Sant Gervasi - la Bonanova,890
+2021,Sant Gervasi - la Bonanova,1305
+2022,Sant Gervasi - la Bonanova,1888
+2023,Sant Gervasi - la Bonanova,1773
+2024,Sant Gervasi - la Bonanova,1514
+2015,Sant Martí de Provençals,959
+2016,Sant Martí de Provençals,1037
+2017,Sant Martí de Provençals,1073
+2018,Sant Martí de Provençals,1084
+2019,Sant Martí de Provençals,1192
+2020,Sant Martí de Provençals,850
+2021,Sant Martí de Provençals,1084
+2022,Sant Martí de Provençals,1450
+2023,Sant Martí de Provençals,1494
+2024,Sant Martí de Provençals,1593
+2015,"Sant Pere, Santa Caterina i la Ribera",2552
+2016,"Sant Pere, Santa Caterina i la Ribera",2378
+2017,"Sant Pere, Santa Caterina i la Ribera",2765
+2018,"Sant Pere, Santa Caterina i la Ribera",2833
+2019,"Sant Pere, Santa Caterina i la Ribera",3000
+2020,"Sant Pere, Santa Caterina i la Ribera",2063
+2021,"Sant Pere, Santa Caterina i la Ribera",2601
+2022,"Sant Pere, Santa Caterina i la Ribera",2914
+2023,"Sant Pere, Santa Caterina i la Ribera",3001
+2024,"Sant Pere, Santa Caterina i la Ribera",2863
+2015,Sants,2509
+2016,Sants,2322
+2017,Sants,2839
+2018,Sants,3230
+2019,Sants,4249
+2020,Sants,2502
+2021,Sants,3097
+2022,Sants,4790
+2023,Sants,5592
+2024,Sants,3796
+2015,Sants - Badal,1476
+2016,Sants - Badal,1366
+2017,Sants - Badal,1476
+2018,Sants - Badal,1646
+2019,Sants - Badal,2009
+2020,Sants - Badal,1256
+2021,Sants - Badal,1528
+2022,Sants - Badal,2154
+2023,Sants - Badal,2128
+2024,Sants - Badal,2117
+2015,Sarrià,1187
+2016,Sarrià,1131
+2017,Sarrià,1208
+2018,Sarrià,1211
+2019,Sarrià,1263
+2020,Sarrià,829
+2021,Sarrià,1233
+2022,Sarrià,1541
+2023,Sarrià,1452
+2024,Sarrià,1287
+2015,Torre Baró,141
+2016,Torre Baró,125
+2017,Torre Baró,95
+2018,Torre Baró,106
+2019,Torre Baró,155
+2020,Torre Baró,108
+2021,Torre Baró,114
+2022,Torre Baró,155
+2023,Torre Baró,142
+2024,Torre Baró,150
+2015,Vallbona,73
+2016,Vallbona,65
+2017,Vallbona,69
+2018,Vallbona,63
+2019,Vallbona,82
+2020,Vallbona,48
+2021,Vallbona,79
+2022,Vallbona,86
+2023,Vallbona,66
+2024,Vallbona,83
+2015,Vallcarca i els Penitents,666
+2016,Vallcarca i els Penitents,691
+2017,Vallcarca i els Penitents,779
+2018,Vallcarca i els Penitents,726
+2019,Vallcarca i els Penitents,861
+2020,Vallcarca i els Penitents,614
+2021,Vallcarca i els Penitents,742
+2022,Vallcarca i els Penitents,1044
+2023,Vallcarca i els Penitents,1020
+2024,Vallcarca i els Penitents,961
+2015,"Vallvidrera, el Tibidabo i les Planes",237
+2016,"Vallvidrera, el Tibidabo i les Planes",152
+2017,"Vallvidrera, el Tibidabo i les Planes",187
+2018,"Vallvidrera, el Tibidabo i les Planes",142
+2019,"Vallvidrera, el Tibidabo i les Planes",173
+2020,"Vallvidrera, el Tibidabo i les Planes",134
+2021,"Vallvidrera, el Tibidabo i les Planes",182
+2022,"Vallvidrera, el Tibidabo i les Planes",210
+2023,"Vallvidrera, el Tibidabo i les Planes",253
+2024,"Vallvidrera, el Tibidabo i les Planes",257
+2015,Verdun,594
+2016,Verdun,576
+2017,Verdun,666
+2018,Verdun,719
+2019,Verdun,774
+2020,Verdun,535
+2021,Verdun,618
+2022,Verdun,882
+2023,Verdun,986
+2024,Verdun,878
+2015,Vilapicina i la Torre Llobeta,1005
+2016,Vilapicina i la Torre Llobeta,956
+2017,Vilapicina i la Torre Llobeta,1056
+2018,Vilapicina i la Torre Llobeta,1198
+2019,Vilapicina i la Torre Llobeta,1361
+2020,Vilapicina i la Torre Llobeta,829
+2021,Vilapicina i la Torre Llobeta,1074
+2022,Vilapicina i la Torre Llobeta,1500
+2023,Vilapicina i la Torre Llobeta,1492
+2024,Vilapicina i la Torre Llobeta,1444
+2015,el Baix Guinardó,1205
+2016,el Baix Guinardó,1060
+2017,el Baix Guinardó,1285
+2018,el Baix Guinardó,1268
+2019,el Baix Guinardó,1407
+2020,el Baix Guinardó,949
+2021,el Baix Guinardó,1272
+2022,el Baix Guinardó,1671
+2023,el Baix Guinardó,1721
+2024,el Baix Guinardó,1665
+2015,el Barri Gòtic,2202
+2016,el Barri Gòtic,2198
+2017,el Barri Gòtic,2687
+2018,el Barri Gòtic,3452
+2019,el Barri Gòtic,4725
+2020,el Barri Gòtic,2772
+2021,el Barri Gòtic,3334
+2022,el Barri Gòtic,5279
+2023,el Barri Gòtic,5715
+2024,el Barri Gòtic,4077
+2015,el Besòs i el Maresme,1576
+2016,el Besòs i el Maresme,1578
+2017,el Besòs i el Maresme,2018
+2018,el Besòs i el Maresme,2256
+2019,el Besòs i el Maresme,2748
+2020,el Besòs i el Maresme,1761
+2021,el Besòs i el Maresme,2454
+2022,el Besòs i el Maresme,3728
+2023,el Besòs i el Maresme,4531
+2024,el Besòs i el Maresme,2897
+2015,el Bon Pastor,579
+2016,el Bon Pastor,484
+2017,el Bon Pastor,658
+2018,el Bon Pastor,778
+2019,el Bon Pastor,1019
+2020,el Bon Pastor,732
+2021,el Bon Pastor,786
+2022,el Bon Pastor,1628
+2023,el Bon Pastor,2017
+2024,el Bon Pastor,1133
+2015,el Camp d'en Grassot i Gràcia Nova,1643
+2016,el Camp d'en Grassot i Gràcia Nova,1505
+2017,el Camp d'en Grassot i Gràcia Nova,1791
+2018,el Camp d'en Grassot i Gràcia Nova,1961
+2019,el Camp d'en Grassot i Gràcia Nova,2203
+2020,el Camp d'en Grassot i Gràcia Nova,1414
+2021,el Camp d'en Grassot i Gràcia Nova,1953
+2022,el Camp d'en Grassot i Gràcia Nova,2602
+2023,el Camp d'en Grassot i Gràcia Nova,2877
+2024,el Camp d'en Grassot i Gràcia Nova,2379
+2015,el Camp de l'Arpa del Clot,1946
+2016,el Camp de l'Arpa del Clot,1888
+2017,el Camp de l'Arpa del Clot,2201
+2018,el Camp de l'Arpa del Clot,2357
+2019,el Camp de l'Arpa del Clot,2572
+2020,el Camp de l'Arpa del Clot,1746
+2021,el Camp de l'Arpa del Clot,2198
+2022,el Camp de l'Arpa del Clot,2783
+2023,el Camp de l'Arpa del Clot,2829
+2024,el Camp de l'Arpa del Clot,2961
+2015,el Carmel,1165
+2016,el Carmel,1153
+2017,el Carmel,1414
+2018,el Carmel,1515
+2019,el Carmel,1779
+2020,el Carmel,1230
+2021,el Carmel,1348
+2022,el Carmel,1969
+2023,el Carmel,2085
+2024,el Carmel,2083
+2015,el Clot,1214
+2016,el Clot,1159
+2017,el Clot,1302
+2018,el Clot,1346
+2019,el Clot,1452
+2020,el Clot,1037
+2021,el Clot,1290
+2022,el Clot,1599
+2023,el Clot,1558
+2024,el Clot,1610
+2015,el Coll,372
+2016,el Coll,332
+2017,el Coll,372
+2018,el Coll,363
+2019,el Coll,457
+2020,el Coll,331
+2021,el Coll,395
+2022,el Coll,516
+2023,el Coll,555
+2024,el Coll,521
+2015,el Congrés i els Indians,567
+2016,el Congrés i els Indians,550
+2017,el Congrés i els Indians,603
+2018,el Congrés i els Indians,758
+2019,el Congrés i els Indians,764
+2020,el Congrés i els Indians,459
+2021,el Congrés i els Indians,536
+2022,el Congrés i els Indians,846
+2023,el Congrés i els Indians,897
+2024,el Congrés i els Indians,823
+2015,el Fort Pienc,2004
+2016,el Fort Pienc,1996
+2017,el Fort Pienc,2237
+2018,el Fort Pienc,2423
+2019,el Fort Pienc,3094
+2020,el Fort Pienc,1876
+2021,el Fort Pienc,2740
+2022,el Fort Pienc,3911
+2023,el Fort Pienc,4454
+2024,el Fort Pienc,3533
+2015,el Guinardó,1663
+2016,el Guinardó,1626
+2017,el Guinardó,1837
+2018,el Guinardó,1803
+2019,el Guinardó,2021
+2020,el Guinardó,1257
+2021,el Guinardó,1729
+2022,el Guinardó,2402
+2023,el Guinardó,2321
+2024,el Guinardó,2442
+2015,el Parc i la Llacuna del Poblenou,891
+2016,el Parc i la Llacuna del Poblenou,856
+2017,el Parc i la Llacuna del Poblenou,960
+2018,el Parc i la Llacuna del Poblenou,968
+2019,el Parc i la Llacuna del Poblenou,1034
+2020,el Parc i la Llacuna del Poblenou,697
+2021,el Parc i la Llacuna del Poblenou,1147
+2022,el Parc i la Llacuna del Poblenou,1338
+2023,el Parc i la Llacuna del Poblenou,1446
+2024,el Parc i la Llacuna del Poblenou,1395
+2015,el Poble-sec,2894
+2016,el Poble-sec,2731
+2017,el Poble-sec,3088
+2018,el Poble-sec,3330
+2019,el Poble-sec,3547
+2020,el Poble-sec,2300
+2021,el Poble-sec,2840
+2022,el Poble-sec,3539
+2023,el Poble-sec,3564
+2024,el Poble-sec,4204
+2015,el Poblenou,1604
+2016,el Poblenou,1622
+2017,el Poblenou,1765
+2018,el Poblenou,1668
+2019,el Poblenou,1956
+2020,el Poblenou,1373
+2021,el Poblenou,1920
+2022,el Poblenou,2272
+2023,el Poblenou,2330
+2024,el Poblenou,2136
+2015,el Putxet i el Farró,1459
+2016,el Putxet i el Farró,1271
+2017,el Putxet i el Farró,1515
+2018,el Putxet i el Farró,1477
+2019,el Putxet i el Farró,1736
+2020,el Putxet i el Farró,1067
+2021,el Putxet i el Farró,1584
+2022,el Putxet i el Farró,1994
+2023,el Putxet i el Farró,1896
+2024,el Putxet i el Farró,1747
+2015,el Raval,5331
+2016,el Raval,4972
+2017,el Raval,5389
+2018,el Raval,5693
+2019,el Raval,5962
+2020,el Raval,3995
+2021,el Raval,4776
+2022,el Raval,5863
+2023,el Raval,6441
+2024,el Raval,7838
+2015,el Turó de la Peira,760
+2016,el Turó de la Peira,716
+2017,el Turó de la Peira,878
+2018,el Turó de la Peira,858
+2019,el Turó de la Peira,1105
+2020,el Turó de la Peira,627
+2021,el Turó de la Peira,797
+2022,el Turó de la Peira,1207
+2023,el Turó de la Peira,1242
+2024,el Turó de la Peira,1245
+2015,l'Antiga Esquerra de l'Eixample,2938
+2016,l'Antiga Esquerra de l'Eixample,2911
+2017,l'Antiga Esquerra de l'Eixample,3465
+2018,l'Antiga Esquerra de l'Eixample,3616
+2019,l'Antiga Esquerra de l'Eixample,3980
+2020,l'Antiga Esquerra de l'Eixample,2602
+2021,l'Antiga Esquerra de l'Eixample,3926
+2022,l'Antiga Esquerra de l'Eixample,4537
+2023,l'Antiga Esquerra de l'Eixample,4349
+2024,l'Antiga Esquerra de l'Eixample,4076
+2015,la Barceloneta,1554
+2016,la Barceloneta,1548
+2017,la Barceloneta,1759
+2018,la Barceloneta,1681
+2019,la Barceloneta,1938
+2020,la Barceloneta,1313
+2021,la Barceloneta,1551
+2022,la Barceloneta,1878
+2023,la Barceloneta,1873
+2024,la Barceloneta,1881
+2015,la Bordeta,939
+2016,la Bordeta,887
+2017,la Bordeta,945
+2018,la Bordeta,1130
+2019,la Bordeta,1080
+2020,la Bordeta,762
+2021,la Bordeta,978
+2022,la Bordeta,1451
+2023,la Bordeta,1618
+2024,la Bordeta,1899
+2015,la Clota,28
+2016,la Clota,23
+2017,la Clota,39
+2018,la Clota,34
+2019,la Clota,34
+2020,la Clota,22
+2021,la Clota,22
+2022,la Clota,32
+2023,la Clota,45
+2024,la Clota,92
+2015,la Dreta de l'Eixample,2970
+2016,la Dreta de l'Eixample,2943
+2017,la Dreta de l'Eixample,3198
+2018,la Dreta de l'Eixample,3272
+2019,la Dreta de l'Eixample,3763
+2020,la Dreta de l'Eixample,2879
+2021,la Dreta de l'Eixample,3927
+2022,la Dreta de l'Eixample,4098
+2023,la Dreta de l'Eixample,4244
+2024,la Dreta de l'Eixample,4179
+2015,la Font d'en Fargues,230
+2016,la Font d'en Fargues,202
+2017,la Font d'en Fargues,283
+2018,la Font d'en Fargues,291
+2019,la Font d'en Fargues,319
+2020,la Font d'en Fargues,184
+2021,la Font d'en Fargues,302
+2022,la Font d'en Fargues,355
+2023,la Font d'en Fargues,353
+2024,la Font d'en Fargues,380
+2015,la Font de la Guatlla,762
+2016,la Font de la Guatlla,600
+2017,la Font de la Guatlla,646
+2018,la Font de la Guatlla,699
+2019,la Font de la Guatlla,779
+2020,la Font de la Guatlla,476
+2021,la Font de la Guatlla,816
+2022,la Font de la Guatlla,931
+2023,la Font de la Guatlla,963
+2024,la Font de la Guatlla,990
+2015,la Guineueta,435
+2016,la Guineueta,464
+2017,la Guineueta,494
+2018,la Guineueta,479
+2019,la Guineueta,539
+2020,la Guineueta,334
+2021,la Guineueta,394
+2022,la Guineueta,685
+2023,la Guineueta,598
+2024,la Guineueta,680
+2015,la Marina de Port,1365
+2016,la Marina de Port,1301
+2017,la Marina de Port,1499
+2018,la Marina de Port,1700
+2019,la Marina de Port,1761
+2020,la Marina de Port,1040
+2021,la Marina de Port,1351
+2022,la Marina de Port,1871
+2023,la Marina de Port,1971
+2024,la Marina de Port,2222
+2015,la Marina del Prat Vermell,61
+2016,la Marina del Prat Vermell,35
+2017,la Marina del Prat Vermell,32
+2018,la Marina del Prat Vermell,53
+2019,la Marina del Prat Vermell,59
+2020,la Marina del Prat Vermell,32
+2021,la Marina del Prat Vermell,52
+2022,la Marina del Prat Vermell,130
+2023,la Marina del Prat Vermell,229
+2024,la Marina del Prat Vermell,249
+2015,la Maternitat i Sant Ramon,1340
+2016,la Maternitat i Sant Ramon,1210
+2017,la Maternitat i Sant Ramon,1335
+2018,la Maternitat i Sant Ramon,1383
+2019,la Maternitat i Sant Ramon,1586
+2020,la Maternitat i Sant Ramon,1036
+2021,la Maternitat i Sant Ramon,1547
+2022,la Maternitat i Sant Ramon,2059
+2023,la Maternitat i Sant Ramon,1803
+2024,la Maternitat i Sant Ramon,1718
+2015,la Nova Esquerra de l'Eixample,3546
+2016,la Nova Esquerra de l'Eixample,3486
+2017,la Nova Esquerra de l'Eixample,4064
+2018,la Nova Esquerra de l'Eixample,3912
+2019,la Nova Esquerra de l'Eixample,4352
+2020,la Nova Esquerra de l'Eixample,2878
+2021,la Nova Esquerra de l'Eixample,4049
+2022,la Nova Esquerra de l'Eixample,4812
+2023,la Nova Esquerra de l'Eixample,4647
+2024,la Nova Esquerra de l'Eixample,4696
+2015,la Prosperitat,1061
+2016,la Prosperitat,1099
+2017,la Prosperitat,1209
+2018,la Prosperitat,1270
+2019,la Prosperitat,1386
+2020,la Prosperitat,865
+2021,la Prosperitat,987
+2022,la Prosperitat,1502
+2023,la Prosperitat,1604
+2024,la Prosperitat,1681
+2015,la Sagrada Família,3266
+2016,la Sagrada Família,3157
+2017,la Sagrada Família,3594
+2018,la Sagrada Família,3810
+2019,la Sagrada Família,4106
+2020,la Sagrada Família,2806
+2021,la Sagrada Família,3856
+2022,la Sagrada Família,4805
+2023,la Sagrada Família,4921
+2024,la Sagrada Família,4603
+2015,la Sagrera,1176
+2016,la Sagrera,1181
+2017,la Sagrera,1354
+2018,la Sagrera,1367
+2019,la Sagrera,1475
+2020,la Sagrera,1041
+2021,la Sagrera,1354
+2022,la Sagrera,1843
+2023,la Sagrera,1880
+2024,la Sagrera,1852
+2015,la Salut,554
+2016,la Salut,609
+2017,la Salut,732
+2018,la Salut,681
+2019,la Salut,676
+2020,la Salut,520
+2021,la Salut,608
+2022,la Salut,886
+2023,la Salut,827
+2024,la Salut,942
+2015,la Teixonera,420
+2016,la Teixonera,536
+2017,la Teixonera,512
+2018,la Teixonera,546
+2019,la Teixonera,708
+2020,la Teixonera,484
+2021,la Teixonera,574
+2022,la Teixonera,757
+2023,la Teixonera,832
+2024,la Teixonera,820
+2015,la Trinitat Nova,380
+2016,la Trinitat Nova,345
+2017,la Trinitat Nova,458
+2018,la Trinitat Nova,545
+2019,la Trinitat Nova,496
+2020,la Trinitat Nova,326
+2021,la Trinitat Nova,357
+2022,la Trinitat Nova,574
+2023,la Trinitat Nova,525
+2024,la Trinitat Nova,597
+2015,la Trinitat Vella,694
+2016,la Trinitat Vella,545
+2017,la Trinitat Vella,675
+2018,la Trinitat Vella,726
+2019,la Trinitat Vella,718
+2020,la Trinitat Vella,480
+2021,la Trinitat Vella,549
+2022,la Trinitat Vella,719
+2023,la Trinitat Vella,934
+2024,la Trinitat Vella,900
+2015,la Vall d'Hebron,184
+2016,la Vall d'Hebron,211
+2017,la Vall d'Hebron,187
+2018,la Vall d'Hebron,210
+2019,la Vall d'Hebron,229
+2020,la Vall d'Hebron,169
+2021,la Vall d'Hebron,182
+2022,la Vall d'Hebron,236
+2023,la Vall d'Hebron,223
+2024,la Vall d'Hebron,249
+2015,la Verneda i la Pau,1093
+2016,la Verneda i la Pau,1007
+2017,la Verneda i la Pau,1240
+2018,la Verneda i la Pau,1149
+2019,la Verneda i la Pau,1246
+2020,la Verneda i la Pau,841
+2021,la Verneda i la Pau,1239
+2022,la Verneda i la Pau,1828
+2023,la Verneda i la Pau,2101
+2024,la Verneda i la Pau,2194
+2015,la Vila Olímpica del Poblenou,484
+2016,la Vila Olímpica del Poblenou,391
+2017,la Vila Olímpica del Poblenou,410
+2018,la Vila Olímpica del Poblenou,425
+2019,la Vila Olímpica del Poblenou,440
+2020,la Vila Olímpica del Poblenou,335
+2021,la Vila Olímpica del Poblenou,509
+2022,la Vila Olímpica del Poblenou,507
+2023,la Vila Olímpica del Poblenou,503
+2024,la Vila Olímpica del Poblenou,431
+2015,la Vila de Gràcia,3502
+2016,la Vila de Gràcia,3055
+2017,la Vila de Gràcia,3587
+2018,la Vila de Gràcia,3480
+2019,la Vila de Gràcia,3934
+2020,la Vila de Gràcia,2585
+2021,la Vila de Gràcia,3732
+2022,la Vila de Gràcia,4380
+2023,la Vila de Gràcia,4364
+2024,la Vila de Gràcia,4226
+2015,les Corts,2121
+2016,les Corts,2047
+2017,les Corts,2276
+2018,les Corts,2409
+2019,les Corts,2597
+2020,les Corts,1591
+2021,les Corts,2294
+2022,les Corts,2935
+2023,les Corts,3079
+2024,les Corts,2816
+2015,les Roquetes,842
+2016,les Roquetes,852
+2017,les Roquetes,917
+2018,les Roquetes,1010
+2019,les Roquetes,1060
+2020,les Roquetes,665
+2021,les Roquetes,779
+2022,les Roquetes,1318
+2023,les Roquetes,1294
+2024,les Roquetes,1360
+2015,les Tres Torres,709
+2016,les Tres Torres,612
+2017,les Tres Torres,702
+2018,les Tres Torres,728
+2019,les Tres Torres,687
+2020,les Tres Torres,495
+2021,les Tres Torres,661
+2022,les Tres Torres,884
+2023,les Tres Torres,739
+2024,les Tres Torres,799

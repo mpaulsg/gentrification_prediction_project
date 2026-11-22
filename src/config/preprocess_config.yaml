@@ -1,10 +1,10 @@
-input_file: data/raw/factors_comercials/teatres
-output_file: data/processed/factors_comercials/Espectadors_teatre.csv
+input_file: data/raw/factors_socials/poblacio
+output_file: data/processed/factors_socials/Poblacio.csv
 dictionary_file: data/raw/factors_comercials/Dict_dimensions.csv
 
 # Options: basic/public_works/parks/vehicles/age/studies/income
-#          restaurants/teatres/esport/hotels
-processor: teatres
+#          restaurants/teatres/esport/hotels/immigracio/poblacio
+processor: poblacio
 
 csv:
   separator: ","
