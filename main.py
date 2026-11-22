@@ -2,20 +2,7 @@ from pathlib import Path
 import yaml
 import pandas as pd
 
-from src.data_loading.load_csv import load_csv
-from src.data_process.obra_publica_processing import process_obres_espai_public
-from src.data_process.parcs_jardins_preprocessing import process_parcs_jardins
-from src.data_process.vehicle_preprocessing import vehicle_processing
-from src.data_process.edat_preprocessing import age_processing
-from src.data_process.estudis_preprocessing import education_processing
-from src.data_process.renda_llar_preprocessing import income_processing
-from src.data_process.restaurants_preprocessing import restaurants_processing
-from src.data_process.teatre_preprocessing import theatre_spectators_processing
-from src.data_process.instalacions_esport_preprocessing import sports_facilities_processing
-from src.data_process.hotels_preprocessing import hotels_processing
-from src.data_process.immigracio_preprocessing import immigration_processing
-from src.data_process.poblacio_preprocessing import population_processing
-from src.data_process import utils
+import src.data_process as data_process
 
 # FUNCIONS INICIALS
 def load_config(config_file):
@@ -107,16 +94,16 @@ PROCESSORS  = {
     "public_works": public_works_processing,
     "parks": parks_processing,
     "basic": basic_preprocessing,
-    "vehicles": vehicle_processing,
-    "age": age_processing,
-    "studies": education_processing,
-    "income": income_processing,
-    "restaurants": restaurants_processing,
-    "teatres": theatre_spectators_processing,
-    "esport": sports_facilities_processing,
-    "hotels": hotels_processing,
-    "immigracio": immigration_processing,
-    "poblacio": population_processing
+    "vehicles": data_process.vehicle_processing,
+    "age": data_process.age_processing,
+    "studies": data_process.education_processing,
+    "income": data_process.income_processing,
+    "restaurants": data_process.restaurants_processing,
+    "teatres": data_process.theatre_spectators_processing,
+    "esport": data_process.theatre_spectators_processing,
+    "hotels": data_process.hotels_processing,
+    "immigracio": data_process.immigration_processing,
+    "poblacio": data_process.population_processing
 }
 
 
