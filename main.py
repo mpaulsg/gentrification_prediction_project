@@ -3,6 +3,7 @@ import yaml
 import pandas as pd
 
 import src.data_process as data_process
+import src.data_loading as data_loading
 
 # FUNCIONS INICIALS
 def load_config(config_file):
@@ -30,11 +31,11 @@ def basic_preprocessing(config):
                             "separator": ";",
                             "encoding": "cp1252"}}
     
-    raw_df = load_csv(input_config)
+    raw_df = data_loading.load_csv(input_config)
 
-    raw_df = utils.remove_nulls(raw_df)
-    raw_df = utils.wide_to_long(raw_df)
-    raw_df = utils.keep_only_neighborhoods(raw_df)
+    raw_df = data_process.utils.remove_nulls(raw_df)
+    raw_df = data_process.utils.wide_to_long(raw_df)
+    raw_df = data_process.utils.keep_only_neighborhoods(raw_df)
 
     return raw_df, {}
 
@@ -52,15 +53,15 @@ def public_works_processing(config):
                             "separator": ",",
                             "encoding": "utf-8-sig"}}
 
-    raw_df = load_csv(input_config)
+    raw_df = data_loading.load_csv(input_config)
 
-    clean_df = process_obres_espai_public(raw_df)
+    clean_df = data_process.process_obres_espai_public(raw_df)
     TP_mask = (raw_df["tipusobra"]
                 .astype("string")
                 .str.strip()
                 .eq("Infraestructura del transport")
                 .fillna(False))
-    infrastructure_tp_df = process_obres_espai_public(raw_df.loc[TP_mask])
+    infrastructure_tp_df = data_process.process_obres_espai_public(raw_df.loc[TP_mask])
 
     infrastructure_tp_df = infrastructure_tp_df.rename(
             columns={"Valor": "Nombre_obres_TP"})
@@ -84,8 +85,8 @@ def parks_processing(config):
                             "separator": ",",
                             "encoding": "utf-16",}}
 
-    raw_df = load_csv(input_config)
-    clean_df = process_parcs_jardins(raw_df)
+    raw_df = data_loading.load_csv(input_config)
+    clean_df = data_process.process_parcs_jardins(raw_df)
 
     return clean_df, {}
 
@@ -103,7 +104,8 @@ PROCESSORS  = {
     "esport": data_process.theatre_spectators_processing,
     "hotels": data_process.hotels_processing,
     "immigracio": data_process.immigration_processing,
-    "poblacio": data_process.population_processing
+    "poblacio": data_process.population_processing,
+    "generate_master_dataset": data_process.generate_master_dataset
 }
 
 

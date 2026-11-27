@@ -122,24 +122,69 @@ def wide_to_long(df: pd.DataFrame, barri_column: str = "Barri") -> pd.DataFrame:
     df = df.drop_duplicates().reset_index(drop=True)
     return df
 
+
+def normalize_neighborhood_name(name: str) -> str:
+    """
+    Normalitza variants dels noms dels barris.
+    """
+
+    if pd.isna(name):
+        return name
+
+    name = str(name).strip()
+
+    replacements = {
+        # Normalització barri "el Poble-Sec"
+        "el Poble Sec": "el Poble-Sec",
+        "el Poble Sec - AEI Parc Montjuïc": "el Poble-Sec",
+        "Parc de Montjuïc": "el Poble-Sec",
+
+        # Normalització barri "la Marina del Prat Vermell"
+        "la Marina del Prat Vermell - AEI Zona Franca":
+            "la Marina del Prat Vermell",
+        "Zona Franca":
+            "la Marina del Prat Vermell",
+
+        #Normalització barri "el Camp de l'Arpa del Clot"
+        "Camp de l'Arpa del Clot":
+            "el Camp de l'Arpa del Clot",
+
+        # Normalització barri "la Vila de Gràcia"
+        "Vila de Gràcia":
+            "la Vila de Gràcia",
+
+        # Normalització barri "el Barri Gòtic"
+        "el Gòtic":
+            "el Barri Gòtic",
+
+        # Normalització barri "el Putxet i el Farró"
+        "el Putget i Farró":
+            "el Putxet i el Farró",
+    }
+
+    if name in replacements:
+        name = replacements[name]
+
+    return name
+
+
 def keep_only_neighborhoods(
     df: pd.DataFrame,
     barri_column: str = "Barri",
-    neighborhoods_file: str = "src/config/Barris_Districtes_Barcelona.csv"
-    ) -> pd.DataFrame:
-    """
-    Elimina totes les files que no corresponen a un barri de Barcelona.
-    """
+    neighborhoods_file: str = "src/config/Barris_Districtes_Barcelona.csv") -> pd.DataFrame:
 
-    neighborhoods_df = pd.read_csv(neighborhoods_file, encoding="utf-8")
+    neighborhoods_df = pd.read_csv(
+        neighborhoods_file,
+        encoding="utf-8"
+    )
 
-    # Creem un set amb els noms del barris
-    valid_neighborhoods = set(neighborhoods_df["nom_barri"].astype(str)
-                              .str.strip())
+    valid_neighborhoods = set(
+        neighborhoods_df["nom_barri"]
+        .apply(normalize_neighborhood_name)
+    )
 
-    # Filtrem en DF per eliminar les files que tinguin un valor de "Barri"
-    # que no aparegui a la llista
-    filtered_df = df[df[barri_column].astype(str).str.strip()
-                     .isin(valid_neighborhoods)].copy()
+    filtered_df = df[
+        df[barri_column].isin(valid_neighborhoods)
+    ].copy()
 
     return filtered_df

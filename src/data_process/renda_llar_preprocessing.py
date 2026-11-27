@@ -72,7 +72,7 @@ def income_processing(config: dict) -> pd.DataFrame:
 
     # Arreglem els noms de les columnes
     result = result.rename(columns={"Nom_Barri": "Barri"})[
-        ["Barri", "Any", "Renda_familiar_mitjana"]]
+        ["Barri", "Any", "Renda_mitjana"]]
 
     result = (result.sort_values(["Barri", "Any"]).reset_index(drop=True))
 
