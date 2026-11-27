@@ -48,6 +48,21 @@ def validate_duplicates(df, file):
     return df
 
 
+def cap_outliers(df):
+
+    numeric_columns = df.select_dtypes(include=["number"]).columns
+
+    for col in numeric_columns:
+        if col == "Any":
+            continue
+
+        lower = df[col].quantile(0.01)
+        upper = df[col].quantile(0.99)
+        df[col] = df[col].clip(lower=lower, upper=upper)
+
+    return df
+
+
 def load_and_merge_datasets(processed_dir):
     """
     Carrega, valida i fusiona tots els datasets preprocessats en un únic
@@ -135,12 +150,18 @@ def generate_master_dataset(preprocess_config):
     master_df["Any_datetime"] = pd.to_datetime(master_df["Any"]
                                                .astype(str) + "-01-01")
 
+    # Apliquem winsorització al percentil 1%-99%
+    master_df = cap_outliers(master_df)
+
+    # Limitem a dos valors decimals
+    numeric_columns = master_df.select_dtypes(include=["float64", "float32"]).columns
+    master_df[numeric_columns] = master_df[numeric_columns].round(2)
+
     master_df = (master_df.sort_values(["Barri", "Any"]).reset_index(drop=True))
+
+    
 
     print(f"Dataset final: {len(master_df)} files, "
           f"{len(master_df.columns)} columnes")
 
-    print("\nPercentatge de valors nuls:")
-    print((master_df.isna().mean() * 100).sort_values(ascending=False)
-                    .round(2))
     return master_df, {}
